@@ -3,6 +3,7 @@
    three type sizes, a 4 px grid). Mobile first, one job per screen. */
 :root {
   --paper: #F7F5F0; --ink: #1A1A1A; --muted: #5F5F5F; --rule: #D9D6D0; --soft: #F3EEE6; --data: #35506B; --accent: #B0421A;
+  --card: #FFFFFF; /* a card surface on paper */
   --small: 13px; --body: 16px; --display: 28px;
   --font: "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Helvetica, sans-serif;
   --measure: 70ch;
@@ -36,10 +37,10 @@ button.link { border: 0; padding: 4px; min-height: 0; color: var(--accent); back
 
 /* Names screen */
 .names-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 20px; }
-.names-grid button { min-height: 56px; font-size: var(--body); background: #fff; }
+.names-grid button { min-height: 56px; font-size: var(--body); background: var(--card); }
 .names-grid button:active { background: var(--soft); }
 .how-it-works { margin-top: 24px; border-top: 1px solid var(--rule); padding-top: 16px; }
-.how-it-works summary { cursor: pointer; font-size: var(--small); color: var(--muted); }
+.how-it-works summary { cursor: pointer; font-size: var(--small); color: var(--muted); min-height: 44px; display: flex; align-items: center; }
 .how-it-works p { margin-top: 12px; margin-bottom: 0; }
 .how-it-works a { color: var(--accent); }
 
@@ -50,7 +51,7 @@ button.link { border: 0; padding: 4px; min-height: 0; color: var(--accent); back
 .progress .dot.current { background: var(--accent); }
 .stem { font-size: var(--body); line-height: 1.35; margin-bottom: 20px; font-weight: 600; }
 .answers { display: grid; gap: 12px; }
-.answers button { text-align: left; background: #fff; padding: 14px 16px; line-height: 1.4; }
+.answers button { text-align: left; background: var(--card); padding: 14px 16px; line-height: 1.4; }
 .answers button:active { background: var(--soft); }
 .quiz-back { margin-top: 20px; }
 
