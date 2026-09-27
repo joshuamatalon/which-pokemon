@@ -1,0 +1,122 @@
+{
+ "carolyn": {
+  "display_name": "Carolyn",
+  "name": "You're a lot like Suicune.",
+  "genus": "Aurora Pok\u00e9mon",
+  "line_a": "You said you'd walk over and help it find its way home, and you'd take a breath and walk at your normal pace.",
+  "lines_b": [
+   "Suicune embodies the compassion of a pure spring and purifies water wherever it runs.",
+   "It runs across the land with real gracefulness, staying steady no matter how far it travels.",
+   "Legend says north winds rise whenever Suicune appears, tying it to long-held stories of the wind itself."
+  ],
+  "line_c": "Your answers lean most toward Planner. You like a plan, and you finish what you start.",
+  "art_ok": true,
+  "ani_ok": true,
+  "art_src": "img/art/245.png",
+  "ani_src": "img/ani/suicune.gif",
+  "console_errors": [],
+  "shot1": "C:\\Users\\joshu\\Pokemon\\which-pokemon\\spec\\panel-shots\\carolyn-result-1.png",
+  "shot2": "C:\\Users\\joshu\\Pokemon\\which-pokemon\\spec\\panel-shots\\carolyn-result-2.png",
+  "url": "https://joshuamatalon.github.io/which-pokemon/#t=carolyn&a=313303210113111"
+ },
+ "milo": {
+  "display_name": "Milo",
+  "name": "You're a lot like Meloetta.",
+  "genus": "Melody Pok\u00e9mon",
+  "line_a": "You said you'd look up how something works and read, and you'd introduce yourself to new people right away.",
+  "lines_b": [
+   "Meloetta carries the genus Melody Pok\u00e9mon, and its Pok\u00e9dex entries credit its songs with inspiring many well-known melodies.",
+   "Its melodies are sung with a method built to reach and move an entire audience at once, per its Pok\u00e9dex entries.",
+   "Meloetta's melodies can shape the feelings of any Pok\u00e9mon that hears them, a gentle kind of influence named directly in its Pok\u00e9dex entries."
+  ],
+  "line_c": "Your answers lean most toward Curious. You like new ideas and want to know how things work.",
+  "art_ok": true,
+  "ani_ok": true,
+  "art_src": "img/art/648.png",
+  "ani_src": "img/ani/meloetta.gif",
+  "console_errors": [],
+  "shot1": "C:\\Users\\joshu\\Pokemon\\which-pokemon\\spec\\panel-shots\\milo-result-1.png",
+  "shot2": "C:\\Users\\joshu\\Pokemon\\which-pokemon\\spec\\panel-shots\\milo-result-2.png",
+  "url": "https://joshuamatalon.github.io/which-pokemon/#t=milo&a=022031331021002"
+ },
+ "andrew": {
+  "display_name": "Andrew",
+  "name": "You're a lot like Rookidee.",
+  "genus": "Tiny Bird Pok\u00e9mon",
+  "line_a": "You said you'd figure an adult nearby would handle it, and you'd introduce yourself to new people right away.",
+  "lines_b": [
+   "Rookidee will bravely challenge any opponent, no matter how much bigger or stronger they are.",
+   "Rookidee grows stronger from every battle, since even a defeat increases its strength a bit.",
+   "Rookidee takes advantage of the smallest opportunity to slip past a much larger opponent's guard."
+  ],
+  "line_c": "Your answers lean most toward Outgoing. You get energy from people and like being in the mix.",
+  "art_ok": true,
+  "ani_ok": true,
+  "art_src": "img/art/821.png",
+  "ani_src": "img/ani/rookidee.gif",
+  "console_errors": [],
+  "shot1": "C:\\Users\\joshu\\Pokemon\\which-pokemon\\spec\\panel-shots\\andrew-result-1.png",
+  "shot2": "C:\\Users\\joshu\\Pokemon\\which-pokemon\\spec\\panel-shots\\andrew-result-2.png",
+  "url": "https://joshuamatalon.github.io/which-pokemon/#t=andrew&a=232202133102021"
+ },
+ "alex": {
+  "display_name": "Alex",
+  "name": "You're a lot like Espeon.",
+  "genus": "Sun Pok\u00e9mon",
+  "line_a": "You said you'd look up how something works and read, and you'd walk over and help it find its way home.",
+  "lines_b": [
+   "Espeon reads shifts in the air to predict things such as the weather or a foe's next move.",
+   "It is said to be extremely loyal to any trainer it considers worthy, a bond it takes seriously.",
+   "Its fur is sensitive enough to pick up on the smallest shifts in the air around it."
+  ],
+  "line_c": "Your answers lean most toward Curious. You like new ideas and want to know how things work.",
+  "art_ok": true,
+  "ani_ok": true,
+  "art_src": "img/art/196.png",
+  "ani_src": "img/ani/espeon.gif",
+  "console_errors": [],
+  "shot1": "C:\\Users\\joshu\\Pokemon\\which-pokemon\\spec\\panel-shots\\alex-result-1.png",
+  "shot2": "C:\\Users\\joshu\\Pokemon\\which-pokemon\\spec\\panel-shots\\alex-result-2.png",
+  "url": "https://joshuamatalon.github.io/which-pokemon/#t=alex&a=032331130022012"
+ },
+ "guest": {
+  "display_name": "Someone else",
+  "name": "You're a lot like Braixen.",
+  "genus": "Fox Pok\u00e9mon",
+  "line_a": "You said you'd feel a jolt and take a moment to reset, and you'd chat with a few people you meet.",
+  "lines_b": [
+   "Braixen launches straight into battle once the twig in its tail catches fire, an active, engaged style its Pok\u00e9dex entry describes directly.",
+   "Braixen shares the genus Fox Pok\u00e9mon with its evolutionary line, and Pok\u00e9dex entries describe it lighting its own signal fire with a flick of its tail.",
+   "The flame from Braixen's tail doubles as a signal to its allies, a cooperative use of its own fire named in its Pok\u00e9dex entry."
+  ],
+  "line_c": "Your answers lean most toward Curious. You like new ideas and want to know how things work.",
+  "art_ok": true,
+  "ani_ok": true,
+  "art_src": "img/art/654.png",
+  "ani_src": "img/ani/braixen.gif",
+  "console_errors": [],
+  "shot1": "C:\\Users\\joshu\\Pokemon\\which-pokemon\\spec\\panel-shots\\guest-result-1.png",
+  "shot2": "C:\\Users\\joshu\\Pokemon\\which-pokemon\\spec\\panel-shots\\guest-result-2.png",
+  "url": "https://joshuamatalon.github.io/which-pokemon/#t=guest&a=200113111200230"
+ },
+ "josh_first": {
+  "display_name": "Josh",
+  "name": "You're a lot like Sprigatito.",
+  "genus": "Grass Cat Pok\u00e9mon",
+  "line_a": "You said you'd go for a run or play something active, and you'd listen to their idea and blend your plans.",
+  "lines_b": [
+   "Sprigatito's sweet scent grows stronger in the sun and mesmerizes anyone standing nearby.",
+   "In Pok\u00e9mon Horizons it became Liko's first partner and has stayed close by her side since.",
+   "As a Grass Cat Pok\u00e9mon it washes its face often to keep its plant-like fur from drying out."
+  ],
+  "line_c": "Your answers lean most toward Outgoing. You get energy from people and like being in the mix.",
+  "art_ok": true,
+  "ani_ok": true,
+  "art_src": "img/art/906.png",
+  "ani_src": "img/ani/sprigatito.gif",
+  "console_errors": [],
+  "shot1": "C:\\Users\\joshu\\Pokemon\\which-pokemon\\spec\\panel-shots\\josh_first-result-1.png",
+  "shot2": "C:\\Users\\joshu\\Pokemon\\which-pokemon\\spec\\panel-shots\\josh_first-result-2.png",
+  "url": "https://joshuamatalon.github.io/which-pokemon/#t=josh&a=000000000000000"
+ }
+}

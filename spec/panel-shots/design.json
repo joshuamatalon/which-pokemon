@@ -1,0 +1,179 @@
+{
+ "how_link": "https://github.com/joshuamatalon/which-pokemon/blob/main/spec/RESEARCH-PERSONALITY.md",
+ "how_text": "The quiz is built on the Big Five, the trait model most personality research uses. The five traits here are Imagination, Planning, Social energy, Getting along and Steadiness. There are 15 questions. Each trait gets three of them. Your answers place you on all five traits, and your Pok\u00e9mon is the one whose trait profile sits nearest to yours. It is a game drawn from that research and makes no claim to measure you. The sources are in the research note.",
+ "how_text_words": 81,
+ "names_styles": {
+  "sizes": [
+   "16px",
+   "13px",
+   "28px"
+  ],
+  "colors": [
+   "rgb(26, 26, 26)",
+   "rgb(95, 95, 95)",
+   "rgb(176, 66, 26)"
+  ],
+  "bgcolors": [
+   "rgb(255, 255, 255)"
+  ],
+  "fonts": [
+   "\"Segoe UI\", system-ui, -apple-system, \"Helvetica Neue\", Helvetica, sans-serif"
+  ],
+  "targets": [
+   {
+    "tag": "BUTTON",
+    "w": 169,
+    "h": 56,
+    "text": "Alex"
+   },
+   {
+    "tag": "BUTTON",
+    "w": 169,
+    "h": 56,
+    "text": "Melissa"
+   },
+   {
+    "tag": "BUTTON",
+    "w": 169,
+    "h": 56,
+    "text": "Josh"
+   },
+   {
+    "tag": "BUTTON",
+    "w": 169,
+    "h": 56,
+    "text": "Carolyn"
+   },
+   {
+    "tag": "BUTTON",
+    "w": 169,
+    "h": 56,
+    "text": "John"
+   },
+   {
+    "tag": "BUTTON",
+    "w": 169,
+    "h": 56,
+    "text": "Andrew"
+   },
+   {
+    "tag": "BUTTON",
+    "w": 169,
+    "h": 56,
+    "text": "Oliver"
+   },
+   {
+    "tag": "BUTTON",
+    "w": 169,
+    "h": 56,
+    "text": "Todd"
+   },
+   {
+    "tag": "BUTTON",
+    "w": 169,
+    "h": 56,
+    "text": "Milo"
+   },
+   {
+    "tag": "BUTTON",
+    "w": 169,
+    "h": 56,
+    "text": "Someone else"
+   },
+   {
+    "tag": "SUMMARY",
+    "w": 350,
+    "h": 19,
+    "text": "How it works"
+   },
+   {
+    "tag": "A",
+    "w": 100,
+    "h": 17,
+    "text": "the research note"
+   }
+  ],
+  "overflow": 0
+ },
+ "quiz_styles": {
+  "sizes": [
+   "16px",
+   "13px"
+  ],
+  "colors": [
+   "rgb(26, 26, 26)",
+   "rgb(95, 95, 95)"
+  ],
+  "bgcolors": [
+   "rgb(255, 255, 255)"
+  ],
+  "fonts": [
+   "\"Segoe UI\", system-ui, -apple-system, \"Helvetica Neue\", Helvetica, sans-serif"
+  ],
+  "targets": [
+   {
+    "tag": "BUTTON",
+    "w": 350,
+    "h": 52,
+    "text": "I look up how something works "
+   },
+   {
+    "tag": "BUTTON",
+    "w": 350,
+    "h": 52,
+    "text": "I pick a favorite thing and st"
+   },
+   {
+    "tag": "BUTTON",
+    "w": 350,
+    "h": 52,
+    "text": "I try a new small thing for fu"
+   },
+   {
+    "tag": "BUTTON",
+    "w": 350,
+    "h": 52,
+    "text": "I watch something easy and fam"
+   },
+   {
+    "tag": "BUTTON",
+    "w": 67,
+    "h": 49,
+    "text": "Back"
+   }
+  ],
+  "overflow": 0
+ },
+ "result_styles": {
+  "sizes": [
+   "16px",
+   "13px"
+  ],
+  "colors": [
+   "rgb(26, 26, 26)",
+   "rgb(95, 95, 95)",
+   "rgb(247, 245, 240)"
+  ],
+  "bgcolors": [
+   "rgb(26, 26, 26)"
+  ],
+  "fonts": [
+   "\"Segoe UI\", system-ui, -apple-system, \"Helvetica Neue\", Helvetica, sans-serif"
+  ],
+  "targets": [
+   {
+    "tag": "BUTTON",
+    "w": 350,
+    "h": 49,
+    "text": "Copy link"
+   },
+   {
+    "tag": "BUTTON",
+    "w": 350,
+    "h": 49,
+    "text": "Take it again"
+   }
+  ],
+  "overflow": 0
+ }
+}
