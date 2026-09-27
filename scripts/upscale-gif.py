@@ -1,3 +1,6 @@
+# REJECTED 2026-09-27: on these sprites RealESRGAN (photo and anime models alike) erased one-pixel fur marks and
+# redrew the tail star and mouth, so the result read as a different drawing. scripts/hqx-gif.py is the one in use.
+# Kept for the record.
 # Upscale a Showdown animated sprite with RealESRGAN on the GPU, frame by frame, and write a clean GIF on
 # the quiz's paper background. Colour and alpha are upscaled as two separate passes, then composited
 # onto a flat background, so the background stays clean and the edges come from the upscaled mask.
