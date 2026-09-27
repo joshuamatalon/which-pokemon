@@ -1,0 +1,31 @@
+=== which-pokemon check.py ===
+root=C:\Users\joshu\Pokemon\which-pokemon  base-url=https://joshuamatalon.github.io/which-pokemon/  seed=20260927  python=3.14.6  numpy=2.5.0
+node=C:\Users\joshu\scoop\apps\nodejs-lts\current\node.EXE (v24.18.0)
+loaded data/corpus.json
+data/pool.json: missing: C:\Users\joshu\Pokemon\which-pokemon\data\pool.json
+loaded data/questions.json
+loaded data/lexicon.json
+
+A1   PASS   ids 1..1025 complete; field/type schema OK for 1025 species
+A2   PASS   0/1025 species tag() mismatch. REPORT: 81.1% of species have >=1 lexicon match
+A3   PASS   seed coverage + no-duplicate check: OK
+A4   SKIP   data/pool.json missing
+A5   SKIP   data/pool.json missing
+A6   PASS   15 items checked
+A7   PASS   takers list equals Q7 table exactly
+A8   SKIP   data/pool.json missing
+A9   SKIP   no usable pool profiles yet (data/pool.json missing or not all profiles have a vector/lean/stage)
+A10  SKIP   no pool vectors available
+A11  SKIP   no pool profiles available
+A12  SKIP   no pool profiles available
+A13  PASS   unit-case py=OK js=OK (matches python: 0.24->2, 0.26->1); questions-null-lean=OK check-const-null-lean=OK; stub-vs-real(20000x10)=SKIPPED, no real pool profiles available; web: 1 lean-mentioning line(s) under web/, 0 flagged; index.html gender-word scan: clean; storage-write heuristic scan: 0 hit(s)
+A14  SKIP   no pool profiles available
+A15  SKIP   no pool profiles available
+A16  PASS   prose_check.py over 135 strings + index.html: em-dashes/banned/neg-parallel must be 0; how-it-works HEURISTIC extract: 82 words
+A17  SKIP   no pool profiles available
+A18  SKIP   --skip-a18 set
+A19  PASS   self-contained calibration: clean pair -> PASS, pair with a duplicated why sentence -> FAIL (must be PASS then FAIL for this check to count as calibrated)
+A20  PASS   149 pool.csv rows, 0 pool.json profiles checked against 142 screened-out ids
+
+SUMMARY: 9 PASS, 0 FAIL (0 of them MUST), 11 SKIP, 0 REPORT-only
+SKIPPED (not evidence of failure, evidence of missing input): ['A4', 'A5', 'A8', 'A9', 'A10', 'A11', 'A12', 'A14', 'A15', 'A17', 'A18']

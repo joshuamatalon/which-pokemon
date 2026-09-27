@@ -1,0 +1,594 @@
+{
+ "version": 1,
+ "traits": {
+  "O": {
+   "name": "Imagination",
+   "high": "Curious",
+   "low": "Down-to-earth",
+   "high_line": "You like new ideas and want to know how things work.",
+   "low_line": "You trust what works and keep your feet on the ground."
+  },
+  "C": {
+   "name": "Planning",
+   "high": "Planner",
+   "low": "Go-with-the-flow",
+   "high_line": "You like a plan, and you finish what you start.",
+   "low_line": "You adapt fast and enjoy whatever comes up."
+  },
+  "E": {
+   "name": "Social energy",
+   "high": "Outgoing",
+   "low": "Low-key",
+   "high_line": "You get energy from people and like being in the mix.",
+   "low_line": "You recharge in calm places and notice what others miss."
+  },
+  "A": {
+   "name": "Getting along",
+   "high": "Team player",
+   "low": "Strong-willed",
+   "high_line": "You look out for others and help a group get along.",
+   "low_line": "You say what you think and stand up for it."
+  },
+  "S": {
+   "name": "Steadiness",
+   "high": "Steady",
+   "low": "Sensitive",
+   "high_line": "You stay calm when plans change.",
+   "low_line": "You feel things deeply and notice changes early."
+  }
+ },
+ "takers": [
+  {
+   "key": "alex",
+   "name": "Alex",
+   "lean": null,
+   "stage_target": "evolved",
+   "stage_weight": 0.08
+  },
+  {
+   "key": "melissa",
+   "name": "Melissa",
+   "lean": null,
+   "stage_target": "evolved",
+   "stage_weight": 0.08
+  },
+  {
+   "key": "josh",
+   "name": "Josh",
+   "lean": null,
+   "stage_target": "evolved",
+   "stage_weight": 0.08
+  },
+  {
+   "key": "carolyn",
+   "name": "Carolyn",
+   "lean": null,
+   "stage_target": "mature",
+   "stage_weight": 0.15
+  },
+  {
+   "key": "john",
+   "name": "John",
+   "lean": null,
+   "stage_target": "mature",
+   "stage_weight": 0.15
+  },
+  {
+   "key": "andrew",
+   "name": "Andrew",
+   "lean": null,
+   "stage_target": "evolved",
+   "stage_weight": 0.08
+  },
+  {
+   "key": "oliver",
+   "name": "Oliver",
+   "lean": null,
+   "stage_target": "young",
+   "stage_weight": 0.08
+  },
+  {
+   "key": "todd",
+   "name": "Todd",
+   "lean": null,
+   "stage_target": "young",
+   "stage_weight": 0.15
+  },
+  {
+   "key": "milo",
+   "name": "Milo",
+   "lean": null,
+   "stage_target": "young",
+   "stage_weight": 0.15
+  },
+  {
+   "key": "guest",
+   "name": "Someone else",
+   "lean": null,
+   "stage_target": "evolved",
+   "stage_weight": 0
+  }
+ ],
+ "items": [
+  {
+   "id": "q01",
+   "trait": "O",
+   "facet": "Intellectual Curiosity",
+   "flavour": false,
+   "source_instrument": "IPIP",
+   "source_item": "Fixture placeholder IPIP source item.",
+   "source_key": "+",
+   "stem": "You have a free afternoon. What do you do?",
+   "answers": [
+    {
+     "text": "I try a brand new idea.",
+     "level": 3,
+     "echo": "you'd try a brand new idea"
+    },
+    {
+     "text": "I pick something a little familiar.",
+     "level": -1,
+     "echo": "you'd pick something a little familiar"
+    },
+    {
+     "text": "I pick a plan that always works.",
+     "level": -3,
+     "echo": "you'd pick a plan that always works"
+    },
+    {
+     "text": "I mix in something new today.",
+     "level": 1,
+     "echo": "you'd mix in something new today"
+    }
+   ]
+  },
+  {
+   "id": "q02",
+   "trait": "C",
+   "facet": "Organization",
+   "flavour": false,
+   "source_instrument": "IPIP",
+   "source_item": "Fixture placeholder IPIP source item.",
+   "source_key": "+",
+   "stem": "You are getting ready for a trip. What do you do?",
+   "answers": [
+    {
+     "text": "I pack a little and wing it.",
+     "level": -1,
+     "echo": "you'd pack a little and wing it"
+    },
+    {
+     "text": "I make a full list first.",
+     "level": 3,
+     "echo": "you'd make a full list first"
+    },
+    {
+     "text": "I jot a quick short list.",
+     "level": 1,
+     "echo": "you'd jot a quick short list"
+    },
+    {
+     "text": "I just grab what I need.",
+     "level": -3,
+     "echo": "you'd just grab what I need"
+    }
+   ]
+  },
+  {
+   "id": "q03",
+   "trait": "E",
+   "facet": "Sociability",
+   "flavour": false,
+   "source_instrument": "IPIP",
+   "source_item": "Fixture placeholder IPIP source item.",
+   "source_key": "+",
+   "stem": "A friend invites you to a party. What do you do?",
+   "answers": [
+    {
+     "text": "I find a quiet spot alone.",
+     "level": -3,
+     "echo": "you'd find a quiet spot alone"
+    },
+    {
+     "text": "I join in with a few people.",
+     "level": 1,
+     "echo": "you'd join in with a few people"
+    },
+    {
+     "text": "I invite everyone I can find.",
+     "level": 3,
+     "echo": "you'd invite everyone I can find"
+    },
+    {
+     "text": "I stay near people I know well.",
+     "level": -1,
+     "echo": "you'd stay near people I know well"
+    }
+   ]
+  },
+  {
+   "id": "q04",
+   "trait": "A",
+   "facet": "Compassion",
+   "flavour": false,
+   "source_instrument": "IPIP",
+   "source_item": "Fixture placeholder IPIP source item.",
+   "source_key": "+",
+   "stem": "Your group needs help with a project. What do you do?",
+   "answers": [
+    {
+     "text": "I offer to help where I can.",
+     "level": 1,
+     "echo": "you'd offer to help where I can"
+    },
+    {
+     "text": "I say exactly what I think.",
+     "level": -3,
+     "echo": "you'd say exactly what I think"
+    },
+    {
+     "text": "I share my own view first.",
+     "level": -1,
+     "echo": "you'd share my own view first"
+    },
+    {
+     "text": "I put the group first every time.",
+     "level": 3,
+     "echo": "you'd put the group first every time"
+    }
+   ]
+  },
+  {
+   "id": "q05",
+   "trait": "S",
+   "facet": "Anxiety",
+   "flavour": false,
+   "source_instrument": "IPIP",
+   "source_item": "Fixture placeholder IPIP source item.",
+   "source_key": "+",
+   "stem": "Plans change at the last minute. What do you do?",
+   "answers": [
+    {
+     "text": "I stay calm through it all.",
+     "level": 3,
+     "echo": "you'd stay calm through it all"
+    },
+    {
+     "text": "I feel it but keep moving.",
+     "level": -1,
+     "echo": "you'd feel it but keep moving"
+    },
+    {
+     "text": "I feel it right away, strongly.",
+     "level": -3,
+     "echo": "you'd feel it right away, strongly"
+    },
+    {
+     "text": "I take a breath and carry on.",
+     "level": 1,
+     "echo": "you'd take a breath and carry on"
+    }
+   ]
+  },
+  {
+   "id": "q06",
+   "trait": "O",
+   "facet": "Aesthetic Sensitivity",
+   "flavour": false,
+   "source_instrument": "IPIP",
+   "source_item": "Fixture placeholder IPIP source item.",
+   "source_key": "+",
+   "stem": "You have a free afternoon. What do you do?",
+   "answers": [
+    {
+     "text": "I pick something a little familiar.",
+     "level": -1,
+     "echo": "you'd pick something a little familiar"
+    },
+    {
+     "text": "I try a brand new idea.",
+     "level": 3,
+     "echo": "you'd try a brand new idea"
+    },
+    {
+     "text": "I mix in something new today.",
+     "level": 1,
+     "echo": "you'd mix in something new today"
+    },
+    {
+     "text": "I pick a plan that always works.",
+     "level": -3,
+     "echo": "you'd pick a plan that always works"
+    }
+   ]
+  },
+  {
+   "id": "q07",
+   "trait": "C",
+   "facet": "Productiveness",
+   "flavour": false,
+   "source_instrument": "IPIP",
+   "source_item": "Fixture placeholder IPIP source item.",
+   "source_key": "+",
+   "stem": "You are getting ready for a trip. What do you do?",
+   "answers": [
+    {
+     "text": "I just grab what I need.",
+     "level": -3,
+     "echo": "you'd just grab what I need"
+    },
+    {
+     "text": "I jot a quick short list.",
+     "level": 1,
+     "echo": "you'd jot a quick short list"
+    },
+    {
+     "text": "I make a full list first.",
+     "level": 3,
+     "echo": "you'd make a full list first"
+    },
+    {
+     "text": "I pack a little and wing it.",
+     "level": -1,
+     "echo": "you'd pack a little and wing it"
+    }
+   ]
+  },
+  {
+   "id": "q08",
+   "trait": "E",
+   "facet": "Assertiveness",
+   "flavour": false,
+   "source_instrument": "IPIP",
+   "source_item": "Fixture placeholder IPIP source item.",
+   "source_key": "+",
+   "stem": "A friend invites you to a party. What do you do?",
+   "answers": [
+    {
+     "text": "I join in with a few people.",
+     "level": 1,
+     "echo": "you'd join in with a few people"
+    },
+    {
+     "text": "I find a quiet spot alone.",
+     "level": -3,
+     "echo": "you'd find a quiet spot alone"
+    },
+    {
+     "text": "I stay near people I know well.",
+     "level": -1,
+     "echo": "you'd stay near people I know well"
+    },
+    {
+     "text": "I invite everyone I can find.",
+     "level": 3,
+     "echo": "you'd invite everyone I can find"
+    }
+   ]
+  },
+  {
+   "id": "q09",
+   "trait": "A",
+   "facet": "Respectfulness",
+   "flavour": false,
+   "source_instrument": "IPIP",
+   "source_item": "Fixture placeholder IPIP source item.",
+   "source_key": "+",
+   "stem": "Your group needs help with a project. What do you do?",
+   "answers": [
+    {
+     "text": "I put the group first every time.",
+     "level": 3,
+     "echo": "you'd put the group first every time"
+    },
+    {
+     "text": "I share my own view first.",
+     "level": -1,
+     "echo": "you'd share my own view first"
+    },
+    {
+     "text": "I say exactly what I think.",
+     "level": -3,
+     "echo": "you'd say exactly what I think"
+    },
+    {
+     "text": "I offer to help where I can.",
+     "level": 1,
+     "echo": "you'd offer to help where I can"
+    }
+   ]
+  },
+  {
+   "id": "q10",
+   "trait": "S",
+   "facet": "Emotional Volatility",
+   "flavour": false,
+   "source_instrument": "IPIP",
+   "source_item": "Fixture placeholder IPIP source item.",
+   "source_key": "+",
+   "stem": "Plans change at the last minute. What do you do?",
+   "answers": [
+    {
+     "text": "I feel it but keep moving.",
+     "level": -1,
+     "echo": "you'd feel it but keep moving"
+    },
+    {
+     "text": "I stay calm through it all.",
+     "level": 3,
+     "echo": "you'd stay calm through it all"
+    },
+    {
+     "text": "I take a breath and carry on.",
+     "level": 1,
+     "echo": "you'd take a breath and carry on"
+    },
+    {
+     "text": "I feel it right away, strongly.",
+     "level": -3,
+     "echo": "you'd feel it right away, strongly"
+    }
+   ]
+  },
+  {
+   "id": "q11",
+   "trait": "O",
+   "facet": "Creative Imagination",
+   "flavour": false,
+   "source_instrument": "IPIP",
+   "source_item": "Fixture placeholder IPIP source item.",
+   "source_key": "+",
+   "stem": "You have a free afternoon. What do you do?",
+   "answers": [
+    {
+     "text": "I pick a plan that always works.",
+     "level": -3,
+     "echo": "you'd pick a plan that always works"
+    },
+    {
+     "text": "I mix in something new today.",
+     "level": 1,
+     "echo": "you'd mix in something new today"
+    },
+    {
+     "text": "I try a brand new idea.",
+     "level": 3,
+     "echo": "you'd try a brand new idea"
+    },
+    {
+     "text": "I pick something a little familiar.",
+     "level": -1,
+     "echo": "you'd pick something a little familiar"
+    }
+   ]
+  },
+  {
+   "id": "q12",
+   "trait": "C",
+   "facet": "Responsibility",
+   "flavour": false,
+   "source_instrument": "IPIP",
+   "source_item": "Fixture placeholder IPIP source item.",
+   "source_key": "+",
+   "stem": "You are getting ready for a trip. What do you do?",
+   "answers": [
+    {
+     "text": "I jot a quick short list.",
+     "level": 1,
+     "echo": "you'd jot a quick short list"
+    },
+    {
+     "text": "I just grab what I need.",
+     "level": -3,
+     "echo": "you'd just grab what I need"
+    },
+    {
+     "text": "I pack a little and wing it.",
+     "level": -1,
+     "echo": "you'd pack a little and wing it"
+    },
+    {
+     "text": "I make a full list first.",
+     "level": 3,
+     "echo": "you'd make a full list first"
+    }
+   ]
+  },
+  {
+   "id": "q13",
+   "trait": "E",
+   "facet": "Energy Level",
+   "flavour": false,
+   "source_instrument": "IPIP",
+   "source_item": "Fixture placeholder IPIP source item.",
+   "source_key": "+",
+   "stem": "A friend invites you to a party. What do you do?",
+   "answers": [
+    {
+     "text": "I invite everyone I can find.",
+     "level": 3,
+     "echo": "you'd invite everyone I can find"
+    },
+    {
+     "text": "I stay near people I know well.",
+     "level": -1,
+     "echo": "you'd stay near people I know well"
+    },
+    {
+     "text": "I find a quiet spot alone.",
+     "level": -3,
+     "echo": "you'd find a quiet spot alone"
+    },
+    {
+     "text": "I join in with a few people.",
+     "level": 1,
+     "echo": "you'd join in with a few people"
+    }
+   ]
+  },
+  {
+   "id": "q14",
+   "trait": "A",
+   "facet": "Trust",
+   "flavour": false,
+   "source_instrument": "IPIP",
+   "source_item": "Fixture placeholder IPIP source item.",
+   "source_key": "+",
+   "stem": "Your group needs help with a project. What do you do?",
+   "answers": [
+    {
+     "text": "I share my own view first.",
+     "level": -1,
+     "echo": "you'd share my own view first"
+    },
+    {
+     "text": "I put the group first every time.",
+     "level": 3,
+     "echo": "you'd put the group first every time"
+    },
+    {
+     "text": "I offer to help where I can.",
+     "level": 1,
+     "echo": "you'd offer to help where I can"
+    },
+    {
+     "text": "I say exactly what I think.",
+     "level": -3,
+     "echo": "you'd say exactly what I think"
+    }
+   ]
+  },
+  {
+   "id": "q15",
+   "trait": "S",
+   "facet": "Vulnerability",
+   "flavour": false,
+   "source_instrument": "IPIP",
+   "source_item": "Fixture placeholder IPIP source item.",
+   "source_key": "+",
+   "stem": "Plans change at the last minute. What do you do?",
+   "answers": [
+    {
+     "text": "I feel it right away, strongly.",
+     "level": -3,
+     "echo": "you'd feel it right away, strongly"
+    },
+    {
+     "text": "I take a breath and carry on.",
+     "level": 1,
+     "echo": "you'd take a breath and carry on"
+    },
+    {
+     "text": "I stay calm through it all.",
+     "level": 3,
+     "echo": "you'd stay calm through it all"
+    },
+    {
+     "text": "I feel it but keep moving.",
+     "level": -1,
+     "echo": "you'd feel it but keep moving"
+    }
+   ]
+  }
+ ]
+}

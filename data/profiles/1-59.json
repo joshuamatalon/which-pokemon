@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "showdown_id": "bulbasaur",
+    "genus": "Seed Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": 1,
+      "E": -1,
+      "A": 2,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries describe a seed on its back that grows with it, a plain, practical fact instead of a sign of curiosity.",
+      "C": "The seed on its back grows steadily larger as its whole body grows, a gradual and consistent process.",
+      "E": "It is most often described resting alone in bright sunlight, not moving with a crowd.",
+      "A": "In the anime, a whole colony of wild Bulbasaur looks to one for guidance, and it steps up to guard them.",
+      "S": "It can be seen resting calmly in bright sunlight, unbothered while the seed on its back keeps growing."
+    },
+    "personality": "Bulbasaur carries a seed on its back from birth, and the seed grows as it does. It can go days on stored energy alone, since the bulb keeps it fueled. It likes bright sunlight and rests in it often. In the anime, a wild colony of Bulbasaur in Viridian Forest looks to one for guidance, and it steps in to guard the group.",
+    "media": [
+      {
+        "title": "Pokémon: Indigo League, leader of the hidden Bulbasaur colony in Viridian Forest",
+        "note": "Ash's Bulbasaur is the one a wild colony already trusts, and it steps in to guard them."
+      }
+    ],
+    "community": "Fans point to Bulbasaur as the starter that plays a caretaker role on screen, not just a first partner. Its quiet steadiness in the anime colony episode gets cited often as a favorite character beat.",
+    "why": [
+      {
+        "text": "Bulbasaur rests in bright sunlight while the seed on its back quietly keeps growing.",
+        "trait": "S",
+        "anchor": "sunlight",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Bulbasaur looks out for a whole colony of wild Bulbasaur that already trust it to lead them.",
+        "trait": "A",
+        "anchor": "colony",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "The seed on Bulbasaur's back grows steadily larger as its own body grows, staying in step with its own pace.",
+        "trait": "C",
+        "anchor": "seed",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/1/",
+      "https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "showdown_id": "venusaur",
+    "genus": "Seed Pokémon",
+    "lean": "neutral",
+    "stage": "mature",
+    "ratings": {
+      "O": -1,
+      "C": 2,
+      "E": -2,
+      "A": 2,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex line says it converts sunlight straight into energy, a practical process with nothing about curiosity.",
+      "C": "It keeps moving on a steady pattern to seek out strong sunlight for its flower.",
+      "E": "In Pokémon Origins it holds a quiet, contained gym battle instead of any kind of crowd scene.",
+      "A": "Its flower's scent is described in the Pokédex as something that soothes the emotions of the people nearby.",
+      "S": "Pokémon Origins shows it standing firm through a long gym battle against Charizard, holding its ground the whole way."
+    },
+    "personality": "Venusaur keeps moving to find strong sunlight, since the flower on its back turns that light straight into energy. The bigger the flower, the more power it holds, and warm summer light makes it stronger still. Its flower can bloom in bright colors when it gets enough sun and nutrients, and the scent that comes off it is said to calm the people nearby.",
+    "media": [
+      {
+        "title": "Pokémon Origins, Blue's Venusaur battles Red's Charizard on Cinnabar Island",
+        "note": "The rival gym battle is one of the most referenced starter showdowns in the franchise."
+      }
+    ],
+    "community": "Venusaur often gets picked as the strongest all-around finisher from Kanto's starters, and its Mega Evolution art gets shared a lot for the size of its flower. Long-time players still argue whether it or Charizard wins their head-to-head.",
+    "why": [
+      {
+        "text": "Venusaur moves from place to place chasing strong sunlight to power the flower on its back.",
+        "trait": "S",
+        "anchor": "sunlight",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Venusaur turns sunlight straight into energy, a simple trick that makes it stronger through the summer.",
+        "trait": "O",
+        "anchor": "energy",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "The fragrance from Venusaur's flower soothes the emotions of everyone nearby, according to its Pokédex entry.",
+        "trait": "A",
+        "anchor": "soothes",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/3/",
+      "https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "showdown_id": "charmander",
+    "genus": "Lizard Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": -1,
+      "E": 1,
+      "A": 1,
+      "S": -2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries describe its flame and body condition in plain, practical terms, closer to the down-to-earth end of the scale than to curiosity.",
+      "C": "Its flame changes with its mood in the moment, flaring when Charmander is enjoying itself.",
+      "E": "Once Ash takes it in, the anime shows it as an eager teammate that wants to join every battle.",
+      "A": "Its flame kept burning for a trainer who never came back, and it still stayed by the signpost.",
+      "S": "Its own Pokédex line says the flame wavers when it is happy and burns fiercely when it is angry, changing fast with its mood."
+    },
+    "personality": "Charmander carries a flame at the tip of its tail that never goes out while it lives. The flame shows its feelings: it wavers when Charmander is having fun and flares bright when Charmander is fired up. A healthy Charmander keeps a bright flame even after a little rain. In the anime, Ash's Charmander waited by a signpost through a storm for a trainer who never came back, and its flame kept burning the whole time.",
+    "media": [
+      {
+        "title": "Pokémon: Indigo League, the loyal Charmander that waited for its trainer in the rain",
+        "note": "Ash finds Charmander alone by a signpost and takes it in, and it becomes one of his steadiest partners."
+      }
+    ],
+    "community": "Charmander's loyalty in that early episode still gets brought up by fans as one of the more emotional moments in the original anime. It is a common pick for a first favorite Pokémon.",
+    "why": [
+      {
+        "text": "Charmander's flame wavers when it is enjoying itself and flares up the moment it feels fired up.",
+        "trait": "S",
+        "anchor": "flame",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Charmander stayed loyal by a signpost through a storm, waiting for a trainer who had already left.",
+        "trait": "A",
+        "anchor": "loyal",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "A healthy Charmander keeps a brighter flame, one that shifts freely with whatever it feels in the moment.",
+        "trait": "C",
+        "anchor": "healthy",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/4/",
+      "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "showdown_id": "charizard",
+    "genus": "Flame Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": 1,
+      "C": 1,
+      "E": 1,
+      "A": -2,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "The Pokédex says its fire grows hotter with more battle experience, so every fight teaches it something new.",
+      "C": "It sets one clear rule about which opponents it will fight and keeps to that standard consistently.",
+      "E": "Its Pokédex entry has it flying around the sky in open search of strong opponents to challenge.",
+      "A": "It would not follow Ash's orders at first and held to its own idea of how to fight, a sign of how firmly it holds its ground.",
+      "S": "Its flame flares to a whitish-blue shade the instant Charizard turns furious, a fast, visible swing in its mood."
+    },
+    "personality": "Charizard flies high in search of strong opponents to test itself against. Its fire burns hot enough to melt almost anything, and the flame gets hotter as it gains battle experience. When Charizard is fired up, the flame at its tail flares to a pale blue. It holds itself to one rule: it never turns that fire on an opponent weaker than itself.",
+    "media": [
+      {
+        "title": "Pokémon: Indigo League, Ash's Charizard sunbathes on a cliff instead of battling",
+        "note": "Charizard only starts listening to Ash after Ash stands by it through a long stretch of defiance."
+      }
+    ],
+    "community": "Charizard is consistently one of the most requested starters in polls and merchandise. Its early refusal to follow Ash in the anime, and the trust it built with him after, is still a well-known arc among fans.",
+    "why": [
+      {
+        "text": "Charizard follows its own rule about never battling an opponent weaker than itself, deciding that for its own reasons.",
+        "trait": "A",
+        "anchor": "weaker",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Charizard flies high across the sky, always looking for a strong opponent to test itself against.",
+        "trait": "E",
+        "anchor": "flies",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Charizard's fire grows hotter the more battle experience it gains, so every fight teaches it something new.",
+        "trait": "O",
+        "anchor": "experience",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/6/",
+      "https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "showdown_id": "squirtle",
+    "genus": "Tiny Turtle Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": -1,
+      "E": 2,
+      "A": -1,
+      "S": 0
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex lines describe a shell built for speed in water, a plain physical trait closer to the down-to-earth end of the scale than to curiosity.",
+      "C": "It reacts to danger right away by pulling into its shell and spraying water, answering the moment instead of a set plan.",
+      "E": "In the anime, a whole Squirtle Squad moves and acts together as one lively, close group.",
+      "A": "The same Squirtle Squad that once pulled pranks turns into a volunteer fire brigade that helps the town.",
+      "S": "It withdraws calmly into its hardened shell when danger appears, a steady, practiced response."
+    },
+    "personality": "Squirtle's shell is soft right after it hatches, then hardens fast into something so tough that a poke just bounces off. The shell's round shape and grooves also cut down drag in the water, so Squirtle can swim at real speed. When it feels threatened, it pulls its legs in and sprays water from its mouth. In the anime, a whole crew of wild Squirtle pulled pranks around town before forming a volunteer fire brigade.",
+    "media": [
+      {
+        "title": "Pokémon: Indigo League, the Squirtle Squad fire brigade",
+        "note": "A gang of wild Squirtle pulls pranks around town before turning into a volunteer fire brigade that helps put out fires."
+      }
+    ],
+    "community": "The Squirtle Squad is one of the most remembered side stories from the original anime, and fans often point to its turn from pranks to firefighting as proof the species has more range than a simple starter. It remains a popular pick for its look and its attitude.",
+    "why": [
+      {
+        "text": "The wild Squirtle Squad rides through town together as one lively, close-knit group.",
+        "trait": "E",
+        "anchor": "Squad",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Squirtle_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "That same Squirtle Squad turns into a volunteer fire brigade that helps the whole town when it is needed.",
+        "trait": "A",
+        "anchor": "brigade",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Squirtle_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "When Squirtle feels threatened, it reacts on the spot, pulling into its shell and spraying water back.",
+        "trait": "C",
+        "anchor": "shell",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Squirtle_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/7/",
+      "https://bulbapedia.bulbagarden.net/wiki/Squirtle_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "showdown_id": "blastoise",
+    "genus": "Shellfish Pokémon",
+    "lean": "neutral",
+    "stage": "mature",
+    "ratings": {
+      "O": -2,
+      "C": 3,
+      "E": -1,
+      "A": -1,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex focuses entirely on cannon mechanics and aim, a practical description with nothing about curiosity.",
+      "C": "It plants its feet and adds its own weight before firing, a careful, deliberate routine every time it shoots.",
+      "E": "Its Pokédex lines describe it acting alone, taking careful aim on its own instead of moving with a crowd.",
+      "A": "Its tackles are described as forceful enough that Blastoise clearly holds nothing back once it takes aim.",
+      "S": "It deliberately braces itself to absorb its own recoil, staying planted and steady through the blast."
+    },
+    "personality": "Blastoise fires water from the twin cannons on its shell with enough force to punch through thick steel. It plants its feet firmly and braces hard before firing, so the recoil does not push it back. Its aim is precise enough to knock a can over from more than 160 feet away. In Pokémon Origins, Blue's Blastoise trades cannon blasts with Red's Charizard in the final Cinnabar Island battle.",
+    "media": [
+      {
+        "title": "Pokémon Origins, Blue's Blastoise battles Red's Charizard on Cinnabar Island",
+        "note": "The two starters' final battle is one of the most referenced showdowns in the franchise."
+      }
+    ],
+    "community": "Blastoise regularly places near the top of best-starter polls for Kanto, largely on the strength of its design and its rivalry with Charizard. Competitive players still rate its cannons among the most striking special effects of the starters.",
+    "why": [
+      {
+        "text": "Blastoise plants its feet firmly and braces itself before every shot from its water cannons.",
+        "trait": "C",
+        "anchor": "plants",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Blastoise_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Its water spouts are accurate enough to knock an empty can over from more than 160 feet away.",
+        "trait": "C",
+        "anchor": "accurate",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Blastoise_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Blastoise braces itself on purpose so it can absorb the recoil of its own water jets without losing its footing.",
+        "trait": "S",
+        "anchor": "recoil",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Blastoise_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/9/",
+      "https://bulbapedia.bulbagarden.net/wiki/Blastoise_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "showdown_id": "butterfree",
+    "genus": "Butterfly Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": 1,
+      "C": 1,
+      "E": -1,
+      "A": 2,
+      "S": 0
+    },
+    "rating_evidence": {
+      "O": "It can track down flowers in bloom more than six miles from its nest, a wide and curious search range.",
+      "C": "It collects honey on a daily routine, carrying it home carefully on its own leg hairs each time.",
+      "E": "Its Pokédex shows it flying from flower to flower on its own, well outside any group or crowd.",
+      "A": "In the anime, Ash releases his Butterfree so it can start a family of its own in the wild.",
+      "S": "Its wings shed water so it can keep working through heavy rain without breaking its rhythm."
+    },
+    "personality": "Butterfree flits from flower to flower every day, gathering honey and carrying it home on the hairs of its legs. Its wings shed water, so it can keep collecting honey even in a downpour. It can sense flowers in bloom more than six miles from its nest. In the anime, Ash releases his Butterfree so it can migrate and start a family with a wild Butterfree it falls for.",
+    "media": [
+      {
+        "title": "Pokémon: Indigo League, Ash releases his Butterfree to migrate with a wild Butterfree",
+        "note": "The farewell episode is a well-known moment about letting a partner go and start its own family."
+      }
+    ],
+    "community": "The release episode is often named as one of the more memorable send-offs in the original series, and it still shapes how longtime fans think about the species. Butterfree is a common answer when fans list anime moments that stuck with them.",
+    "why": [
+      {
+        "text": "Ash releases his Butterfree so it can migrate and build a family of its own.",
+        "trait": "A",
+        "anchor": "releases",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Butterfree_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Butterfree can sense flowers in bloom more than six miles away from its own nest.",
+        "trait": "O",
+        "anchor": "flowers",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Butterfree_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Butterfree collects honey every day, carrying it home on the hairs of its own legs.",
+        "trait": "C",
+        "anchor": "honey",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Butterfree_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/12/",
+      "https://bulbapedia.bulbagarden.net/wiki/Butterfree_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "showdown_id": "pikachu",
+    "genus": "Mouse Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": 2,
+      "C": -1,
+      "E": 1,
+      "A": 1,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex line says it answers anything new with a jolt of electricity, testing things on the spot.",
+      "C": "It roasts tough berries with electricity to soften them, though its own Pokédex notes the charge does not always match the berry.",
+      "E": "It travels everywhere at Ash's side outside its Poké Ball, right in the middle of everything the group does.",
+      "A": "It stays loyal to Ash across the whole series, choosing to walk beside him instead of riding inside a Poké Ball.",
+      "S": "It discharges its stored energy the moment it gets angry, a quick, visible reaction to how it feels."
+    },
+    "personality": "Pikachu keeps its tail raised to keep watch on what is around it. It is smart enough to roast tough berries with a jolt of electricity to soften them up, though it does not always get the charge right. Whenever it meets something new, its first move is often a spark to test it out. Ash's Pikachu refuses to ride in a Poké Ball and travels everywhere at his side.",
+    "media": [
+      {
+        "title": "Pokémon: Indigo League, Ash's Pikachu, which travels outside its Poké Ball",
+        "note": "It is the constant companion across the whole animated series and the face of the franchise."
+      }
+    ],
+    "community": "Pikachu is the most recognized Pokémon in the world and the mascot of the whole franchise. Fans generally point to its loyalty to Ash and its choice to stay outside its Poké Ball as the traits that built that reputation.",
+    "why": [
+      {
+        "text": "Pikachu often answers something new by testing it with a jolt of electricity right away.",
+        "trait": "O",
+        "anchor": "new",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Ash's Pikachu chooses to travel outside its Poké Ball, staying right at his side the whole way.",
+        "trait": "A",
+        "anchor": "Poké Ball",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Pikachu roasts tough berries with its own electricity to soften them up.",
+        "trait": "C",
+        "anchor": "berries",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/25/",
+      "https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "showdown_id": "raichu",
+    "genus": "Mouse Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": -1,
+      "C": -1,
+      "E": 1,
+      "A": -2,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex sticks to voltage, grounding and charge levels, a plain and practical read with no mention of curiosity.",
+      "C": "It raises its tail on its own initiative to gather fresh electricity whenever its charge runs low, reacting as the moment calls for it.",
+      "E": "Once its cheek pouches are fully charged, its ears stand straight up as an active, visible signal.",
+      "A": "Its own Pokédex line says it becomes more aggressive than usual as its stored charge builds up.",
+      "S": "It becomes more energetic and even glows in the dark once its electricity builds, changing quickly as its charge shifts."
+    },
+    "personality": "Raichu uses its long tail as a ground wire so its own high-voltage charge does not hurt it. When its electricity builds up, it gets more energetic and its body even glows in the dark. Its ears stand straight up once its cheek pouches are fully charged. When the charge runs out, it raises its tail to pull fresh electricity from the air around it.",
+    "media": [
+      {
+        "title": "Pokémon: Indigo League, Ash decides not to evolve his Pikachu into Raichu",
+        "note": "The choice is a well-known early moment that keeps Pikachu as the show's lead instead of swapping it for its evolution."
+      }
+    ],
+    "community": "Raichu often comes up in discussions about the road not taken for Ash's Pikachu, since the anime chose to keep Pikachu unevolved. Fans still note that the decision reshaped the whole franchise's mascot.",
+    "why": [
+      {
+        "text": "Raichu's own Pokédex line says it becomes more aggressive than usual once its stored charge builds, showing how fast its energy shows itself.",
+        "trait": "A",
+        "anchor": "aggressive",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Raichu_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Raichu glows in the dark once its electricity builds up, a visible sign of how quickly its energy shifts.",
+        "trait": "S",
+        "anchor": "glows",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Raichu_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Once its cheek pouches are fully charged, Raichu's ears stand straight up as a clear, active signal.",
+        "trait": "E",
+        "anchor": "ears",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Raichu_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/26/",
+      "https://bulbapedia.bulbagarden.net/wiki/Raichu_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Nidoran♀",
+    "showdown_id": "nidoranf",
+    "genus": "Poison Pin Pokémon",
+    "lean": "feminine",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": 1,
+      "E": -1,
+      "A": 3,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex descriptions center on its size and its horn's venom, a plain, practical set of facts.",
+      "C": "It relies on the same small horn every time it needs to defend itself, a steady, consistent response.",
+      "E": "Its Pokédex describes it as mild-mannered and usually out of sight, avoiding crowds and noise.",
+      "A": "Its own entry calls it docile, since it uses its venomous horn only when something threatens it directly.",
+      "S": "It is mild-mannered and does not like to fight, per its Pokédex, staying calm unless directly threatened."
+    },
+    "personality": "Nidoran♀ is mild-mannered and would rather avoid a fight than start one. It carries a small horn that holds a strong venom, but its Pokédex calls it docile, since it turns to that horn only when something threatens it. It stays close to its family and rarely goes looking for trouble.",
+    "media": [
+      {
+        "title": "Pokémon Red and Blue, an early catch on the road out of Viridian City",
+        "note": "It is one of the first wild Pokémon new trainers can add to their team in the original games."
+      }
+    ],
+    "community": "Nidoran♀ is often praised by longtime players as an efficient early pick because it starts strong for its point in the game. Fans also note it as one of the few starting options with a clear, gendered pair alongside Nidoran♂.",
+    "why": [
+      {
+        "text": "Nidoran♀'s own Pokédex entry calls it docile, since it only uses its venomous horn when something threatens it.",
+        "trait": "A",
+        "anchor": "docile",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Nidoran%E2%99%80_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Nidoran♀ stays mild-mannered and calm, turning to its horn only when it truly needs to.",
+        "trait": "S",
+        "anchor": "mild-mannered",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Nidoran%E2%99%80_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Nidoran♀ relies on the same small horn every time it needs to defend itself, a dependable line of defense.",
+        "trait": "C",
+        "anchor": "horn",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Nidoran%E2%99%80_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/29/",
+      "https://bulbapedia.bulbagarden.net/wiki/Nidoran%E2%99%80_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "showdown_id": "nidorina",
+    "genus": "Poison Pin Pokémon",
+    "lean": "feminine",
+    "stage": "evolved",
+    "ratings": {
+      "O": -1,
+      "C": 1,
+      "E": -1,
+      "A": 3,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex focuses on its horn, its barbs and its feeding habits, a plain, practical picture with nothing about curiosity or ideas.",
+      "C": "It keeps its barbs tucked away whenever it is with family, a careful habit that protects everyone nearby.",
+      "E": "Its Pokédex shows it resting deep in a burrow with its thorns retracted, calm and out of the way of any crowd.",
+      "A": "It has a calm, caring nature and chews food for its young before passing it along, per its own Pokédex entry.",
+      "S": "Its Pokédex says it becomes nervous if it is separated from its friends or family, showing how quickly it notices the change."
+    },
+    "personality": "Nidorina has a calm, caring nature, and its horn grows gradually, which is part of why it would rather not fight if it can help it. When it feeds its young, it chews a bite first and softens it before passing it on. Around its family, it keeps its barbs tucked safely away so nobody gets hurt by accident. Its Pokédex notes it can grow nervous if it ends up away from the group.",
+    "media": [
+      {
+        "title": "Pokémon Red and Blue, the mid-stage form reached by leveling up a Nidoran♀",
+        "note": "Many new trainers reach this stage within their first few Kanto routes."
+      }
+    ],
+    "community": "Nidorina gets less spotlight than the starters, but longtime players often mention its calm, protective nature toward its young as a detail that stands out in the Pokédex. It is a steady pick for trainers who like the Nidoran line.",
+    "why": [
+      {
+        "text": "Nidorina has a calm and caring nature, and it chews a bite for its young before passing it along.",
+        "trait": "A",
+        "anchor": "caring",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Nidorina_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Nidorina's own entry says it becomes nervous if it ends up separated from its friends or family.",
+        "trait": "S",
+        "anchor": "nervous",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Nidorina_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Around its family, Nidorina keeps its barbs tucked away so nobody nearby gets hurt by accident.",
+        "trait": "C",
+        "anchor": "tucked",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Nidorina_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/30/",
+      "https://bulbapedia.bulbagarden.net/wiki/Nidorina_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Nidoran♂",
+    "showdown_id": "nidoranm",
+    "genus": "Poison Pin Pokémon",
+    "lean": "masculine",
+    "stage": "young",
+    "ratings": {
+      "O": 1,
+      "C": 1,
+      "E": 0,
+      "A": -1,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "It constantly moves its large ears in many directions to detect danger, staying alert to every small detail around it.",
+      "C": "It keeps the same alert routine at all times, its ears always upright and ready instead of resting.",
+      "E": "Its Pokédex shows it reacting alone to danger, not as part of any group or crowd.",
+      "A": "It strikes first the moment it senses a real threat, holding its ground instead of stepping back.",
+      "S": "Even the slightest sound does not escape its notice, and it reacts to danger the instant it senses it."
+    },
+    "personality": "Nidoran♂ keeps its large ears upright and moving, always checking its surroundings for danger. Its Pokédex says even the slightest sound does not escape its notice. If it senses a real threat, it charges in horn first instead of waiting to see what happens. Its horn is small but carries a strong dose of poison.",
+    "media": [
+      {
+        "title": "Pokémon Red and Blue, an early catch on Route 3",
+        "note": "It is a common early team member because it is fast to find and quick to react to threats."
+      }
+    ],
+    "community": "Nidoran♂ is often grouped with its female counterpart as a classic early-game pick, and fans point to its alert, ready-to-act nature as its most memorable trait. It has a long-running following among players who like the whole Nidoking line.",
+    "why": [
+      {
+        "text": "Nidoran♂ constantly moves its large ears in different directions to detect danger right away.",
+        "trait": "O",
+        "anchor": "detect",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Nidoran%E2%99%82_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Nidoran♂ strikes first the moment it senses danger, standing its ground instead of waiting it out.",
+        "trait": "A",
+        "anchor": "strike",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Nidoran%E2%99%82_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Even the slightest sound does not escape Nidoran♂'s notice, thanks to ears built to catch every detail.",
+        "trait": "S",
+        "anchor": "notice",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Nidoran%E2%99%82_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/32/",
+      "https://bulbapedia.bulbagarden.net/wiki/Nidoran%E2%99%82_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Clefairy",
+    "showdown_id": "clefairy",
+    "genus": "Fairy Pokémon",
+    "lean": "feminine",
+    "stage": "young",
+    "ratings": {
+      "O": 2,
+      "C": -1,
+      "E": 2,
+      "A": 2,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex says it stores moonlight in its wings, which seems to be the source of its ability to float.",
+      "C": "It only reliably appears on full-moon nights, coming and going with the moon's cycle instead of any fixed routine.",
+      "E": "On every full-moon night, groups of Clefairy come out together and play until dawn.",
+      "A": "The tired group returns home at dawn and settles in nestled close together to sleep.",
+      "S": "It returns to quiet mountain retreats after a night of play, settling back into a calm routine each morning."
+    },
+    "personality": "Clefairy stores moonlight in the wings on its back, and that stored light seems to be what lets it float. On the night of a full moon, groups of Clefairy come out together to play until dawn. When the sun comes up, they head back to their mountain homes and settle in close together for the night. Its Pokédex calls it rare, since it seldom turns up outside those full-moon nights.",
+    "media": [
+      {
+        "title": "Pokémon: Indigo League, a colony of Clefairy that watches over a Moon Stone rocket near Mount Moon",
+        "note": "Team Rocket briefly runs into a hidden group of Clefairy that treats the abandoned ship as something sacred."
+      }
+    ],
+    "community": "Clefairy was the original mascot candidate before Pikachu, and promotional art from the mid-1990s still shows it in that role. Longtime fans bring this up often as a fun piece of franchise history.",
+    "why": [
+      {
+        "text": "Groups of Clefairy come out together to play on every night of a full moon.",
+        "trait": "E",
+        "anchor": "moon",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Clefairy_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Clefairy stores moonlight in the wings on its back, and that stored light seems to let it float in midair.",
+        "trait": "O",
+        "anchor": "moonlight",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Clefairy_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "At dawn, tired Clefairy head home and settle in nestled close together for the night.",
+        "trait": "A",
+        "anchor": "nestled",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Clefairy_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/35/",
+      "https://bulbapedia.bulbagarden.net/wiki/Clefairy_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Clefable",
+    "showdown_id": "clefable",
+    "genus": "Fairy Pokémon",
+    "lean": "feminine",
+    "stage": "evolved",
+    "ratings": {
+      "O": 1,
+      "C": 1,
+      "E": -4,
+      "A": 1,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its bouncy step is light enough to carry it across open water on quiet nights, an unusual trick worth wondering about.",
+      "C": "It keeps to the same quiet, remote mountains and rarely changes that pattern, according to its Pokédex.",
+      "E": "It runs and hides the instant it senses people, keeping well away from any crowd.",
+      "A": "Its Pokédex calls it protective of its own world, watching over the quiet places it calls home.",
+      "S": "It takes unhurried, quiet strolls across moonlit lakes at night, calm and steady in its own space."
+    },
+    "personality": "Clefable is rarely seen, since it tends to hide the moment it senses people nearby. Its hearing is sharp enough to pick up sounds from far away, which is part of why it keeps to quiet, remote places. It moves by skipping lightly, almost like flying, and that light step lets it walk across water. On quiet, moonlit nights, it is known to take unhurried strolls out on open lakes.",
+    "media": [
+      {
+        "title": "Pokémon Red and Blue, evolved from Clefairy with a Moon Stone",
+        "note": "It was one of the first Pokémon players could evolve using an item instead of leveling up."
+      }
+    ],
+    "community": "Clefable is less commonly seen in the anime than its pre-evolution, and fans often describe it as one of the more elusive-feeling Pokémon in the original 151. Its lake-walking Pokédex entry is a frequently shared favorite detail.",
+    "why": [
+      {
+        "text": "Clefable will run and hide the moment it senses people nearby, keeping well away from any crowd.",
+        "trait": "E",
+        "anchor": "hide",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Clefable_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Clefable's sharp hearing lets it pick up sounds from far away, long before anyone gets close.",
+        "trait": "O",
+        "anchor": "sounds",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Clefable_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "On quiet, moonlit nights, Clefable is known to take unhurried strolls out across open lakes.",
+        "trait": "S",
+        "anchor": "moonlit",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Clefable_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/36/",
+      "https://bulbapedia.bulbagarden.net/wiki/Clefable_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Vulpix",
+    "showdown_id": "vulpix",
+    "genus": "Fox Pokémon",
+    "lean": "feminine",
+    "stage": "young",
+    "ratings": {
+      "O": 1,
+      "C": -1,
+      "E": -1,
+      "A": 2,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "It feigns injury to trick a stronger opponent into giving it a chance to escape, a clever move in the moment.",
+      "C": "Vulpix's tail changes gradually over a long stretch of growth, splitting into six only bit by bit.",
+      "E": "Its Pokédex describes it alone against a single stronger opponent, not as part of a larger group.",
+      "A": "Its tail only splits into a full six once it has received plenty of love from its trainer.",
+      "S": "When cornered by a stronger foe, it reacts fast, feigning injury on the spot to create its own opening."
+    },
+    "personality": "Vulpix is born with one white tail, and that tail splits into six as it grows and gets plenty of love from its trainer. Each of the six tails grows more colorful and curled over time. If a stronger opponent corners it, Vulpix will feign an injury to buy itself a chance to get away. Its fur and tails are often described as warm to the touch.",
+    "media": [
+      {
+        "title": "Pokémon Blue, one of the version-exclusive Pokémon missing from Pokémon Red",
+        "note": "Trainers playing the original Red version could only get Vulpix by trading with a friend playing Blue."
+      }
+    ],
+    "community": "Vulpix is a well-known version exclusive from the original games, and longtime fans still bring up trading for it as a rite of passage from that era. Its later Alolan form also introduced a lot of newer fans to the species.",
+    "why": [
+      {
+        "text": "Vulpix's tail only splits into a full six once it has received plenty of love from its trainer.",
+        "trait": "A",
+        "anchor": "love",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Vulpix_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "If a stronger opponent corners it, Vulpix feigns an injury to trick its way to an escape.",
+        "trait": "O",
+        "anchor": "feigns",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Vulpix_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Each of Vulpix's six tails grows more colorful and curled the older it gets.",
+        "trait": "C",
+        "anchor": "grows",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Vulpix_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/37/",
+      "https://bulbapedia.bulbagarden.net/wiki/Vulpix_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Ninetales",
+    "showdown_id": "ninetales",
+    "genus": "Fox Pokémon",
+    "lean": "feminine",
+    "stage": "mature",
+    "ratings": {
+      "O": 3,
+      "C": 2,
+      "E": -2,
+      "A": -2,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Ancient legend says nine saints were united and reincarnated as the very first Ninetales, a story about deep wisdom passed down.",
+      "C": "It is said to live for a thousand years, each of its nine tails holding a different power across that whole stretch of time.",
+      "E": "Its Pokédex and its legends both describe it as a solitary figure, rarely shown with any group around it.",
+      "A": "Each of its nine tails is said to hold its own mystical power, and local legend treats it with real respect.",
+      "S": "It is said to live for a thousand years, carrying that same steady legend across all that time."
+    },
+    "personality": "Ninetales is said to live for a thousand years, and each of its nine tails is said to carry its own kind of power. Legend holds that nine saints were united and reincarnated as the very first Ninetales. It has a sharp memory and a reputation for intelligence that goes back generations of folklore. Ancient stories say it remembers a slight for a very long time, so trainers are told never to pull on one of its tails.",
+    "media": [
+      {
+        "title": "Pokémon Red and Blue, evolved from Vulpix with a Fire Stone",
+        "note": "It was one of the earliest evolutions players could trigger with an item instead of battling."
+      }
+    ],
+    "community": "Ninetales regularly places high in fan discussions of the best fox-styled design, and its thousand-year legend is one of the most quoted Pokédex entries from the original games. The Alolan form later introduced the species to a new generation of players.",
+    "why": [
+      {
+        "text": "Ancient legend holds that nine saints were united and reincarnated as the very first Ninetales.",
+        "trait": "O",
+        "anchor": "legend",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Ninetales_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Ninetales is said to live for a thousand years, each of its nine tails carrying its own kind of power.",
+        "trait": "S",
+        "anchor": "thousand years",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Ninetales_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Each of Ninetales' nine tails is said to hold its own mystical power, and locals treat that reputation with real respect.",
+        "trait": "A",
+        "anchor": "mystical",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Ninetales_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/38/",
+      "https://bulbapedia.bulbagarden.net/wiki/Ninetales_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Jigglypuff",
+    "showdown_id": "jigglypuff",
+    "genus": "Balloon Pokémon",
+    "lean": "feminine",
+    "stage": "young",
+    "ratings": {
+      "O": 0,
+      "C": -4,
+      "E": 4,
+      "A": 0,
+      "S": -2
+    },
+    "rating_evidence": {
+      "O": "Its vocal cords can freely adjust to whatever wavelength makes its melody work best, a precise, almost musical kind of skill.",
+      "C": "It inflates itself to keep singing as long as the moment calls for, with no fixed plan for how long the song should run.",
+      "E": "It carries a microphone everywhere in the anime, always looking for its next audience to perform for.",
+      "A": "Its song is described as soothing and gentle, meant to lull anyone listening into an easy rest.",
+      "S": "Its own Pokédex line says its huge eyes light up right before it breaks into song, a quick, visible shift in its mood."
+    },
+    "personality": "Jigglypuff sings a soothing melody whenever it gets the chance, and its voice is tuned to make listeners drowsy. It can inflate itself to keep singing longer, holding a note until the whole audience nods off. In the anime, it carries a microphone everywhere and performs for anyone who will listen, then marks up the face of any listener who falls asleep during the show.",
+    "media": [
+      {
+        "title": "Pokémon: Indigo League, Jigglypuff performs with its microphone at every stop",
+        "note": "It travels with Ash's group for a while, always looking for its next audience."
+      }
+    ],
+    "community": "Jigglypuff's singing routine, microphone and all, is one of the most quoted running gags in the original anime. Fans still bring up the sleeping-audience bit as one of the show's classic comedic beats.",
+    "why": [
+      {
+        "text": "Jigglypuff performs with its microphone at every stop, looking for its next audience.",
+        "trait": "E",
+        "anchor": "performs",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Jigglypuff_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Jigglypuff inflates itself to keep singing longer, holding its lullaby until the whole audience drifts off.",
+        "trait": "C",
+        "anchor": "inflates",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Jigglypuff_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Jigglypuff's melody is tuned so precisely that it can adjust its own voice to whatever wavelength works best.",
+        "trait": "O",
+        "anchor": "melody",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Jigglypuff_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/39/",
+      "https://bulbapedia.bulbagarden.net/wiki/Jigglypuff_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Wigglytuff",
+    "showdown_id": "wigglytuff",
+    "genus": "Balloon Pokémon",
+    "lean": "feminine",
+    "stage": "evolved",
+    "ratings": {
+      "O": -1,
+      "C": 0,
+      "E": 0,
+      "A": 2,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex stays focused on its body, fur and eyes, with nothing about ideas or curiosity.",
+      "C": "As Guildmaster in the Mystery Dungeon games, it runs a whole guild and trains new recruits from the very start.",
+      "E": "Its Pokédex describes it mostly through touch and closeness with one other Wigglytuff, not through big group scenes.",
+      "A": "Its fur feels so good that two Wigglytuff who snuggle together do not want to be pulled apart.",
+      "S": "When it gets upset, it inflates itself right away, a fast, visible response before it does anything else."
+    },
+    "personality": "Wigglytuff has soft, rubbery skin that can inflate like a balloon when it takes a deep breath. Its fur is famously pleasant to touch, soft enough that two Wigglytuff who snuggle together do not want to pull apart. Its wide, round eyes stay covered in a thin layer of tears that rinses away any dust right away. If it gets upset, it can puff itself up to an impressive size before it acts.",
+    "media": [
+      {
+        "title": "Pokémon Mystery Dungeon: Explorers of Sky, Wigglytuff leads the Guild",
+        "note": "Wigglytuff runs the exploration guild that trains the player's team from the very start of the game."
+      }
+    ],
+    "community": "Guildmaster Wigglytuff from the Mystery Dungeon games is one of the most fondly remembered characters in that series, known for a cheerful, unpredictable streak that fans still quote. The base species also stays a favorite for its plush, huggable design.",
+    "why": [
+      {
+        "text": "Wigglytuff's fur feels so good that two of them who snuggle together do not want to be pulled apart.",
+        "trait": "A",
+        "anchor": "fur",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Wigglytuff_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Guildmaster Wigglytuff leads a whole exploration guild that trains new recruits from day one.",
+        "trait": "C",
+        "anchor": "guild",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Wigglytuff_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "A thin layer of tears always covers Wigglytuff's wide eyes, washing away any dust the moment it settles.",
+        "trait": "S",
+        "anchor": "tears",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Wigglytuff_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/40/",
+      "https://bulbapedia.bulbagarden.net/wiki/Wigglytuff_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Growlithe",
+    "showdown_id": "growlithe",
+    "genus": "Puppy Pokémon",
+    "lean": "masculine",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": 2,
+      "E": 1,
+      "A": 1,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex centers on territory, scent and loyalty, a practical read on the world instead of one about ideas.",
+      "C": "Once it catches a scent, Growlithe never forgets it, holding onto that information with real consistency.",
+      "E": "It patrols and barks to warn off anything unfamiliar, staying active and alert instead of sitting quietly.",
+      "A": "Its Pokédex calls it extremely loyal, always ready to protect its trainer from any opponent.",
+      "S": "It fearlessly stands up to bigger, stronger foes, per its Pokédex, without backing down from the size difference."
+    },
+    "personality": "Growlithe is loyal and brave, and it will stand up to opponents much bigger than itself to protect its trainer. It tracks scent keenly and never forgets one once it has caught it. It patrols its territory closely and barks to warn off anything unfamiliar. Officer Jenny across the Pokémon world often partners with a Growlithe for exactly this reason.",
+    "media": [
+      {
+        "title": "Pokémon: Indigo League, Officer Jenny's partner Growlithe",
+        "note": "Growlithe appears throughout the anime as the partner Pokémon of choice for Officer Jenny on patrol."
+      }
+    ],
+    "community": "Growlithe's role as Officer Jenny's regular partner across the anime cemented its reputation as one of the most dependable, protective Pokémon in the franchise. It remains a popular pick for trainers who want a loyal early-game partner.",
+    "why": [
+      {
+        "text": "Growlithe is extremely loyal, and it will bark at any opponent to protect its trainer.",
+        "trait": "A",
+        "anchor": "loyal",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Growlithe_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Once Growlithe catches a scent, its Pokédex says it never forgets it, no matter how much time passes.",
+        "trait": "C",
+        "anchor": "scent",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Growlithe_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Growlithe fearlessly stands up to opponents far bigger and stronger than itself.",
+        "trait": "S",
+        "anchor": "fearlessly",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Growlithe_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/58/",
+      "https://bulbapedia.bulbagarden.net/wiki/Growlithe_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Arcanine",
+    "showdown_id": "arcanine",
+    "genus": "Legendary Pokémon",
+    "lean": "masculine",
+    "stage": "mature",
+    "ratings": {
+      "O": 0,
+      "C": 2,
+      "E": 0,
+      "A": 1,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Ancient Chinese legend treats it as a nearly mythical figure, admired for its grace across generations of retelling.",
+      "C": "It is said to run over 6,200 miles in a single day and night without losing its pace, a feat of real endurance.",
+      "E": "Ancient picture scrolls show it running alone across open prairies while people simply watch.",
+      "A": "Its bark is described as carrying real majesty, the kind that draws people's attention and respect wherever it goes.",
+      "S": "It runs at a steady, unbroken pace across more than 6,200 miles in a single day and night, according to its own Pokédex."
+    },
+    "personality": "Arcanine has been admired for its grace for generations, and Chinese legend treats it as a majestic runner. Its Pokédex says it can cover more than 6,200 miles in a single day and night without slowing its pace. A centuries-spanning picture scroll shows people stopping just to watch it run across open prairies. The fire that burns inside it is said to be the true source of all that speed.",
+    "media": [
+      {
+        "title": "Pokémon: Indigo League, Officer Jenny's partner Arcanine",
+        "note": "Arcanine appears across the anime as the other common partner Pokémon for Officer Jenny, alongside Growlithe."
+      }
+    ],
+    "community": "Arcanine is a frequent pick in fan talk about the best legendary-looking Pokémon without actual Legendary status, and its line about running 6,200 miles in a day is one of the most quoted Pokédex stats in the series.",
+    "why": [
+      {
+        "text": "Arcanine's Pokédex says it can run more than 6,200 miles in a single day and night without losing its pace.",
+        "trait": "S",
+        "anchor": "6,200 miles",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Arcanine_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Arcanine's bark is described as carrying a real sense of majesty wherever it goes.",
+        "trait": "A",
+        "anchor": "majesty",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Arcanine_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Chinese legend treats Arcanine as a nearly mythical figure, admired for its grace while running.",
+        "trait": "O",
+        "anchor": "legend",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Arcanine_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/59/",
+      "https://bulbapedia.bulbagarden.net/wiki/Arcanine_(Pok%C3%A9mon)"
+    ]
+  }
+]

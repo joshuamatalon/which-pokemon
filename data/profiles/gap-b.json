@@ -1,0 +1,1009 @@
+[
+  {
+    "id": 252,
+    "name": "Treecko",
+    "showdown_id": "treecko",
+    "genus": "Wood Gecko Pokémon",
+    "stage": "young",
+    "ratings": {
+      "O": 1,
+      "C": 1,
+      "E": -2,
+      "A": -1,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Its entries mention using its tail to sense humidity and read the next day's weather, a practical read more than a curious one.",
+      "C": "Its foot hooks are described letting it scale walls and hang from ceilings with real precision, a skill built on control.",
+      "E": "Its entries center on solo territory and calm confrontation, not on group behavior, so this trait leans low-key.",
+      "A": "Its own entry says it ferociously guards its territory and never concedes ground to a bigger foe, a strong-willed read.",
+      "S": "Its Pokédex entry says outright that it never panics under any situation, among the clearest steady-pole lines in the pool."
+    },
+    "personality": "Treecko stays cool, calm and collected, and it does not back down when a bigger opponent glares at it first. Small hooks on its feet let it scale walls and even hang from ceilings, and it uses its tail to sense humidity and read the next day's weather. It guards its home forest with real care, watching over the trees around its nest.",
+    "media": [
+      {
+        "title": "Pokémon the Series: Advanced, Ash's Treecko",
+        "note": "Joined Ash's team in Hoenn and evolved through Grovyle into Sceptile."
+      }
+    ],
+    "community": "Trainers who like a composed, self-reliant partner often point to Treecko first among the Hoenn starters, prized for staying steady even against a much bigger opponent.",
+    "why": [
+      {
+        "text": "Treecko never panics under any situation, holding steady even when a far bigger foe glares first.",
+        "trait": "S",
+        "anchor": "panics",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/252/"
+      },
+      {
+        "text": "Treecko guards its forest home and the trees around its nest with real care.",
+        "trait": "A",
+        "anchor": "guards",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Treecko_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Treecko's small foot hooks let it scale walls and hang from ceilings with real precision.",
+        "trait": "C",
+        "anchor": "hooks",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/252/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/252/",
+      "https://bulbapedia.bulbagarden.net/wiki/Treecko_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Sceptile",
+    "showdown_id": "sceptile",
+    "genus": "Forest Pokémon",
+    "stage": "evolved",
+    "ratings": {
+      "O": 0,
+      "C": 2,
+      "E": -1,
+      "A": 1,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its entries stay focused on jungle combat and tree care, with nothing that points toward curiosity as such.",
+      "C": "It is described carefully growing the trees and plants around it, upkeep language that points to real discipline.",
+      "E": "Its entries describe solo jungle strength and quiet combat, saying nothing about group behavior.",
+      "A": "Its Pokédex says it raises the trees of the forest with loving care, evidence of a genuinely nurturing side.",
+      "S": "It regulates its own temperature calmly by basking in the sun even while holding unmatched power in the jungle."
+    },
+    "personality": "Sceptile leaps through the branches of the jungle canopy and strikes from above or behind, using leaves as sharp as swords. It carefully raises the trees and plants around it, and its Pokédex says its power in the jungle has no equal. It stays composed even at full strength, regulating its own temperature by basking in the sun.",
+    "media": [
+      {
+        "title": "Pokémon the Series, Ash's Sceptile",
+        "note": "Evolved from Treecko and Grovyle and became Ash's lead through the Hoenn Battle Frontier."
+      }
+    ],
+    "community": "Fans of the Hoenn starters often name Sceptile as the most graceful of the three, both for its jungle acrobatics and for the caretaker side its Pokédex gives it.",
+    "why": [
+      {
+        "text": "Sceptile raises the trees and plants of the jungle with loving care, tending the forest around it.",
+        "trait": "A",
+        "anchor": "loving care",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/254/"
+      },
+      {
+        "text": "Sceptile carefully grows the trees and plants of its jungle home, a patient and deliberate habit.",
+        "trait": "C",
+        "anchor": "carefully",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Sceptile_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Sceptile stays composed at full strength, regulating its temperature by basking in the sun.",
+        "trait": "S",
+        "anchor": "basking",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/254/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/254/",
+      "https://bulbapedia.bulbagarden.net/wiki/Sceptile_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 255,
+    "name": "Torchic",
+    "showdown_id": "torchic",
+    "genus": "Chick Pokémon",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": -1,
+      "E": 1,
+      "A": 3,
+      "S": -2
+    },
+    "rating_evidence": {
+      "O": "Its entries focus on trainer attachment and warmth, saying nothing about curiosity, so this trait lands in the middle.",
+      "C": "Described following its trainer with unsteady steps, its entries describe a young Pokémon still finding its footing.",
+      "E": "Its entries center on closeness with one trainer more than a crowd, so this trait leans toward the quieter side.",
+      "A": "Its own entry says it follows its trainer closely even with unsteady steps, one of the more affectionate starter lines.",
+      "S": "It is described disliking darkness because it has trouble reading its surroundings without light, a sign it notices its environment closely."
+    },
+    "personality": "Torchic follows close behind its trainer, even with unsteady steps, and it settles quickly once it feels safe. It carries a flame inside its body that keeps it warm to the touch, so a hug leaves both of them glowing. It prefers a well-lit space, since it has a hard time reading its surroundings once the light goes.",
+    "media": [
+      {
+        "title": "Pokémon the Series: Advanced, May's Torchic",
+        "note": "May's first Pokémon, following her closely before evolving through Combusken into Blaziken."
+      }
+    ],
+    "community": "Torchic is a favorite starter pick for newer trainers, both for its warm design and for how closely it sticks by its trainer's side early on.",
+    "why": [
+      {
+        "text": "Torchic follows behind with unsteady steps, staying close to the trainer it trusts.",
+        "trait": "A",
+        "anchor": "unsteady",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/255/"
+      },
+      {
+        "text": "Torchic dislikes darkness because unlit surroundings are hard for it to read.",
+        "trait": "S",
+        "anchor": "darkness",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Torchic_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Torchic feels warm enough inside that a simple hug leaves both sides glowing.",
+        "trait": "A",
+        "anchor": "warm",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/255/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/255/",
+      "https://bulbapedia.bulbagarden.net/wiki/Torchic_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Blaziken",
+    "showdown_id": "blaziken",
+    "genus": "Blaze Pokémon",
+    "stage": "evolved",
+    "ratings": {
+      "O": -1,
+      "C": 2,
+      "E": 2,
+      "A": -2,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its entries focus entirely on combat and physical training, a practical, down-to-earth read with nothing pointing toward curiosity or invention.",
+      "C": "It is described learning martial arts that combine punches and kicks, real discipline behind its fighting style.",
+      "E": "Its own entry says the stronger the foe, the more intensely its wrist flames burn, a Pokémon that draws energy from a real challenge.",
+      "A": "Its entries center on facing tougher opponents on its own terms, so this trait leans toward the strong-willed pole.",
+      "S": "Even in high-intensity fights, its entries describe controlled bursts of fire and calculated leaps, not a loss of composure."
+    },
+    "personality": "Blaziken burns brightest against a strong opponent, since the tougher the fight, the more intense the flames from its wrists become. Its legs are powerful enough to clear a thirty-story building in a single leap, and its training folds martial arts punches and kicks into every match. Every few years it sheds and regrows its feathers, coming back just as fast.",
+    "media": [
+      {
+        "title": "Pokémon the Series: Advanced, May's Blaziken",
+        "note": "Evolved from Torchic and Combusken and competed through Pokémon Contests across Hoenn."
+      }
+    ],
+    "community": "Blaziken drew strong support in the 2020 Pokémon of the Year vote, and fans still rank its Mega Evolution among the most feared in competitive play.",
+    "why": [
+      {
+        "text": "Blaziken's wrist flames grow more intense the stronger the opponent it faces.",
+        "trait": "E",
+        "anchor": "stronger",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/257/"
+      },
+      {
+        "text": "Blaziken trains in martial arts, folding punches and kicks into every match it fights.",
+        "trait": "C",
+        "anchor": "martial arts",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Blaziken_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Blaziken can clear a thirty-story building in one leap, testing itself against any challenge in its path.",
+        "trait": "A",
+        "anchor": "leap",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/257/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/257/",
+      "https://bulbapedia.bulbagarden.net/wiki/Blaziken_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 258,
+    "name": "Mudkip",
+    "showdown_id": "mudkip",
+    "genus": "Mud Fish Pokémon",
+    "stage": "young",
+    "ratings": {
+      "O": 0,
+      "C": 0,
+      "E": -1,
+      "A": 0,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Its entries describe reading its surroundings through a sensing fin, a practical skill more than an inventive one.",
+      "C": "Its entries focus on raw strength and sensing ability more than planning, so this trait lands near the middle.",
+      "E": "Its entries describe a solitary Pokémon at the water's edge, with nothing pointing toward group behavior.",
+      "A": "Its entries focus on its own strength and senses more than on other Pokémon, so this trait lands near the middle.",
+      "S": "Its own entry says it can crush rocks bigger than itself when a tight spot calls for it, then rests calmly the rest of the time."
+    },
+    "personality": "Mudkip reads the world through the fin on its head, sensing the movement of water and air well enough to know what is happening close by without needing to see it. Push it into a tight spot and it answers with real strength, enough to crush rocks bigger than itself. On land it rests at the water's edge, steady and unbothered.",
+    "media": [
+      {
+        "title": "Pokémon Ruby and Sapphire, the Hoenn starter choice",
+        "note": "One of three starters offered at the very start of the Hoenn region games."
+      }
+    ],
+    "community": "Mudkip has stayed a well-liked pick years after its games came out, thanks to a well-known internet catchphrase that fans still bring up fondly.",
+    "why": [
+      {
+        "text": "Mudkip senses the movement of water and air through the fin on its head to read what is happening nearby.",
+        "trait": "O",
+        "anchor": "senses",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/258/"
+      },
+      {
+        "text": "Mudkip stays calm until a tight spot calls for real strength, enough to crush rocks bigger than itself.",
+        "trait": "S",
+        "anchor": "crush",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Mudkip_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Mudkip rests at the water's edge, steady and unbothered by whatever is nearby.",
+        "trait": "S",
+        "anchor": "rests",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/258/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/258/",
+      "https://bulbapedia.bulbagarden.net/wiki/Mudkip_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 260,
+    "name": "Swampert",
+    "showdown_id": "swampert",
+    "genus": "Mud Fish Pokémon",
+    "stage": "evolved",
+    "ratings": {
+      "O": 1,
+      "C": 1,
+      "E": -1,
+      "A": 1,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Its own entry says it predicts storms by sensing subtle differences in wave and wind sound, a genuinely perceptive trait.",
+      "C": "It is described piling up boulders ahead of a storm to protect its nest, real preparation before trouble arrives.",
+      "E": "Its entries stay focused on strength and preparation, saying nothing about social behavior, so this trait lands near the middle.",
+      "A": "Its own entry says it protects its seaside nest by piling up boulders once it senses a storm coming.",
+      "S": "Its entries describe calm, prepared strength through a storm, never a loss of composure."
+    },
+    "personality": "Swampert has the strength to drag a massive boulder without much trouble, and its eyes see clearly even in murky water. It reads a coming storm through small changes in the sound of waves and wind, then piles up boulders around its nest to keep it safe. It swims fast enough to keep pace with a jet ski.",
+    "media": [
+      {
+        "title": "Pokémon Ruby and Sapphire, the final Hoenn starter evolution",
+        "note": "The strongest of the three final Hoenn starter forms in competitive Pokémon for over two decades."
+      }
+    ],
+    "community": "Swampert has stayed one of the most reliable choices in competitive Pokémon for decades, valued for how well it holds up against Electric-type attacks that trouble other Water types.",
+    "why": [
+      {
+        "text": "Swampert predicts a coming storm through small changes in the sound of waves and wind.",
+        "trait": "O",
+        "anchor": "predicts",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/260/"
+      },
+      {
+        "text": "Swampert protects its seaside nest by piling up boulders well before a storm arrives.",
+        "trait": "A",
+        "anchor": "protects",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Swampert_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Swampert stays ready for a storm long before it arrives, piling up boulders around its nest.",
+        "trait": "S",
+        "anchor": "storm",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/260/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/260/",
+      "https://bulbapedia.bulbagarden.net/wiki/Swampert_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 311,
+    "name": "Plusle",
+    "showdown_id": "plusle",
+    "genus": "Cheering Pokémon",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": -1,
+      "E": 3,
+      "A": 3,
+      "S": 0
+    },
+    "rating_evidence": {
+      "O": "Its entries focus on cheering and electricity, with nothing pointing toward curiosity or new ideas.",
+      "C": "Its entries describe spontaneous bursts of cheering more than a fixed routine, so this trait favors the go-with-the-flow pole.",
+      "E": "Its own entry says it always acts as a cheerleader for its partners, flashing sparks the moment they do well.",
+      "A": "It is described as living to support a partner's good effort, one of the clearest team-player reads in the pool.",
+      "S": "Its entries focus on quick emotional reactions to a partner's wins and losses, so this trait leans toward the sensitive pole."
+    },
+    "personality": "Plusle cheers for its teammates without holding back, lighting up with crackling sparks the moment a partner pulls off a good play. It shapes that same static electricity into pom-poms just for cheering, and it climbs telephone poles to keep its own charge topped up. Its whole role on a team is to make everyone else's effort feel seen.",
+    "media": [
+      {
+        "title": "Pokémon Ruby and Sapphire, the Cheering Pokémon",
+        "note": "Introduced alongside Minun as a matched pair species built around cheering on a partner in battle."
+      }
+    ],
+    "community": "Plusle is a favorite among fans who like a support-focused Pokémon, since its whole design and Pokédex entry are built around lifting up a partner.",
+    "why": [
+      {
+        "text": "Plusle lights up with crackling sparks the moment a teammate pulls off a good play.",
+        "trait": "E",
+        "anchor": "sparks",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/311/"
+      },
+      {
+        "text": "Plusle acts as a cheerleader for its partners, turning its own electricity into pom-poms just to support them.",
+        "trait": "A",
+        "anchor": "cheerleader",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Plusle_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Plusle climbs telephone poles on its own to keep its charge ready for the next teammate to cheer for.",
+        "trait": "O",
+        "anchor": "telephone poles",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/311/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/311/",
+      "https://bulbapedia.bulbagarden.net/wiki/Plusle_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 333,
+    "name": "Swablu",
+    "showdown_id": "swablu",
+    "genus": "Cotton Bird Pokémon",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": 3,
+      "E": 0,
+      "A": 2,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its entries describe a habitual grooming routine more than curiosity about new things, so this trait leans toward the practical pole.",
+      "C": "Its own entry says it loves to make things clean and heads to a stream the moment it needs to freshen up, a genuinely tidy habit.",
+      "E": "Its entries focus on quiet grooming and settling on people's heads, saying little about group activity, so this trait lands near the middle.",
+      "A": "Its own entry says it is not frightened of people and will settle calmly on someone's head, a trusting read.",
+      "S": "Its entries describe a calm, settled Pokémon around people, with nothing suggesting it startles easily."
+    },
+    "personality": "Swablu keeps its cottony wings spotless, and it heads straight for a stream to wash whenever they need it. It is not frightened of people, and it will land softly on someone's head and settle there like a cotton hat. Flocks of Swablu move closer to towns once winter eases into spring.",
+    "media": [
+      {
+        "title": "Pokémon Emerald, Swablu flocks near Mt. Pyre",
+        "note": "A common early sight in the Hoenn games, often seen in small flocks near the region's coastline and mountains."
+      }
+    ],
+    "community": "Swablu is well liked by fans for being one of the more approachable early-route Pokémon, both for its calm nature around people and for the tidy habits its Pokédex describes.",
+    "why": [
+      {
+        "text": "Swablu heads straight for a stream to keep itself clean whenever it needs to.",
+        "trait": "C",
+        "anchor": "clean",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/333/"
+      },
+      {
+        "text": "Swablu is not frightened of people, and it will settle calmly on someone's head.",
+        "trait": "A",
+        "anchor": "frightened",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Swablu_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Swablu's wings look like cottony clouds, light enough to drift and settle on a passerby's head.",
+        "trait": "O",
+        "anchor": "cottony",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/333/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/333/",
+      "https://bulbapedia.bulbagarden.net/wiki/Swablu_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 403,
+    "name": "Shinx",
+    "showdown_id": "shinx",
+    "genus": "Flash Pokémon",
+    "stage": "young",
+    "ratings": {
+      "O": 0,
+      "C": -1,
+      "E": 1,
+      "A": -1,
+      "S": -2
+    },
+    "rating_evidence": {
+      "O": "Its entries focus on sensing danger and signaling, with nothing pointing toward curiosity as such.",
+      "C": "Its entries describe an instinctive, reactive flash response more than a planned routine, so this trait leans toward the flexible pole.",
+      "E": "Its own entry says it signals to others of its kind by shining its tail, a real form of reaching out.",
+      "A": "One entry notes it takes real patience to tame and that it holds to its own instincts, a strong-willed read.",
+      "S": "Its own entry says its whole coat flashes the instant danger is sensed, among the more alert entries in the pool."
+    },
+    "personality": "Shinx flashes its whole coat the instant it senses danger, using that burst of light to slip away while a threat is still blinking. It signals to others of its kind by making the tip of its tail shine, a quick way to pass along a warning. Its glow builds the more the moment calls for it, and it holds its ground when it counts.",
+    "media": [
+      {
+        "title": "Pokémon Diamond and Pearl, an early Sinnoh partner",
+        "note": "One of the first Electric-type Pokémon available to catch on Sinnoh's Route 202."
+      }
+    ],
+    "community": "Shinx is a popular early pick in Sinnoh for trainers who want an Electric type from the start, and fans like the flashing coat as a genuinely useful early warning system in the games' lore.",
+    "why": [
+      {
+        "text": "Shinx flashes its whole coat the instant danger is sensed, giving itself a head start to get clear.",
+        "trait": "S",
+        "anchor": "sensed",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/403/"
+      },
+      {
+        "text": "Shinx signals to others of its kind by shining the tip of its tail, a quick shared warning system.",
+        "trait": "E",
+        "anchor": "signals",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Shinx_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Shinx takes a patient trainer to tame, since it holds to its own instincts and does not back down easily.",
+        "trait": "A",
+        "anchor": "patient",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/403/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/403/",
+      "https://bulbapedia.bulbagarden.net/wiki/Shinx_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 417,
+    "name": "Pachirisu",
+    "showdown_id": "pachirisu",
+    "genus": "EleSquirrel Pokémon",
+    "stage": "young",
+    "ratings": {
+      "O": 0,
+      "C": 1,
+      "E": 3,
+      "A": 1,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its entries focus on storing fur balls and sharing charge, with nothing pointing toward curiosity as such.",
+      "C": "It is described storing its crackling fur balls with berries in tree holes, a small but real organizing habit.",
+      "E": "Its anime role as Dawn's constant, playful partner points clearly toward the outgoing pole.",
+      "A": "Its own entry describes a pair rubbing cheek pouches together just to share stored electricity, a cooperative habit.",
+      "S": "Its own entry calls it a calm Pokémon day to day, even though a careless touch can still draw a charge."
+    },
+    "personality": "Pachirisu makes fur balls that crackle with static and tucks them away in tree holes for later. A pair will rub their cheek pouches together just to share stored electricity between them. Playful and always in motion, it still carries a real charge, so a quick touch of its tail or cheeks can catch someone off guard.",
+    "media": [
+      {
+        "title": "Pokémon the Series: Diamond & Pearl, Dawn's Pachirisu",
+        "note": "Dawn's energetic partner across her Sinnoh travels, known for its playful antics and Pokémon Contest appearances."
+      }
+    ],
+    "community": "Dawn's Pachirisu made the species one of the more memorable anime partners of its generation, and fans still bring up its playful energy and Contest performances.",
+    "why": [
+      {
+        "text": "Pachirisu makes crackling fur balls and stores them away in tree holes for later.",
+        "trait": "E",
+        "anchor": "fur balls",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/417/"
+      },
+      {
+        "text": "Pachirisu rubs cheek pouches with another of its kind just to share stored electricity between them.",
+        "trait": "A",
+        "anchor": "share",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Pachirisu_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Pachirisu is described as a calm Pokémon day to day, even though a careless touch of its tail can still deliver a charge.",
+        "trait": "S",
+        "anchor": "calm",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/417/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/417/",
+      "https://bulbapedia.bulbagarden.net/wiki/Pachirisu_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 490,
+    "name": "Manaphy",
+    "showdown_id": "manaphy",
+    "genus": "Seafaring Pokémon",
+    "stage": "young",
+    "ratings": {
+      "O": 2,
+      "C": 0,
+      "E": 1,
+      "A": 3,
+      "S": -2
+    },
+    "rating_evidence": {
+      "O": "Its own entry says it swims great distances across the ocean to return to its birthplace, real range and follow-through.",
+      "C": "Its entries focus on instinct and bonding more than planning, so this trait lands near the middle.",
+      "E": "Its entries describe reaching out and bonding with other Pokémon, a mildly outward-facing read on this trait.",
+      "A": "Its own entry says it is born with a rare gift for bonding closely with any kind of Pokémon it meets.",
+      "S": "Its own entry says it is easily affected by its environment, a clear sensitive-pole read straight from the Pokédex."
+    },
+    "personality": "Manaphy is born on a cold seafloor and swims great distances just to return to that same birthplace later in life. Water makes up most of its body, so it responds quickly to whatever is happening around it. From the moment it hatches it carries a rare gift: the ability to bond closely with almost any kind of Pokémon it meets.",
+    "media": [
+      {
+        "title": "Pokémon Ranger and the Temple of the Sea (2006)",
+        "note": "The film's central Mythical Pokémon, which imprints on and bonds closely with a young character named Sam."
+      }
+    ],
+    "community": "Manaphy is remembered fondly by fans of the 2006 film as one of the more emotional Mythical Pokémon debuts, especially for how deeply it bonds with the people around it.",
+    "why": [
+      {
+        "text": "Manaphy is born with a rare gift for bonding closely with almost any kind of Pokémon it meets.",
+        "trait": "A",
+        "anchor": "bond",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/490/"
+      },
+      {
+        "text": "Manaphy is easily affected by its surroundings, reacting quickly to whatever changes around it.",
+        "trait": "S",
+        "anchor": "affected",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Manaphy_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Manaphy swims great distances across the ocean just to return to the cold seafloor where it was born.",
+        "trait": "O",
+        "anchor": "distances",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/490/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/490/",
+      "https://bulbapedia.bulbagarden.net/wiki/Manaphy_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 492,
+    "name": "Shaymin",
+    "showdown_id": "shaymin",
+    "genus": "Gratitude Pokémon",
+    "stage": "young",
+    "ratings": {
+      "O": 1,
+      "C": 0,
+      "E": -2,
+      "A": 3,
+      "S": -2
+    },
+    "rating_evidence": {
+      "O": "Its own entry says it can dissolve toxins in the air and turn ruined land into a field of flowers, a genuinely inventive effect.",
+      "C": "Its entries focus on instinct and reaction to gratitude more than a fixed routine, so this trait lands near the middle.",
+      "E": "Its own entry says it avoids detection by curling up to look like part of a flower patch, a clearly low-key habit.",
+      "A": "Its genus, Gratitude Pokémon, and its entry about blooming when hugged make it one of the warmest reads in the pool.",
+      "S": "Its own entry ties its blooming directly to sensing gratitude, a fast, felt emotional response."
+    },
+    "personality": "Shaymin curls up among flowers so well that it can pass for part of the patch, staying out of sight until it wants to be found. It can clear toxins from the air and turn ruined ground into a field of flowers in the process. Give it a caring hug and the flowers across its body bloom, a direct response to feeling genuinely thanked.",
+    "media": [
+      {
+        "title": "Pokémon: Giratina and the Sky Warrior (2008)",
+        "note": "The film's featured Mythical Pokémon, which restores a withered valley to full bloom by the story's end."
+      }
+    ],
+    "community": "Shaymin is a favorite among fans of the Sinnoh films for the way its whole design ties directly to gratitude and growth, turning ruined land back into flowers.",
+    "why": [
+      {
+        "text": "Shaymin's flowers bloom across its body the moment it senses real gratitude from someone nearby.",
+        "trait": "A",
+        "anchor": "gratitude",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/492/"
+      },
+      {
+        "text": "Shaymin can clear toxins from the air and turn ruined land into a field of flowers.",
+        "trait": "O",
+        "anchor": "toxins",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Shaymin_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Shaymin gets by curling up among flowers so well it can pass for part of the patch, keeping to itself.",
+        "trait": "E",
+        "anchor": "curling up",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/492/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/492/",
+      "https://bulbapedia.bulbagarden.net/wiki/Shaymin_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 494,
+    "name": "Victini",
+    "showdown_id": "victini",
+    "genus": "Victory Pokémon",
+    "stage": "young",
+    "ratings": {
+      "O": 1,
+      "C": -1,
+      "E": 3,
+      "A": 3,
+      "S": 0
+    },
+    "rating_evidence": {
+      "O": "Its own entry says it creates an unlimited supply of energy inside its body, an inventive premise for a Mythical Pokémon.",
+      "C": "Its entries focus on an endless, spontaneous supply of energy more than a planned routine, so this trait leans toward the flexible pole.",
+      "E": "Its genus, Victory Pokémon, and its entry about bringing victory in any encounter point toward the outgoing pole.",
+      "A": "Its own entry says it shares the infinite energy it creates with anyone who simply touches it, a generous premise.",
+      "S": "Its entries focus on the energy it generates, saying little about emotional reaction, so this trait lands near the middle."
+    },
+    "personality": "Victini is said to bring victory to any trainer who has one, no matter what kind of match they are in. It generates energy inside its own body without any limit, then shares that supply freely with anyone who simply touches it. The result is a Pokémon whose whole purpose is to lift up whoever stands next to it.",
+    "media": [
+      {
+        "title": "Pokémon: Victini and the Dark Hero / White Hero (2011)",
+        "note": "The paired films' featured Mythical Pokémon, which shares its unlimited energy with the human hero of the story."
+      }
+    ],
+    "community": "Victini is well liked among fans of the Mythical Pokémon line for a simple, generous premise: an endless well of energy freely given to anyone nearby.",
+    "why": [
+      {
+        "text": "Victini shares the unlimited energy it creates with anyone who simply touches it.",
+        "trait": "A",
+        "anchor": "shares",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/494/"
+      },
+      {
+        "text": "Victini is said to bring victory to any trainer carrying one, whatever the kind of match.",
+        "trait": "E",
+        "anchor": "victory",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Victini_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Victini creates an unlimited supply of energy inside its own body, an endless resource it can pass on.",
+        "trait": "O",
+        "anchor": "energy",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/494/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/494/",
+      "https://bulbapedia.bulbagarden.net/wiki/Victini_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 585,
+    "name": "Deerling",
+    "showdown_id": "deerling",
+    "genus": "Season Pokémon",
+    "stage": "young",
+    "ratings": {
+      "O": 1,
+      "C": -1,
+      "E": -2,
+      "A": 0,
+      "S": -2
+    },
+    "rating_evidence": {
+      "O": "Its own entry says its color and scent change with the season, and people use that shift to mark the calendar, a genuinely adaptive trait.",
+      "C": "Its entries describe a shifting appearance more than a fixed routine, so this trait favors the go-with-the-flow pole.",
+      "E": "Its own entry says it hides in the grass the moment it senses trouble, a clearly low-key response.",
+      "A": "Its entries focus on blending in and sensing danger, saying little about other Pokémon, so this trait lands near the middle.",
+      "S": "Its own entry says it senses hostility and hides right away, a fast, alert reaction to a changing situation."
+    },
+    "personality": "Deerling's fur changes color and scent to match the season, blending it into the mountain grass around it. The moment it senses hostility nearby, it drops low and hides in that same grass instead of standing its ground. People have long used its shifting look as a simple, natural way to mark the turning of the seasons.",
+    "media": [
+      {
+        "title": "Pokémon Black and White, the season-linked appearance mechanic",
+        "note": "Deerling's color and typing shift with the real-world season through the game's internal calendar."
+      }
+    ],
+    "community": "Deerling is a favorite among fans who like collecting every seasonal look, since catching all four color forms became a small side goal in Black and White.",
+    "why": [
+      {
+        "text": "Deerling senses hostility early and quietly slips into the grass instead of standing its ground.",
+        "trait": "S",
+        "anchor": "hostility",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/585/"
+      },
+      {
+        "text": "Deerling's color and scent shift with the seasons, and people use that change to mark the calendar.",
+        "trait": "O",
+        "anchor": "seasons",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Deerling_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Deerling hides in the grass the moment it senses trouble nearby, staying out of open sight.",
+        "trait": "E",
+        "anchor": "hide",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/585/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/585/",
+      "https://bulbapedia.bulbagarden.net/wiki/Deerling_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 586,
+    "name": "Sawsbuck",
+    "showdown_id": "sawsbuck",
+    "genus": "Season Pokémon",
+    "stage": "mature",
+    "ratings": {
+      "O": 0,
+      "C": 1,
+      "E": 0,
+      "A": 2,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Its own entry says people read the season from the plants on its horns, a distinctive natural signal.",
+      "C": "Its entries describe a reliable seasonal migration pattern, the kind of steady, repeated behavior conscientiousness describes.",
+      "E": "Its entries focus on migration and herd structure, saying little about performance, so this trait lands near the middle.",
+      "A": "Its own entry says the leaders of its herd carry the finest horns, a role built around guiding the group.",
+      "S": "Its entries describe a steady, repeated seasonal migration every year, among the more predictable entries in the pool."
+    },
+    "personality": "Sawsbuck migrates with the changing seasons, and the plants growing on its horns shift right along with it. People read the season just by looking at those horns, and the leaders of the herd carry the finest set of all. Some call the whole herd a herald of spring once its migration begins.",
+    "media": [
+      {
+        "title": "Pokémon Black and White, the season-linked evolution",
+        "note": "Sawsbuck's horn growth and coloring shift with the real-world season through the game's internal calendar."
+      }
+    ],
+    "community": "Sawsbuck is well regarded by fans for carrying its seasonal gimmick all the way to its final form, and the herd-leader detail in its Pokédex adds a nice sense of hierarchy to the species.",
+    "why": [
+      {
+        "text": "Sawsbuck's herd looks to its leaders, and the finest horns in the group belong to them.",
+        "trait": "A",
+        "anchor": "herd",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/586/"
+      },
+      {
+        "text": "People can read the season just by looking at the plants growing on a Sawsbuck's horns.",
+        "trait": "O",
+        "anchor": "season",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Sawsbuck_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Sawsbuck migrates on the same seasonal schedule every year, a steady and predictable rhythm.",
+        "trait": "S",
+        "anchor": "migrate",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/586/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/586/",
+      "https://bulbapedia.bulbagarden.net/wiki/Sawsbuck_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 610,
+    "name": "Axew",
+    "showdown_id": "axew",
+    "genus": "Tusk Pokémon",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": 1,
+      "E": 1,
+      "A": -2,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its entries focus on tusks and territory more than curiosity, so this trait lands in the middle.",
+      "C": "Its own entry says a broken tusk grows back harder and sturdier every time, a real pattern of improvement.",
+      "E": "Its own entry says it plays with others by knocking its large tusks together, a genuinely social habit.",
+      "A": "Its entries describe marking its own territory and testing its strength against others, a strong-willed read.",
+      "S": "Its own entry says a broken tusk is not a real concern since a new one grows back so quickly, a steady, unbothered read."
+    },
+    "personality": "Axew tests its own strength by knocking its tusks together with others of its kind, and it treats a broken tusk as a minor setback, not a real concern. A new one grows back quickly, sharper and sturdier than before. It marks its territory by leaving gashes in trees, a clear, confident signal that it has already claimed the ground.",
+    "media": [
+      {
+        "title": "Pokémon the Series: Best Wishes, Iris's Axew",
+        "note": "Iris's constant partner throughout the Unova region, later evolving into Fraxure."
+      }
+    ],
+    "community": "Iris's Axew made the species one of the more beloved anime partners of its generation, valued for its determination and its close bond with its trainer.",
+    "why": [
+      {
+        "text": "Axew's tusks grow back quickly after a break, coming in sharper and sturdier every time.",
+        "trait": "C",
+        "anchor": "sturdier",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/610/"
+      },
+      {
+        "text": "Axew marks its own territory by leaving clear gashes in trees, a confident claim on its ground.",
+        "trait": "A",
+        "anchor": "territory",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Axew_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Axew treats a broken tusk as a minor setback, not a real concern, since a new one grows back fast.",
+        "trait": "S",
+        "anchor": "concern",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/610/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/610/",
+      "https://bulbapedia.bulbagarden.net/wiki/Axew_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 821,
+    "name": "Rookidee",
+    "showdown_id": "rookidee",
+    "genus": "Tiny Bird Pokémon",
+    "stage": "young",
+    "ratings": {
+      "O": 1,
+      "C": 0,
+      "E": 2,
+      "A": -2,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its own entry says it takes advantage of even the slightest opportunity against a larger opponent, a genuinely tactical read.",
+      "C": "Its entries focus on bold challenges more than a planned routine, so this trait lands near the middle.",
+      "E": "Its own entry says it will bravely challenge any opponent no matter how powerful, an outgoing, confident read.",
+      "A": "Its entries describe challenging any opponent regardless of size, a clearly strong-willed line.",
+      "S": "Its own entry says even a defeat increases its strength a bit, a Pokémon that treats a setback as fuel, not a blow."
+    },
+    "personality": "Rookidee will challenge any opponent without hesitation, no matter how much bigger or stronger they are. Even a loss teaches it something, since its Pokédex says every battle leaves it a little stronger than before. It moves in quick, nimble jumps that let it slip past a much larger opponent's guard and strike from an angle they never expect.",
+    "media": [
+      {
+        "title": "Pokémon Sword and Shield, an early Galar route catch",
+        "note": "One of the first Flying-type Pokémon available on Galar's Route 2."
+      }
+    ],
+    "community": "Rookidee is well liked by new players as an early Galar pick, mostly for a Pokédex line that turns even a loss into real growth.",
+    "why": [
+      {
+        "text": "Rookidee will bravely challenge any opponent, no matter how much bigger or stronger they are.",
+        "trait": "A",
+        "anchor": "challenge",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/821/"
+      },
+      {
+        "text": "Rookidee grows stronger from every battle, since even a defeat increases its strength a bit.",
+        "trait": "S",
+        "anchor": "increases",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Rookidee_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Rookidee takes advantage of the smallest opportunity to slip past a much larger opponent's guard.",
+        "trait": "O",
+        "anchor": "opportunity",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/821/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/821/",
+      "https://bulbapedia.bulbagarden.net/wiki/Rookidee_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 836,
+    "name": "Boltund",
+    "showdown_id": "boltund",
+    "genus": "Dog Pokémon",
+    "stage": "evolved",
+    "ratings": {
+      "O": 0,
+      "C": -2,
+      "E": 3,
+      "A": 0,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its entries focus on speed and endurance more than curiosity, so this trait lands in the middle.",
+      "C": "Its entries describe a spontaneous, go-with-the-flow burst of running more than a planned routine, so this trait leans toward the flexible pole.",
+      "E": "Its own entry says it can run nonstop for three full days, about as energetic a line as the Pokédex offers.",
+      "A": "Its entries focus on its own speed and stamina, saying little about other Pokémon, so this trait lands near the middle.",
+      "S": "Its own entry says it holds a steady top speed past fifty miles an hour without slowing, a picture of sustained, controlled effort."
+    },
+    "personality": "Boltund channels electricity straight into its legs to keep them running strong, and it can go nonstop for three full days without a break. At top speed it easily clears fifty miles an hour, covering ground faster than almost anything else on foot. It treats a long run less like an effort and more like its natural state.",
+    "media": [
+      {
+        "title": "Pokémon Sword and Shield, the Wild Area",
+        "note": "A Dog Pokémon commonly encountered running across Galar's open Wild Area."
+      }
+    ],
+    "community": "Boltund draws attention from fans mainly for its raw endurance stat, the kind of Pokédex claim, running for three days straight, that people like to bring up in conversation.",
+    "why": [
+      {
+        "text": "Boltund can run nonstop for three full days, treating a long run as its natural state.",
+        "trait": "E",
+        "anchor": "nonstop",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/836/"
+      },
+      {
+        "text": "Boltund channels electricity into its legs to keep their strength up over a long run.",
+        "trait": "C",
+        "anchor": "strength",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Boltund_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Boltund holds a steady top speed that easily breaks fifty miles an hour without slowing.",
+        "trait": "S",
+        "anchor": "top speed",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/836/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/836/",
+      "https://bulbapedia.bulbagarden.net/wiki/Boltund_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 888,
+    "name": "Zacian",
+    "showdown_id": "zacian",
+    "genus": "Warrior Pokémon",
+    "stage": "mature",
+    "ratings": {
+      "O": 1,
+      "C": 2,
+      "E": -1,
+      "A": -3,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Its own entry says it gathers metal particles and shapes them into its own weapon, a genuinely inventive origin for a legendary Pokémon.",
+      "C": "It is described building and carrying a sword entirely of its own making, real discipline behind that craft.",
+      "E": "Its entries focus on solitary heroism, saying little about group behavior, so this trait leans toward the quieter side.",
+      "A": "Its own entry calls it a legendary hero that forges and carries its own weapon, a clearly principled, strong-willed read.",
+      "S": "Its entries describe a composed legendary Pokémon that carries its self-made sword into every fight with the same steady resolve."
+    },
+    "personality": "Zacian is known across Galar as a legendary hero, the kind of Pokémon whole regions tell stories about. It gathers metal particles from its surroundings and shapes them into a sword it carries into battle. That sword is entirely its own work, built and carried on its own terms.",
+    "media": [
+      {
+        "title": "Pokémon Sword, cover legendary",
+        "note": "The signature legendary Pokémon of Pokémon Sword, appearing in its own Crowned Sword form during the story."
+      }
+    ],
+    "community": "Zacian is widely respected by fans as one of the more striking legendary designs in Galar, both for its wolf-and-sword look and for topping the competitive tier lists for years.",
+    "why": [
+      {
+        "text": "Zacian carries itself as a legendary hero, standing on its own principles across every story told about it.",
+        "trait": "A",
+        "anchor": "hero",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/888/"
+      },
+      {
+        "text": "Zacian gathers metal particles and shapes them into its own weapon, built with real care.",
+        "trait": "C",
+        "anchor": "weapon",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Zacian_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Zacian carries its self-made sword into battle with the same composure every time, undaunted by the fight ahead.",
+        "trait": "S",
+        "anchor": "battle",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/888/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/888/",
+      "https://bulbapedia.bulbagarden.net/wiki/Zacian_(Pok%C3%A9mon)"
+    ]
+  }
+]

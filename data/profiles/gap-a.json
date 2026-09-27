@@ -1,0 +1,1009 @@
+[
+  {
+    "id": 77,
+    "name": "Ponyta",
+    "showdown_id": "ponyta",
+    "genus": "Fire Horse Pokémon",
+    "stage": "young",
+    "ratings": {
+      "O": -2,
+      "C": -1,
+      "E": 2,
+      "A": 1,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "The Pokédex measures Ponyta by diamond-hard hooves and jumping power instead of new ideas, which keeps it on the practical, down-to-earth side.",
+      "C": "It grows faster only by chasing its parents, an easygoing start with no set training plan behind it.",
+      "E": "Yellow version's Pokédex says it is capable of jumping incredibly high, a burst of activity that reads as lively.",
+      "A": "Shield version's Pokédex says a trusted trainer finds its burning mane no longer hot to the touch, a small sign of trust.",
+      "S": "A newborn Ponyta starts as an unsteady runner and only reaches real speed by chasing after its parents, an early, jumpy start."
+    },
+    "personality": "Ponyta jumps to impressive heights and lands lightly on legs built to absorb the impact. It starts out an unsteady runner and grows faster by chasing its parents, which is how it learns real speed. Once it trusts a trainer, the flame on its mane no longer feels hot to the touch. It keeps moving, always game for the next dash across open ground.",
+    "media": [
+      {
+        "title": "Pokémon Shield, Pokédex entry",
+        "note": "A trusted trainer finds that the flame on its mane no longer feels hot to the touch."
+      }
+    ],
+    "community": "Fans see Ponyta as one of Kanto's most reliable early finds, a bright, fast partner that grows into Rapidash. Its jumping ability and trusting nature keep it a fond pick for casual teams.",
+    "why": [
+      {
+        "text": "Ponyta is capable of jumping to remarkable heights, using sturdy legs built to absorb a hard landing.",
+        "trait": "E",
+        "anchor": "jumping",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/77/"
+      },
+      {
+        "text": "Once a trainer earns its trust, Ponyta's fiery mane no longer feels hot to the touch.",
+        "trait": "A",
+        "anchor": "hot",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/77/"
+      },
+      {
+        "text": "It starts life as an unsteady runner and grows faster with every chase after its parents.",
+        "trait": "C",
+        "anchor": "runner",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/77/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/77/",
+      "https://bulbapedia.bulbagarden.net/wiki/Ponyta_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Rapidash",
+    "showdown_id": "rapidash",
+    "genus": "Fire Horse Pokémon",
+    "stage": "evolved",
+    "ratings": {
+      "O": -1,
+      "C": -2,
+      "E": 2,
+      "A": -2,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "The Pokédex sums it up through speed and racing, not ideas, which keeps Rapidash on the practical side.",
+      "C": "Red and Blue's Pokédex says it will chase anything that moves fast, a spur-of-the-moment habit with no fixed routine.",
+      "E": "Its Pokédex says it just loves to run and gives chase the moment it sees something faster than itself.",
+      "A": "Red and Blue's Pokédex calls it very competitive, the strong-willed streak that keeps it racing anyone in sight.",
+      "S": "Shield's Pokédex says the fastest runner becomes the herd's leader and steadily sets its pace and direction."
+    },
+    "personality": "Rapidash chases down anything that moves fast, always ready for a race with something quicker than itself. It can gallop at speeds close to a bullet train, all fire and motion. In a herd, the fastest runner takes the lead and sets the pace for the rest. It commits fully once a race is on.",
+    "media": [
+      {
+        "title": "Pokémon Red and Blue, Pokédex entry",
+        "note": "It races anything that looks faster than itself, chasing the challenge wherever it leads."
+      }
+    ],
+    "community": "Trainers who raise Rapidash for speed enjoy the payoff, a Fire type built to close a race when speed matters most. Its rivalry-driven streak reads as confident and direct.",
+    "why": [
+      {
+        "text": "Rapidash chases anything that looks faster than itself, always ready for another racing challenge.",
+        "trait": "E",
+        "anchor": "racing",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/78/"
+      },
+      {
+        "text": "It gallops at speeds close to a bullet train while ablaze, a bold streak the Pokédex calls very competitive.",
+        "trait": "A",
+        "anchor": "competitive",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/78/"
+      },
+      {
+        "text": "The fastest Rapidash in a herd becomes the leader and steadily sets the group's pace and direction.",
+        "trait": "C",
+        "anchor": "leader",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/78/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/78/",
+      "https://bulbapedia.bulbagarden.net/wiki/Rapidash_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Electabuzz",
+    "showdown_id": "electabuzz",
+    "genus": "Electric Pokémon",
+    "stage": "evolved",
+    "ratings": {
+      "O": 0,
+      "C": -2,
+      "E": 3,
+      "A": -1,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex describes a body that glows in the dark, a striking trait separate from curiosity, so it sits near the middle on ideas.",
+      "C": "Red and Blue's Pokédex says it is normally found near power plants but can wander off on its own, a spontaneous habit.",
+      "E": "Its Pokédex describes electricity constantly running across its body, matching an always-on, outgoing energy.",
+      "A": "Crystal's Pokédex says two Electabuzz trade electric currents to share their feelings, a connection built on its own terms.",
+      "S": "Its restless wandering away from power plants points to a quick, changeable nature."
+    },
+    "personality": "Electabuzz keeps close to wherever the action is, all energy and quick movement. Electricity runs across its body and glows a pale blue in the dark, a visible sign of how charged up it gets. Two Electabuzz can trade currents to share how they feel with each other. It brings a jolt of energy to any team.",
+    "media": [
+      {
+        "title": "Pokémon: Diamond and Pearl, a key member of rival Paul's team",
+        "note": "It brought fast, high-energy pressure to Paul's lineup against Ash."
+      }
+    ],
+    "community": "Fans know Electabuzz as a Gen 1 mainstay, a live wire on any team that thrives on quick trades and fast pressure. Its glow and constant motion give it an outgoing, sparks-flying reputation.",
+    "why": [
+      {
+        "text": "Two Electabuzz can trade electric currents to share their feelings with each other.",
+        "trait": "A",
+        "anchor": "currents",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/125/"
+      },
+      {
+        "text": "It wanders near power plants and can turn up almost anywhere it senses a fresh charge.",
+        "trait": "C",
+        "anchor": "power plants",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/125/"
+      },
+      {
+        "text": "Its body glows a pale blue in true darkness, with electricity visibly running across its skin.",
+        "trait": "O",
+        "anchor": "glows",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/125/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/125/",
+      "https://bulbapedia.bulbagarden.net/wiki/Electabuzz_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Meganium",
+    "showdown_id": "meganium",
+    "genus": "Herb Pokémon",
+    "stage": "mature",
+    "ratings": {
+      "O": -1,
+      "C": 1,
+      "E": -2,
+      "A": 3,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex is about restoring plants and calming feelings, a practical, grounded gift more than a curious one.",
+      "C": "Ruby's Pokédex says it gives off more of its calming scent in battle on purpose, a deliberate, steady habit.",
+      "E": "Its Pokédex describes a quiet, calming presence, keeping it on the low-key side.",
+      "A": "Crystal's Pokédex says anyone who stands beside it feels refreshed, as if resting in a sunny forest.",
+      "S": "Gold's Pokédex says its aroma calms aggressive feelings in the Pokémon around it, a steadying effect on everyone nearby."
+    },
+    "personality": "Meganium's breath can bring wilted plants and grass back to life, and its aroma calms aggressive feelings in the Pokémon around it. Anyone who stands close to it feels refreshed, as if resting in a sunny forest. In battle, it releases more of that same calming scent to soften a foe's fighting spirit. It leads by steadying everyone nearby.",
+    "media": [
+      {
+        "title": "Pokémon Gold and Silver, Pokédex entry",
+        "note": "Its breath is said to bring wilted grass and plants back to full health."
+      }
+    ],
+    "community": "Fans regard Meganium as one of the gentlest final starters, valued for a calming presence that fits a support role. Its healing, plant-reviving reputation makes it a favorite for players who want a caretaker on the team.",
+    "why": [
+      {
+        "text": "Anyone who stands beside Meganium feels refreshed, as if resting in a sunny forest.",
+        "trait": "A",
+        "anchor": "refreshed",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/154/"
+      },
+      {
+        "text": "Meganium's fragrance soothes and calms those around it, and it uses that same calming scent to soften a foe's fighting spirit in battle.",
+        "trait": "S",
+        "anchor": "soothes",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/154/"
+      },
+      {
+        "text": "Its breath can revive wilted grass and plants, restoring a garden as gently as it calms a room.",
+        "trait": "C",
+        "anchor": "revive",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/154/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/154/",
+      "https://bulbapedia.bulbagarden.net/wiki/Meganium_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Cyndaquil",
+    "showdown_id": "cyndaquil",
+    "genus": "Fire Mouse Pokémon",
+    "stage": "young",
+    "ratings": {
+      "O": 0,
+      "C": -1,
+      "E": -2,
+      "A": 1,
+      "S": -4
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex focuses on its timid reactions, saying little about curiosity, so it sits near the middle on new ideas.",
+      "C": "Its flame reactions fire up on their own when it is startled, a spur-of-the-moment response with no plan behind it.",
+      "E": "Gold's Pokédex says it always curls itself up in a ball, a quiet, low-key habit.",
+      "A": "Its Legends Arceus entry says it harbors tremendous firepower it can turn to helping a trainer in a tough spot.",
+      "S": "Diamond and Pearl's Pokédex says it has a timid nature and its flames burn more vigorously the instant it is startled."
+    },
+    "personality": "Cyndaquil has a timid, easily startled nature and usually stays curled up in a ball. When it feels caught off guard, the flames on its back flare up on their own, a fast, honest reaction. Its usual posture is hunched and quiet, waiting until it feels safe to move. Once it warms up, that same quick spark carries it through a fight.",
+    "media": [
+      {
+        "title": "Pokémon: Johto Journeys, Ash's first Johto partner",
+        "note": "Its flames flare whenever it feels caught off guard, a visible sign of how it is feeling."
+      }
+    ],
+    "community": "Cyndaquil is a longtime fan favorite among the Johto starters, loved for a timid, expressive nature that channels straight into its flames. Its quick, visible reactions make it easy for younger fans to read and root for.",
+    "why": [
+      {
+        "text": "Cyndaquil has a timid nature, and its back flames burn more vigorously the moment it is startled.",
+        "trait": "S",
+        "anchor": "startled",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/155/"
+      },
+      {
+        "text": "It usually curls itself into a ball and stays hunched over until it feels safe enough to move.",
+        "trait": "E",
+        "anchor": "curls",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/155/"
+      },
+      {
+        "text": "Though it hails from Johto and is usually curled into a ball, Cyndaquil harbors tremendous firepower once it needs it.",
+        "trait": "C",
+        "anchor": "firepower",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/155/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/155/",
+      "https://bulbapedia.bulbagarden.net/wiki/Cyndaquil_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Typhlosion",
+    "showdown_id": "typhlosion",
+    "genus": "Volcano Pokémon",
+    "stage": "evolved",
+    "ratings": {
+      "O": 0,
+      "C": 1,
+      "E": 2,
+      "A": -1,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex centers on raw heat and power, saying little about ideas, keeping it near the middle on curiosity.",
+      "C": "Silver's Pokédex says it keeps a secret, devastating move in reserve, a deliberate, practiced habit.",
+      "E": "Crystal's Pokédex ties its heat shimmer directly to being ready to battle, an active, high-energy signal.",
+      "A": "Its readiness to battle the instant conditions are right shows a strong-willed streak that holds its ground.",
+      "S": "The way its whole body heats up and shimmers the moment it is fired up points to a quick, reactive nature."
+    },
+    "personality": "Typhlosion can rub its blazing fur together to build up huge bursts of heat, a secret move it keeps in reserve for tough moments. When the air around it starts to shimmer with heat, that shimmer is the clearest sign it is ready to battle. It creates that same shimmer to mask its position when it needs to. Once it commits to a fight, it brings full intensity.",
+    "media": [
+      {
+        "title": "Pokémon: Johto League Champions, Ash's Typhlosion at the Silver Conference",
+        "note": "It fought at full intensity once the heat shimmer around it signaled it was ready."
+      }
+    ],
+    "community": "Typhlosion is remembered as one of the strongest Johto starters, prized for raw power and a battle-ready presence. Its heat-shimmer signal gives trainers a clear, dramatic cue that it is locked in.",
+    "why": [
+      {
+        "text": "The heat shimmer rising off Typhlosion's body is a clear sign that it is ready to battle.",
+        "trait": "E",
+        "anchor": "heat shimmer",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/157/"
+      },
+      {
+        "text": "It keeps a devastating move in reserve, rubbing its blazing fur together to trigger huge bursts of heat.",
+        "trait": "C",
+        "anchor": "blazing fur",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/157/"
+      },
+      {
+        "text": "It attacks with blasts of fire, creating a heat shimmer intense enough to hide itself.",
+        "trait": "O",
+        "anchor": "blasts",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/157/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/157/",
+      "https://bulbapedia.bulbagarden.net/wiki/Typhlosion_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Totodile",
+    "showdown_id": "totodile",
+    "genus": "Big Jaw Pokémon",
+    "stage": "young",
+    "ratings": {
+      "O": 0,
+      "C": -2,
+      "E": 3,
+      "A": 0,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex is about jaw strength and playfulness, saying little about ideas, so it sits near the middle on curiosity.",
+      "C": "Crystal's Pokédex says it chomps at any moving object it sees, a spontaneous habit with no fixed routine.",
+      "E": "Ash's Totodile is known for breaking into a happy dance, an unmistakably outgoing, energetic habit.",
+      "A": "Ruby and Sapphire's Pokédex says it may think a bite is just playful nipping, showing warmth even in a strong bite.",
+      "S": "Its readiness to chomp at any moving object the instant it appears suggests a quick, reactive streak."
+    },
+    "personality": "Totodile's jaws are small but powerful enough to crush almost anything, and it will happily take a bite out of any moving object nearby. It thinks of a bite as just a playful nip, even though that nip carries real force. This rough little Pokémon chomps at whatever catches its eye, so trainers learn to watch their step. Once it starts dancing after a win, the whole team feels its energy.",
+    "media": [
+      {
+        "title": "Pokémon: The Johto Journeys, Ash's Totodile and its victory dance",
+        "note": "It breaks into a happy dance every time it wins a battle."
+      }
+    ],
+    "community": "Totodile is a beloved Johto starter known for its bouncy, upbeat energy, especially its habit of breaking into a happy dance after a win. Fans love its bite-first curiosity as part of the charm.",
+    "why": [
+      {
+        "text": "Ash's Totodile breaks into a happy dance every time it wins a battle.",
+        "trait": "E",
+        "anchor": "dance",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/158/"
+      },
+      {
+        "text": "Totodile chomps at nearly any moving object it sees, chasing whatever catches its attention first.",
+        "trait": "C",
+        "anchor": "moving object",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/158/"
+      },
+      {
+        "text": "Totodile's jaws are small but already powerful enough to crush nearly anything, and it treats every nip as a game with its trainer.",
+        "trait": "A",
+        "anchor": "crush",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/158/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/158/",
+      "https://bulbapedia.bulbagarden.net/wiki/Totodile_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Noctowl",
+    "showdown_id": "noctowl",
+    "genus": "Owl Pokémon",
+    "stage": "mature",
+    "ratings": {
+      "O": 3,
+      "C": 1,
+      "E": -2,
+      "A": 0,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Silver's Pokédex says it rotates its head 180 degrees to sharpen its thinking, a clear mark of a curious mind.",
+      "C": "Its methodical hunting style, built on precise timing instead of chance, points to a planner's habit.",
+      "E": "Crystal's Pokédex says its soft feathers make no sound in flight, matching a quiet, low-key nature.",
+      "A": "Its hunting is careful and self-directed, aimed at its own goals more than at helping others, keeping this rating near the middle.",
+      "S": "Ruby and Sapphire's Pokédex credits its success to superior vision and soft wings, tools of a calm, composed hunter."
+    },
+    "personality": "Noctowl's eyes are built to gather even faint light, which lets it see clearly after dark. When it needs to think something through, it can rotate its head a full half turn to sharpen its focus. Its feathers are so soft that it moves without a sound, closing in on prey before anything notices it is there. That mix of sharp thinking and quiet precision makes it a calm, capable presence.",
+    "media": [
+      {
+        "title": "Pokémon: Johto Journeys, Ash's Noctowl",
+        "note": "It stands out among Ash's team for its rare golden coloring."
+      }
+    ],
+    "community": "Noctowl has a reputation as one of the sharpest, most perceptive Pokémon from Johto, admired for the quiet precision of its hunting and thinking. Its silent flight and keen sight give it a calm, watchful presence fans respect.",
+    "why": [
+      {
+        "text": "Noctowl rotates its head 180 degrees to sharpen its thinking before it acts.",
+        "trait": "O",
+        "anchor": "rotates its head",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/164/"
+      },
+      {
+        "text": "Its eyes gather even faint light, letting it see clearly and stay composed in full darkness.",
+        "trait": "S",
+        "anchor": "faint light",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/164/"
+      },
+      {
+        "text": "Its soft feathers let it fly without a sound, closing in on prey completely undetected.",
+        "trait": "E",
+        "anchor": "soft feathers",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/164/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/164/",
+      "https://bulbapedia.bulbagarden.net/wiki/Noctowl_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Mareep",
+    "showdown_id": "mareep",
+    "genus": "Wool Pokémon",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": 0,
+      "E": -2,
+      "A": 2,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex is about wool and static, saying little about ideas, keeping it on the practical side.",
+      "C": "Its fleece regrows on its own schedule each week, a neutral, natural cycle with no planning behind it.",
+      "E": "Its Pokédex gives no sign of seeking crowds or attention, matching a quiet, low-key nature.",
+      "A": "Ruby and Sapphire's Pokédex describes a fluffy coat that keeps building a shared static charge, a gentle, communal trait.",
+      "S": "Diamond and Pearl's Pokédex says its coat swells steadily as static builds, a calm, predictable process."
+    },
+    "personality": "Mareep's fleece grows back quickly after it sheds each summer, so it always looks freshly woolly again within a week. Rubbing its fluffy coat together builds up a static charge, and the more it builds, the brighter the bulb on its tail glows. That same fur traps enough air to keep it warm in winter and cool in summer. It stays calm through all of it, even when its coat swells with static.",
+    "media": [
+      {
+        "title": "Pokémon Gold and Silver, Pokédex entry",
+        "note": "The bulb on its tail glows brighter the more static its fleece builds up."
+      }
+    ],
+    "community": "Mareep is a Johto favorite for its gentle nature and the visible, glowing payoff of its static buildup. Fans enjoy raising it toward Ampharos, but plenty keep it around just for its calm, woolly charm.",
+    "why": [
+      {
+        "text": "Mareep sheds its fleece every summer, and the wool grows back within a week.",
+        "trait": "S",
+        "anchor": "grows back",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/179/"
+      },
+      {
+        "text": "Its fluffy coat of wool keeps building a gentle static charge as it rubs together throughout the day.",
+        "trait": "A",
+        "anchor": "fluffy coat",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/179/"
+      },
+      {
+        "text": "The lightbulb at the tip of its tail glows brighter the more static electricity its fleece builds up.",
+        "trait": "O",
+        "anchor": "lightbulb",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/179/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/179/",
+      "https://bulbapedia.bulbagarden.net/wiki/Mareep_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Ampharos",
+    "showdown_id": "ampharos",
+    "genus": "Light Pokémon",
+    "stage": "mature",
+    "ratings": {
+      "O": 1,
+      "C": 2,
+      "E": -1,
+      "A": 3,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Ruby and Sapphire's Pokédex ties it to old signal-sending, a useful idea more than a purely practical trait.",
+      "C": "Its steady service as a beacon for lost people, generation after generation, shows a dependable, planner's role.",
+      "E": "Ultra Sun's Pokédex says it usually keeps its light off, matching a modest, low-key habit.",
+      "A": "Gold's Pokédex says its tail light acts as a beacon for people who have lost their way, a clearly generous role.",
+      "S": "Its steady, long-running use as both a beacon and a signal light points to a calm, unshaken presence."
+    },
+    "personality": "The tip of Ampharos's tail shines brightly enough to guide people who have lost their way. In the past, people used that same light to send signals across long distances. Its glow can be seen even from space, though it usually keeps the light low. It stays steady and dependable, ready to guide anyone who needs it.",
+    "media": [
+      {
+        "title": "Pokémon Ruby and Sapphire, Pokédex entry",
+        "note": "People once used its light to send signals across long distances."
+      }
+    ],
+    "community": "Ampharos is remembered fondly as a dependable Johto favorite, valued for both its signal-light backstory and its steady presence on a team. Its guiding, beacon-like reputation makes it easy to root for.",
+    "why": [
+      {
+        "text": "Ampharos's tail light acts as a beacon for people who have lost their way.",
+        "trait": "A",
+        "anchor": "beacon",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/181/"
+      },
+      {
+        "text": "In the past, people used the steady light from its tail to send signals back and forth across long distances.",
+        "trait": "C",
+        "anchor": "signals",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/181/"
+      },
+      {
+        "text": "Its glow can be seen even from space, yet Ampharos usually keeps the light low and out of the spotlight.",
+        "trait": "S",
+        "anchor": "space",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/181/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/181/",
+      "https://bulbapedia.bulbagarden.net/wiki/Ampharos_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Espeon",
+    "showdown_id": "espeon",
+    "genus": "Sun Pokémon",
+    "stage": "evolved",
+    "ratings": {
+      "O": 3,
+      "C": 1,
+      "E": 0,
+      "A": 3,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Silver's Pokédex says it can predict things like the weather or a foe's next move, a clear sign of a sharp, curious mind.",
+      "C": "Its focus on protecting a trainer through steady precognition shows a purposeful, devoted habit.",
+      "E": "Its Pokédex says little about seeking company, keeping this rating near the middle.",
+      "A": "Ruby's Pokédex says Espeon is extremely loyal to any trainer it considers worthy, a deep, protective bond.",
+      "S": "Platinum's Pokédex says its fur is sensitive enough to sense minute shifts in the air, noticing change early."
+    },
+    "personality": "Espeon reads shifts in the air to predict things like the weather or what a foe will do next. It stays deeply loyal to any trainer it considers worthy of that loyalty. That devotion is said to be exactly why it developed its precognitive sense, to keep its trainer safe from harm. Its fine fur picks up on the smallest changes around it before anyone else notices.",
+    "media": [
+      {
+        "title": "Pokémon HeartGold and SoulSilver, Sabrina's ace Pokémon",
+        "note": "It anchors Sabrina's gym team with senses sharp enough to read a battle before it unfolds."
+      }
+    ],
+    "community": "Espeon is a fan favorite among the Eevee family, admired for its loyalty and its precognitive, almost intuitive read on situations. Trainers who evolve an Eevee by day often pick it for that devoted, watchful reputation.",
+    "why": [
+      {
+        "text": "Espeon reads shifts in the air to predict things such as the weather or a foe's next move.",
+        "trait": "O",
+        "anchor": "predict",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/196/"
+      },
+      {
+        "text": "It is said to be extremely loyal to any trainer it considers worthy, a bond it takes seriously.",
+        "trait": "A",
+        "anchor": "loyal",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/196/"
+      },
+      {
+        "text": "Its fur is sensitive enough to pick up on the smallest shifts in the air around it.",
+        "trait": "S",
+        "anchor": "sensitive",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/196/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/196/",
+      "https://bulbapedia.bulbagarden.net/wiki/Espeon_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Umbreon",
+    "showdown_id": "umbreon",
+    "genus": "Moonlight Pokémon",
+    "stage": "evolved",
+    "ratings": {
+      "O": 1,
+      "C": 0,
+      "E": -3,
+      "A": -1,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Platinum's Pokédex says moonlight gives it a mysterious power, a small mark of imagination in its Pokédex story.",
+      "C": "Its Pokédex describes patient waiting, saying little about routine, keeping this rating near the middle.",
+      "E": "Ruby and Sapphire's Pokédex says it hides silently in darkness, a clearly low-key, solitary habit.",
+      "A": "Its Pokédex frames it as guarded and watchful toward foes, more strong-willed than openly warm.",
+      "S": "Silver's Pokédex says its rings glow only when darkness falls, a steady, unshaken presence night after night."
+    },
+    "personality": "Umbreon evolved after long exposure to the moon's waves, which changed it in a lasting way. It moves through darkness in near silence, watching patiently for the right moment to act. When exposed to moonlight, the rings on its body glow faintly, and it gains a quiet, mysterious kind of power. It stays calm and watchful no matter what is happening around it.",
+    "media": [
+      {
+        "title": "Pokémon: Johto League Champions, Gary Oak's watchful Umbreon",
+        "note": "It evolved from Gary's Eevee and became a steady, watchful member of his team."
+      }
+    ],
+    "community": "Umbreon is one of the most popular Eevee evolutions, admired for its calm, watchful presence and its glowing rings under moonlight. Fans who evolve an Eevee at night often choose it for that steady, nocturnal reputation.",
+    "why": [
+      {
+        "text": "Umbreon stays calm and watchful in darkness, a steady presence night after night.",
+        "trait": "S",
+        "anchor": "watchful",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/197/"
+      },
+      {
+        "text": "When exposed to the moon's aura, the rings on Umbreon's body glow faintly and it gains a quiet, mysterious power.",
+        "trait": "O",
+        "anchor": "aura",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/197/"
+      },
+      {
+        "text": "Umbreon hides silently in darkness and waits for its foes to make the first move.",
+        "trait": "E",
+        "anchor": "silently",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/197/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/197/",
+      "https://bulbapedia.bulbagarden.net/wiki/Umbreon_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 212,
+    "name": "Scizor",
+    "showdown_id": "scizor",
+    "genus": "Pincer Pokémon",
+    "stage": "evolved",
+    "ratings": {
+      "O": -2,
+      "C": 3,
+      "E": 0,
+      "A": -2,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex centers on a steel-hard body and technique, saying little about ideas, keeping it firmly practical.",
+      "C": "Silver's Pokédex says it flaps its wings at high speed purely to adjust its own body temperature, a precise habit.",
+      "E": "Its Pokédex describes controlled displays, saying little about open sociability, keeping this rating near the middle.",
+      "A": "Its Pokédex says it swings its pincers up to unsettle foes, a strong-willed way of holding its ground.",
+      "S": "Diamond's Pokédex says ordinary attacks barely register against its steel-hard body, a calm, unshaken defense."
+    },
+    "personality": "Scizor swings its eye-patterned pincers up to unsettle opponents, a display so striking it can look like it has three heads. Its wings are not built for flying; it flaps them at high speed instead, purely to control its own body temperature. Those same pincers contain steel and can crush hard objects with ease. It carries a steel-hard body and a composed, unshaken attitude into every match.",
+    "media": [
+      {
+        "title": "Pokémon Gold and Silver, Pokédex entry",
+        "note": "Ordinary attacks barely register against its steel-hard body."
+      }
+    ],
+    "community": "Scizor has long been a favorite for its steel-hard body and the discipline it brings to a fight, a Johto Pokémon respected for holding steady under pressure. Its practical, no-nonsense reputation makes it a staple on serious teams.",
+    "why": [
+      {
+        "text": "Scizor's wings are not built for flying, so it flaps them at high speed instead, purely to control its own body temperature.",
+        "trait": "C",
+        "anchor": "body temperature",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/212/"
+      },
+      {
+        "text": "Its steel-hard body lets it stay composed while ordinary attacks barely register against it.",
+        "trait": "S",
+        "anchor": "steel-hard body",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/212/"
+      },
+      {
+        "text": "Its pincers contain steel and can crush almost any hard object it gets hold of.",
+        "trait": "A",
+        "anchor": "crush",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/212/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/212/",
+      "https://bulbapedia.bulbagarden.net/wiki/Scizor_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Hitmontop",
+    "showdown_id": "hitmontop",
+    "genus": "Handstand Pokémon",
+    "stage": "evolved",
+    "ratings": {
+      "O": -1,
+      "C": -2,
+      "E": 2,
+      "A": -1,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex is about technique and momentum, saying little about ideas, keeping it on the practical side.",
+      "C": "Shield's Pokédex says it opens with a handstand to throw off an opponent's timing, an improvised, go-with-the-flow move.",
+      "E": "HeartGold's Pokédex says its smooth, dance-like kicks are enchanting to watch, a clearly showy, outgoing trait.",
+      "A": "Its spinning kicks are meant to hold its own in a fight, a strong-willed, practical approach.",
+      "S": "Diamond, Pearl and Platinum's Pokédex says its spins are controlled and deliberate, a composed display."
+    },
+    "personality": "Hitmontop fights by spinning like a top, and that same centrifugal force multiplies its kicks tenfold. Its dance-like kicks are smooth enough to draw a crowd before anyone even realizes a fight has started. When it spins fast enough, it can bore straight into the ground. It often opens with a handstand to throw off an opponent's timing before its fancier kicks land.",
+    "media": [
+      {
+        "title": "Pokémon Diamond, Pearl and Platinum, Pokédex entry",
+        "note": "Its spinning kicks multiply its power tenfold through centrifugal force."
+      }
+    ],
+    "community": "Hitmontop stands out among the Hitmon family for its acrobatic, dance-like fighting style, which fans describe as much a performance as a battle. Its playful, showy spins give it a distinct reputation among fighting-type fans.",
+    "why": [
+      {
+        "text": "Hitmontop's dance-like kicks are smooth enough that trainers get pulled in before they realize a fight has started.",
+        "trait": "E",
+        "anchor": "dance-like",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/237/"
+      },
+      {
+        "text": "It fights while spinning like a top, and that same centrifugal force multiplies its kicks tenfold.",
+        "trait": "O",
+        "anchor": "centrifugal force",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/237/"
+      },
+      {
+        "text": "It opens with a handstand to throw off an opponent's timing before bringing out its fancier kicks.",
+        "trait": "A",
+        "anchor": "handstand",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/237/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/237/",
+      "https://bulbapedia.bulbagarden.net/wiki/Hitmontop_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 242,
+    "name": "Blissey",
+    "showdown_id": "blissey",
+    "genus": "Happiness Pokémon",
+    "stage": "mature",
+    "ratings": {
+      "O": -1,
+      "C": 1,
+      "E": 0,
+      "A": 4,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex is about comfort and care, saying little about ideas, keeping it on the practical side.",
+      "C": "Silver's Pokédex says it will nurse a Pokémon it finds unwell back to health, a devoted, attentive habit.",
+      "E": "Its Pokédex says nothing about seeking crowds, keeping this rating near the middle.",
+      "A": "Gold's Pokédex says a bite of its egg makes people caring and pleasant to everyone, the clearest possible sign of putting others first.",
+      "S": "Its steady, unhurried habit of traveling to comfort whoever needs it points to a calm, dependable nature."
+    },
+    "personality": "Blissey has a deeply compassionate nature and looks after any Pokémon it finds unwell until they recover. It shares eggs that are said to bring a smile to anyone who receives one. It can sense when someone nearby is feeling low and will travel however far it takes to bring them one of those eggs. Everyone around it ends up a little more caring just from being near it.",
+    "media": [
+      {
+        "title": "Pokémon anime, Nurse Joy's assistant in later series",
+        "note": "It helps Nurse Joy look after Pokémon that come through the door needing care."
+      }
+    ],
+    "community": "Blissey is beloved as one of the kindest Pokémon in the games, prized for its generous, caretaking nature both in and out of battle. Its egg-sharing reputation makes it a go-to symbol of kindness for fans.",
+    "why": [
+      {
+        "text": "Blissey shares eggs said to bring a smile to anyone who receives one.",
+        "trait": "A",
+        "anchor": "smile",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/242/"
+      },
+      {
+        "text": "Blissey senses when someone nearby is feeling low and travels however far it takes to bring comfort.",
+        "trait": "S",
+        "anchor": "senses",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/242/"
+      },
+      {
+        "text": "It will nurse any Pokémon it finds unwell back to full health, staying with it until it recovers.",
+        "trait": "C",
+        "anchor": "nurse",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/242/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/242/",
+      "https://bulbapedia.bulbagarden.net/wiki/Blissey_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Suicune",
+    "showdown_id": "suicune",
+    "genus": "Aurora Pokémon",
+    "stage": "mature",
+    "ratings": {
+      "O": 1,
+      "C": 2,
+      "E": -1,
+      "A": 3,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Its legend as the reincarnation of the north winds gives its Pokédex story a mystical, imaginative edge.",
+      "C": "Its steady, purposeful mission to purify water across the world points to a devoted, focused habit.",
+      "E": "Silver's Pokédex describes it racing alone across the land, a solitary, low-key existence.",
+      "A": "Ruby and Sapphire's Pokédex says it embodies the compassion of a pure spring, a clear, generous trait.",
+      "S": "Its calm, graceful run across the land, storm or not, points to an unshaken, steady presence."
+    },
+    "personality": "Suicune is said to be the reincarnation of the north winds, able to purify murky water almost instantly. It races across the land with real grace, and legend says north winds rise whenever it appears. It embodies the compassion of a pure spring, running with elegance wherever it goes. It travels the world to purify polluted water, then moves on with the wind.",
+    "media": [
+      {
+        "title": "Pokémon: Johto League Champions, chased across the region by the trainer Eusine",
+        "note": "Eusine spends years trying to track Suicune down, awed by its speed and grace."
+      }
+    ],
+    "community": "Suicune is one of the most admired legendary beasts, prized for its graceful design and its water-purifying, protector-like reputation. Fans often connect it to imagery of purity and calm, mystical motion.",
+    "why": [
+      {
+        "text": "Suicune embodies the compassion of a pure spring and purifies water wherever it runs.",
+        "trait": "A",
+        "anchor": "compassion",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/245/"
+      },
+      {
+        "text": "It runs across the land with real gracefulness, staying steady no matter how far it travels.",
+        "trait": "S",
+        "anchor": "gracefulness",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/245/"
+      },
+      {
+        "text": "Legend says north winds rise whenever Suicune appears, tying it to long-held stories of the wind itself.",
+        "trait": "O",
+        "anchor": "north winds",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/245/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/245/",
+      "https://bulbapedia.bulbagarden.net/wiki/Suicune_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 249,
+    "name": "Lugia",
+    "showdown_id": "lugia",
+    "genus": "Diving Pokémon",
+    "stage": "mature",
+    "ratings": {
+      "O": 0,
+      "C": 2,
+      "E": -3,
+      "A": 3,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex is about restraint and protection, saying little about curiosity, keeping this rating near the middle.",
+      "C": "Its deliberate choice to hold back its own power out of care for others shows a controlled, purposeful habit.",
+      "E": "Its Pokédex says it stays out of sight deep under the sea, an unmistakably low-key existence.",
+      "A": "Silver's Pokédex calls it the guardian of the seas, a clearly protective, generous role.",
+      "S": "Its calm, deliberate choice to hold enormous power in check points to an unshaken, steady presence."
+    },
+    "personality": "Lugia is said to spend its time quietly at the bottom of the sea because its own power is too strong to use carelessly. It has long been called the guardian of the seas, sometimes glimpsed on the night of a great storm. A light flutter of its wings carries enough force to level an ordinary house, which is why it stays out of sight in the deep, holding that power in check.",
+    "media": [
+      {
+        "title": "Pokémon the Movie 2000: The Power of One",
+        "note": "It plays the guardian of the seas working to restore balance among the three legendary birds."
+      }
+    ],
+    "community": "Lugia is one of the most beloved legendary Pokémon, remembered as the gentle giant at the heart of Pokémon 2000. Fans see it as a protector that holds enormous power in reserve instead of putting it on display.",
+    "why": [
+      {
+        "text": "Lugia has long been called the guardian of the seas, sometimes glimpsed on the night of a great storm.",
+        "trait": "A",
+        "anchor": "guardian of the seas",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/249/"
+      },
+      {
+        "text": "A light flutter of Lugia's wings carries enough force to level an ordinary house, so it deliberately holds that power in check.",
+        "trait": "C",
+        "anchor": "wings",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/249/"
+      },
+      {
+        "text": "It stays out of sight deep under the sea, keeping its overwhelming power calm and contained.",
+        "trait": "S",
+        "anchor": "deep",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/249/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/249/",
+      "https://bulbapedia.bulbagarden.net/wiki/Lugia_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 250,
+    "name": "Ho-Oh",
+    "showdown_id": "hooh",
+    "genus": "Rainbow Pokémon",
+    "stage": "mature",
+    "ratings": {
+      "O": 2,
+      "C": 0,
+      "E": 1,
+      "A": 3,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its legend of flying endlessly on seven-colored wings gives its story a vivid, imaginative quality.",
+      "C": "Its Pokédex focuses on legend and appearance, saying little about routine, keeping this rating near the middle.",
+      "E": "Its habit of flying openly across the world's skies, visible to all, gives it a slightly outgoing presence.",
+      "A": "Crystal's Pokédex says it reveals itself only to a pure-hearted trainer, a clearly generous, trust-based trait.",
+      "S": "Its steady, continuous flight across the world's skies points to a calm, unshaken presence."
+    },
+    "personality": "Ho-Oh is said to fly continuously across the world's skies on wings that shine in seven colors. A rainbow is said to form behind it whenever it takes flight. According to legend, it only shows itself to a trainer whose heart is genuinely good. Seeing it is said to promise lasting happiness to whoever is lucky enough to witness it.",
+    "media": [
+      {
+        "title": "Pokémon: Indigo League, episode 1",
+        "note": "It flies over Ash and his new Pikachu as a good omen at the very start of the anime."
+      }
+    ],
+    "community": "Ho-Oh holds a special place for longtime fans as the rainbow Pokémon glimpsed in the very first episode of the anime. Its promise of happiness to whoever sees it gives it a hopeful, storybook reputation.",
+    "why": [
+      {
+        "text": "Ho-Oh is said to fly continuously across the world's skies on seven-colored wings.",
+        "trait": "O",
+        "anchor": "seven-colored",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/250/"
+      },
+      {
+        "text": "According to legend, Ho-Oh reveals itself only before a pure-hearted trainer.",
+        "trait": "A",
+        "anchor": "pure-hearted",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/250/"
+      },
+      {
+        "text": "A rainbow is said to form behind Ho-Oh whenever it takes flight, a calm, steady sign that follows wherever it goes.",
+        "trait": "S",
+        "anchor": "rainbow",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/250/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/250/",
+      "https://bulbapedia.bulbagarden.net/wiki/Ho-Oh_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Celebi",
+    "showdown_id": "celebi",
+    "genus": "Time Travel Pokémon",
+    "stage": "young",
+    "ratings": {
+      "O": 3,
+      "C": 0,
+      "E": -2,
+      "A": 3,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex says it wanders across time itself, one of the most imaginative stories in the whole pool.",
+      "C": "Its Pokédex says little about routine, keeping this rating near the middle.",
+      "E": "Its Pokédex says it appears only during peaceful times and disappears deep in a forest, a clearly low-key pattern.",
+      "A": "Gold's Pokédex says grass and trees flourish wherever it appears, a generous, life-giving trait.",
+      "S": "Its calm, patient choice to appear only in peaceful times points to a steady, unshaken presence."
+    },
+    "personality": "Celebi wanders across time, and wherever it appears, the grass and trees in that forest flourish. When it disappears deep in a forest, it is said to leave behind an egg brought from the future. It can travel across time but is said to appear only during peaceful times. Many believe that as long as Celebi keeps appearing, a bright future is still ahead.",
+    "media": [
+      {
+        "title": "Pokémon 4Ever: Celebi - Voice of the Forest",
+        "note": "It travels through time to protect a younger version of itself and the forest it calls home."
+      }
+    ],
+    "community": "Celebi is cherished as a gentle, hopeful mythical Pokémon tied to forests and peaceful times. Its time-traveling, egg-leaving legend gives it a quiet, storybook charm among longtime fans.",
+    "why": [
+      {
+        "text": "Celebi wanders across time, and it is said to appear only during peaceful times.",
+        "trait": "O",
+        "anchor": "time",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/251/"
+      },
+      {
+        "text": "Wherever Celebi appears, the grass and trees in that forest flourish.",
+        "trait": "A",
+        "anchor": "flourish",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/251/"
+      },
+      {
+        "text": "Many believe that as long as Celebi keeps appearing, a bright future is still ahead.",
+        "trait": "S",
+        "anchor": "future",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/251/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/251/",
+      "https://bulbapedia.bulbagarden.net/wiki/Celebi_(Pok%C3%A9mon)"
+    ]
+  }
+]

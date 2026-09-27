@@ -1,0 +1,889 @@
+{
+ "version": 1,
+ "source": "https://pokeapi.co/api/v2/",
+ "pulled": "2026-09-27",
+ "count": 10,
+ "missing_flavor": [],
+ "species": [
+  {
+   "id": 1,
+   "slug": "bulbasaur",
+   "name": "Bulbasaur",
+   "genus": "Seed Pokémon",
+   "flavor_texts": [
+    "A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON.",
+    "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
+    "The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.",
+    "It carries a seed on its back right from birth. As it grows older, the seed also grows larger.",
+    "While it is young, it uses the nutrients that are stored in the seeds on its back in order to grow.",
+    "BULBASAUR can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.",
+    "There is a plant seed on its back right from the day this POKéMON is born. The seed slowly grows larger.",
+    "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+    "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow."
+   ],
+   "color": "green",
+   "shape": "quadruped",
+   "habitat": "grassland",
+   "gender_rate": 1,
+   "egg_groups": [
+    "monster",
+    "plant"
+   ],
+   "is_legendary": false,
+   "is_mythical": false,
+   "is_baby": false,
+   "stage": 1,
+   "types": [
+    "grass",
+    "poison"
+   ],
+   "base_stats": {
+    "hp": 45,
+    "attack": 49,
+    "defense": 49,
+    "special_attack": 65,
+    "special_defense": 65,
+    "speed": 45
+   },
+   "height": 7,
+   "weight": 69,
+   "generation": 1,
+   "auto_vector": [
+    0,
+    0,
+    0,
+    0,
+    0.3333
+   ],
+   "matched_words": {
+    "O": {
+     "high": [],
+     "low": []
+    },
+    "C": {
+     "high": [
+      "stores"
+     ],
+     "low": [
+      "napping"
+     ]
+    },
+    "E": {
+     "high": [],
+     "low": []
+    },
+    "A": {
+     "high": [],
+     "low": []
+    },
+    "S": {
+     "high": [
+      "steadily"
+     ],
+     "low": []
+    }
+   },
+   "in_pool": true
+  },
+  {
+   "id": 3,
+   "slug": "venusaur",
+   "name": "Venusaur",
+   "genus": "Seed Pokémon",
+   "flavor_texts": [
+    "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+    "The flower on its back catches the sun's rays. The sunlight is then absorbed and used for energy.",
+    "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power.",
+    "It is able to con vert sunlight into energy. As a result, it is more powerful in the summertime.",
+    "As it warms it self and absorbs the sunlight, its flower petals release a pleasant fragrance.",
+    "There is a large flower on VENUSAUR’s back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower’s aroma soothes the emotions of people.",
+    "VENUSAUR’s flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower’s aroma soothes the emotions of people.",
+    "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
+    "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+    "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+    "By spreading the broad petals of its flower and catching the sun’s rays, it fills its body with power.",
+    "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime.",
+    "The flower on its back catches the sun’s rays. The sunlight is then absorbed and used for energy."
+   ],
+   "color": "green",
+   "shape": "quadruped",
+   "habitat": "grassland",
+   "gender_rate": 1,
+   "egg_groups": [
+    "monster",
+    "plant"
+   ],
+   "is_legendary": false,
+   "is_mythical": false,
+   "is_baby": false,
+   "stage": 3,
+   "types": [
+    "grass",
+    "poison"
+   ],
+   "base_stats": {
+    "hp": 80,
+    "attack": 82,
+    "defense": 83,
+    "special_attack": 100,
+    "special_defense": 100,
+    "speed": 80
+   },
+   "height": 20,
+   "weight": 1000,
+   "generation": 1,
+   "auto_vector": [
+    0,
+    0,
+    0,
+    0.5,
+    0
+   ],
+   "matched_words": {
+    "O": {
+     "high": [],
+     "low": []
+    },
+    "C": {
+     "high": [],
+     "low": []
+    },
+    "E": {
+     "high": [],
+     "low": []
+    },
+    "A": {
+     "high": [
+      "soothes"
+     ],
+     "low": []
+    },
+    "S": {
+     "high": [],
+     "low": []
+    }
+   },
+   "in_pool": true
+  },
+  {
+   "id": 6,
+   "slug": "charizard",
+   "name": "Charizard",
+   "genus": "Flame Pokémon",
+   "flavor_texts": [
+    "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+    "When expelling a blast of super hot fire, the red flame at the tip of its tail burns more intensely.",
+    "If CHARIZARD be comes furious, the flame at the tip of its tail flares up in a whitish- blue color.",
+    "Breathing intense, hot flames, it can melt almost any thing. Its breath inflicts terrible pain on enemies.",
+    "It uses its wings to fly high. The temperature of its fire increases as it gains exper ience in battle.",
+    "CHARIZARD flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+    "A CHARIZARD flies about in search of strong opponents. It breathes intense flames that can melt any material. However, it will never torch a weaker foe.",
+    "Its wings can carry this POKéMON close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
+    "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+    "It is said that CHARIZARD’s fire burns hotter if it has experienced harsh battles.",
+    "If CHARIZARD becomes furious, the flame at the tip of its tail flares up in a light blue shade.",
+    "Breathing intense, hot flames, it can melt almost anything. Its breath inflicts terrible pain on enemies.",
+    "When expelling a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
+    "When this Pokémon expels a blast of superhot fire, the red flame at the tip of its tail burns more intensely."
+   ],
+   "color": "red",
+   "shape": "upright",
+   "habitat": "mountain",
+   "gender_rate": 1,
+   "egg_groups": [
+    "monster",
+    "dragon"
+   ],
+   "is_legendary": false,
+   "is_mythical": false,
+   "is_baby": false,
+   "stage": 3,
+   "types": [
+    "fire",
+    "flying"
+   ],
+   "base_stats": {
+    "hp": 78,
+    "attack": 84,
+    "defense": 78,
+    "special_attack": 109,
+    "special_defense": 85,
+    "speed": 100
+   },
+   "height": 17,
+   "weight": 905,
+   "generation": 1,
+   "auto_vector": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "matched_words": {
+    "O": {
+     "high": [],
+     "low": []
+    },
+    "C": {
+     "high": [],
+     "low": []
+    },
+    "E": {
+     "high": [],
+     "low": []
+    },
+    "A": {
+     "high": [],
+     "low": []
+    },
+    "S": {
+     "high": [],
+     "low": []
+    }
+   },
+   "in_pool": true
+  },
+  {
+   "id": 12,
+   "slug": "butterfree",
+   "name": "Butterfree",
+   "genus": "Butterfly Pokémon",
+   "flavor_texts": [
+    "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+    "Its wings, covered with poisonous powders, repel water. This allows it to fly in the rain.",
+    "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+    "Water-repellent powder on its wings enables it to collect honey, even in the heav iest of rains.",
+    "It flits from flower to flower, collecting honey. It can even identify distant flowers in bloom.",
+    "BUTTERFREE has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+    "It has a superior ability to search for delicious honey from flowers. It can seek, extract, and carry honey from flowers blooming over six miles away.",
+    "The wings are protected by rain-repellent dust. As a result, this POKéMON can fly about even in rain.",
+    "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
+    "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+    "Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains.",
+    "Close examination of its large eyes reveals that each eye is composed of a myriad of tiny eyes.",
+    "When attacked by other Pokémon, it defends itself by scattering its poisonous scales and fluttering its wings.",
+    "Its wings are covered in toxic scales. If it finds bird Pokémon going after Caterpie, Butterfree sprinkles its scales on them to drive them off.",
+    "Nectar from pretty flowers is its favorite food. In fields of flowers, it has heated battles with Cutiefly for territory.",
+    "Its wings, covered with poisonous powder, repel water. This allows it to fly in the rain."
+   ],
+   "color": "white",
+   "shape": "bug-wings",
+   "habitat": "forest",
+   "gender_rate": 4,
+   "egg_groups": [
+    "bug"
+   ],
+   "is_legendary": false,
+   "is_mythical": false,
+   "is_baby": false,
+   "stage": 3,
+   "types": [
+    "bug",
+    "flying"
+   ],
+   "base_stats": {
+    "hp": 60,
+    "attack": 45,
+    "defense": 50,
+    "special_attack": 90,
+    "special_defense": 80,
+    "speed": 70
+   },
+   "height": 11,
+   "weight": 320,
+   "generation": 1,
+   "auto_vector": [
+    0,
+    0.6667,
+    0,
+    0.2,
+    0
+   ],
+   "matched_words": {
+    "O": {
+     "high": [],
+     "low": []
+    },
+    "C": {
+     "high": [
+      "collects",
+      "collect",
+      "collecting"
+     ],
+     "low": []
+    },
+    "E": {
+     "high": [],
+     "low": []
+    },
+    "A": {
+     "high": [
+      "protected",
+      "loves"
+     ],
+     "low": [
+      "territory"
+     ]
+    },
+    "S": {
+     "high": [],
+     "low": []
+    }
+   },
+   "in_pool": true
+  },
+  {
+   "id": 30,
+   "slug": "nidorina",
+   "name": "Nidorina",
+   "genus": "Poison Pin Pokémon",
+   "flavor_texts": [
+    "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
+    "When resting deep in its burrow, its thorns always retract. This is proof that it is relaxed.",
+    "When feeding its young, it first chews and tender izes the food, then spits it out for the offspring.",
+    "It has a calm and caring nature. Because its horn grows slowly, it prefers not to fight.",
+    "It has a docile nature. If it is threatened with attack, it raises the barbs that are all over its body.",
+    "When NIDORINA are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This POKéMON appears to become nervous if separated from the others.",
+    "When it is with its friends or family, its barbs are tucked away to prevent injury. It appears to become nervous if separated from the others.",
+    "The female has a gentle temperament. It emits ultrasonic cries that have the power to befuddle foes.",
+    "The female’s horns develop slowly. Prefers physical attacks such as clawing and biting.",
+    "When it senses danger, it raises all the barbs on its body. These barbs grow slower than NIDORINO’s.",
+    "When feeding its young, it first chews the food into a paste, then spits it out for the offspring.",
+    "When resting deep in its burrow, its barbs always retract. This is proof that it is relaxed.",
+    "The horn on its head has atrophied. It’s thought that this happens so Nidorina’s children won’t get poked while their mother is feeding them.",
+    "If the group is threatened, these Pokémon will band together to assault enemies with a chorus of ultrasonic waves."
+   ],
+   "color": "blue",
+   "shape": "quadruped",
+   "habitat": "grassland",
+   "gender_rate": 8,
+   "egg_groups": [
+    "no-eggs"
+   ],
+   "is_legendary": false,
+   "is_mythical": false,
+   "is_baby": false,
+   "stage": 2,
+   "types": [
+    "poison"
+   ],
+   "base_stats": {
+    "hp": 70,
+    "attack": 62,
+    "defense": 67,
+    "special_attack": 55,
+    "special_defense": 55,
+    "speed": 56
+   },
+   "height": 8,
+   "weight": 200,
+   "generation": 1,
+   "auto_vector": [
+    0,
+    0,
+    0.3333,
+    0.6,
+    0.1429
+   ],
+   "matched_words": {
+    "O": {
+     "high": [],
+     "low": []
+    },
+    "C": {
+     "high": [],
+     "low": []
+    },
+    "E": {
+     "high": [
+      "group"
+     ],
+     "low": []
+    },
+    "A": {
+     "high": [
+      "caring",
+      "docile",
+      "gentle"
+     ],
+     "low": []
+    },
+    "S": {
+     "high": [
+      "relaxed",
+      "calm"
+     ],
+     "low": [
+      "nervous"
+     ]
+    }
+   },
+   "in_pool": true
+  },
+  {
+   "id": 35,
+   "slug": "clefairy",
+   "name": "Clefairy",
+   "genus": "Fairy Pokémon",
+   "flavor_texts": [
+    "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+    "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.",
+    "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
+    "Its adorable be havior and cry make it highly popular. However, this cute POKéMON is rarely found.",
+    "Though rarely seen, it becomes easier to spot, for some reason, on the night of a full moon.",
+    "On every night of a full moon, groups of this POKéMON come out to play. When dawn arrives, the tired CLEFAIRY return to their quiet mountain retreats and go to sleep nestled up against each other.",
+    "On every night of a full moon, they come out to play. When dawn arrives, the tired CLEFAIRY go to sleep nestled up against each other in deep and quiet mountains.",
+    "Its adorable appearance makes it popular as a pet. However, it is rare and difficult to find.",
+    "With its magical and cute appeal, it has many admirers. It is rare and found only in certain areas.",
+    "Thought to live with others on quiet mountains, it is popular for its adorable nature.",
+    "It flies using the wings on its back to collect moonlight. This Pokémon is difficult to find.",
+    "It is said that happiness will come to those who see a gathering of CLEFAIRY dancing under a full moon.",
+    "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
+    "On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float.",
+    "Its adorable behavior and appearance make it popular with men and women, young and old. Its numbers are few, however.",
+    "On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field.",
+    "They’re popular, but they’re rare. Trainers who show them off recklessly may be targeted by thieves.",
+    "Bathed in moonlight, its wings glow faintly. Without even flapping, Clefairy rises into the air, where it dances around.",
+    "It can be found in quiet mountain areas on a full moon's night. Its dancing and its tiny, faintly glowing wings confer upon it a lovely fairylike quality."
+   ],
+   "color": "pink",
+   "shape": "upright",
+   "habitat": "mountain",
+   "gender_rate": 6,
+   "egg_groups": [
+    "fairy"
+   ],
+   "is_legendary": false,
+   "is_mythical": false,
+   "is_baby": false,
+   "stage": 2,
+   "types": [
+    "fairy"
+   ],
+   "base_stats": {
+    "hp": 70,
+    "attack": 45,
+    "defense": 48,
+    "special_attack": 60,
+    "special_defense": 65,
+    "speed": 35
+   },
+   "height": 6,
+   "weight": 75,
+   "generation": 1,
+   "auto_vector": [
+    0.7778,
+    0.2,
+    -0.2308,
+    0,
+    0
+   ],
+   "matched_words": {
+    "O": {
+     "high": [
+      "magical",
+      "dancing",
+      "dance",
+      "dances"
+     ],
+     "low": []
+    },
+    "C": {
+     "high": [
+      "stores",
+      "collect",
+      "gathering",
+      "gather"
+     ],
+     "low": [
+      "sleep",
+      "recklessly"
+     ]
+    },
+    "E": {
+     "high": [
+      "playfulness",
+      "groups",
+      "play"
+     ],
+     "low": [
+      "rarely",
+      "quiet"
+     ]
+    },
+    "A": {
+     "high": [],
+     "low": []
+    },
+    "S": {
+     "high": [],
+     "low": []
+    }
+   },
+   "in_pool": true
+  },
+  {
+   "id": 58,
+   "slug": "growlithe",
+   "name": "Growlithe",
+   "genus": "Puppy Pokémon",
+   "flavor_texts": [
+    "Very protective of its territory. It will bark and bite to repel intruders from its space.",
+    "A POKéMON with a friendly nature. However, it will bark fiercely at anything invading its territory.",
+    "It has a brave and trustworthy na ture. It fear lessly stands up to bigger and stronger foes.",
+    "Extremely loyal, it will fearlessly bark at any oppo nent to protect its own trainer from harm.",
+    "It controls a big territory. If it detects an unknown smell, it roars loudly to force out the intruder.",
+    "GROWLITHE has a superb sense of smell. Once it smells anything, this POKéMON won’t forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
+    "Its superb sense of smell ensures that this POKéMON won’t forget any scent, no matter what. It uses its sense of smell to detect the emotions of others.",
+    "Very friendly and faithful to people. It will try to repel enemies by barking and biting.",
+    "It is very protective of its territory. It will bark and bite to repel intruders from its space.",
+    "A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
+    "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+    "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.",
+    "Extremely loyal to its Trainer, it will bark at those who approach the Trainer unexpectedly and run them out of town.",
+    "It’s both clever and loyal, but if a stranger tries to invade its territory, it barks threateningly.",
+    "It looks cute, but when you approach another Trainer’s Growlithe, it will bark at you and bite.",
+    "While it’s quite friendly toward humans once it’s grown used to them, in the wild it must be quite fierce to defend its territory from Rockruff.",
+    "It has lived alongside humans since ages ago. Its bones have been found in excavations of ruins from the Stone Age.",
+    "They patrol their territory in pairs. I believe the igneous rock components in the fur of this species are the result of volcanic activity in its habitat."
+   ],
+   "color": "brown",
+   "shape": "quadruped",
+   "habitat": "grassland",
+   "gender_rate": 2,
+   "egg_groups": [
+    "ground"
+   ],
+   "is_legendary": false,
+   "is_mythical": false,
+   "is_baby": false,
+   "stage": 1,
+   "types": [
+    "fire"
+   ],
+   "base_stats": {
+    "hp": 55,
+    "attack": 70,
+    "defense": 45,
+    "special_attack": 70,
+    "special_defense": 50,
+    "speed": 60
+   },
+   "height": 7,
+   "weight": 190,
+   "generation": 1,
+   "auto_vector": [
+    0.3333,
+    -0.5,
+    0.3333,
+    0.2,
+    0
+   ],
+   "matched_words": {
+    "O": {
+     "high": [
+      "clever"
+     ],
+     "low": []
+    },
+    "C": {
+     "high": [],
+     "low": [
+      "forget"
+     ]
+    },
+    "E": {
+     "high": [
+      "loudly"
+     ],
+     "low": []
+    },
+    "A": {
+     "high": [
+      "protective",
+      "friendly",
+      "trustworthy",
+      "loyal",
+      "protect"
+     ],
+     "low": [
+      "territory",
+      "fiercely",
+      "fierce"
+     ]
+    },
+    "S": {
+     "high": [],
+     "low": []
+    }
+   },
+   "in_pool": true
+  },
+  {
+   "id": 59,
+   "slug": "arcanine",
+   "name": "Arcanine",
+   "genus": "Legendary Pokémon",
+   "flavor_texts": [
+    "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings.",
+    "A legendary POKé MON in China. Many people are charmed by its grace and beauty while running.",
+    "This legendary Chinese POKEMON is considered magnif icent. Many people are enchanted by its grand mane.",
+    "Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it.",
+    "An ancient picture scroll shows that people were attracted to its movement as it ran through prairies.",
+    "ARCANINE is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this POKéMON’s body is its source of power.",
+    "This fleet-footed POKéMON is said to run over 6,200 miles in a single day and night. The fire that blazes wildly within its body is its source of power.",
+    "A POKéMON that is described in Chinese legends. It is said to race at an unbelievable speed.",
+    "A POKéMON that has long been admired for its beauty. It runs agilely as if on wings.",
+    "Its proud and regal appearance has captured the hearts of people since long ago.",
+    "This legendary Chinese Pokémon is considered magnificent. Many people are enchanted by its grand mane.",
+    "Its magnificent bark conveys a sense of majesty. Anyone hearing it can’t help but grovel before it.",
+    "The sight of it running over 6,200 miles in a single day and night has captivated many people.",
+    "Overflowing with beauty and majesty, this strong Pokémon appears in ancient Eastern folklore.",
+    "The fire burning inside its body serves as the energy to fuel it as it runs great distances. It appears in many legends.",
+    "Legends tell of its fighting alongside a general and conquering a whole country.",
+    "There are so many old tales about them that they’re called legendary Pokémon, but there are way more of them around than you’d expect.",
+    "A legendary Pokémon in the East. Many people are charmed by the grace and beauty of its running.",
+    "Snaps at its foes with fangs cloaked in blazing flame. Despite its bulk, it deftly feints every which way, leading opponents on a deceptively merry chase as it all but dances around them."
+   ],
+   "color": "brown",
+   "shape": "quadruped",
+   "habitat": "grassland",
+   "gender_rate": 2,
+   "egg_groups": [
+    "ground"
+   ],
+   "is_legendary": false,
+   "is_mythical": false,
+   "is_baby": false,
+   "stage": 2,
+   "types": [
+    "fire"
+   ],
+   "base_stats": {
+    "hp": 90,
+    "attack": 110,
+    "defense": 80,
+    "special_attack": 100,
+    "special_defense": 80,
+    "speed": 95
+   },
+   "height": 19,
+   "weight": 1550,
+   "generation": 1,
+   "auto_vector": [
+    0.75,
+    0,
+    0,
+    0.2,
+    0
+   ],
+   "matched_words": {
+    "O": {
+     "high": [
+      "beauty",
+      "dances"
+     ],
+     "low": []
+    },
+    "C": {
+     "high": [],
+     "low": []
+    },
+    "E": {
+     "high": [],
+     "low": []
+    },
+    "A": {
+     "high": [
+      "help"
+     ],
+     "low": [
+      "proud"
+     ]
+    },
+    "S": {
+     "high": [],
+     "low": []
+    }
+   },
+   "in_pool": true
+  },
+  {
+   "id": 65,
+   "slug": "alakazam",
+   "name": "Alakazam",
+   "genus": "Psi Pokémon",
+   "flavor_texts": [
+    "Its brain can out perform a super computer. Its intelligence quotient is said to be 5,000.",
+    "A POKéMON that can memorize anything. It never forgets what it learns-- that's why this POKéMON is smart.",
+    "Closing both its eyes heightens all its other senses. This enables it to use its abilities to their extremes.",
+    "Its brain cells multiply continu ally until it dies. As a result, it remembers everything.",
+    "It has an IQ of 5000. It calcu lates many things in order to gain the edge in every battle.",
+    "ALAKAZAM’s brain continually grows, making its head far too heavy to support with its neck. This POKéMON holds its head up using its psychokinetic power instead.",
+    "ALAKAZAM’s brain continually grows, infinitely multiplying brain cells. This amazing brain gives this POKéMON an astoundingly high IQ of 5,000. It has a thorough memory of everything that has occurred in the world.",
+    "While it has strong psychic abilities and high intelligence, an ALAKAZAM’s muscles are very weak. It uses psychic power to move its body.",
+    "It does not like physical attacks very much. Instead, it freely uses extra sensory powers to defeat foes.",
+    "Its brain can outperform a supercomputer. Its IQ (intelligence quotient) is said to be around 5,000.",
+    "Its superb memory lets it recall everything it has experienced from birth. Its IQ exceeds 5,000.",
+    "Its highly developed brain is on par with a supercomputer. It can use all forms of psychic abilities.",
+    "The spoons clutched in its hands are said to have been created by its psychic powers.",
+    "Its brain cells multiply continually until it dies. As a result, it remembers everything.",
+    "It is said to have an IQ of approximately 5,000. Its overflowing psychokinetic powers cause headaches to anyone nearby.",
+    "Its brain cells continue to increase in number until its death. The older the Alakazam, the larger its head.",
+    "Alakazam uses its psychic powers to make the spoons it carries. Each spoon is an original that there’s only one of in the whole world.",
+    "If it trusts someone deeply, it will let them have one of its spoons. Anything you eat with that spoon is apparently delicious.",
+    "A Pokémon that can memorize anything. It never forgets what it learns—that’s why this Pokémon is smart.",
+    "It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.",
+    "Alakazam wields potent psychic powers. It’s said that this Pokémon used these powers to create the spoons it holds.",
+    "The longer Alakazam lives, the larger and heavier its head becomes. Our tests have shown that the strength of its psychic powers correlates positively to the weight of its head."
+   ],
+   "color": "brown",
+   "shape": "humanoid",
+   "habitat": "urban",
+   "gender_rate": 2,
+   "egg_groups": [
+    "humanshape"
+   ],
+   "is_legendary": false,
+   "is_mythical": false,
+   "is_baby": false,
+   "stage": 3,
+   "types": [
+    "psychic"
+   ],
+   "base_stats": {
+    "hp": 55,
+    "attack": 50,
+    "defense": 45,
+    "special_attack": 135,
+    "special_defense": 95,
+    "speed": 120
+   },
+   "height": 15,
+   "weight": 480,
+   "generation": 1,
+   "auto_vector": [
+    0.8,
+    -0.5,
+    0.3333,
+    0.3333,
+    0
+   ],
+   "matched_words": {
+    "O": {
+     "high": [
+      "intelligence",
+      "learns",
+      "smart"
+     ],
+     "low": []
+    },
+    "C": {
+     "high": [],
+     "low": [
+      "forgets"
+     ]
+    },
+    "E": {
+     "high": [
+      "perform"
+     ],
+     "low": []
+    },
+    "A": {
+     "high": [
+      "trusts"
+     ],
+     "low": []
+    },
+    "S": {
+     "high": [],
+     "low": []
+    }
+   },
+   "in_pool": true
+  },
+  {
+   "id": 9,
+   "slug": "blastoise",
+   "name": "Blastoise",
+   "genus": "Shellfish Pokémon",
+   "flavor_texts": [
+    "A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles.",
+    "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
+    "It deliberately makes itself heavy so it can with stand the recoil of the water jets it fires.",
+    "The rocket cannons on its shell fire jets of water capable of punch ing holes through thick steel.",
+    "It firmly plants its feet on the ground before shooting water from the jets on its back.",
+    "BLASTOISE has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
+    "The waterspouts that protrude from its shell are highly accurate. Their bullets of water can precisely nail tin cans from a distance of over 160 feet.",
+    "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+    "The pressurized water jets on this brutal POKéMON’s shell are used for high- speed tackles.",
+    "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+    "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires.",
+    "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
+    "The pressurized water jets on this brutal Pokémon’s shell are used for high-speed tackles."
+   ],
+   "color": "blue",
+   "shape": "upright",
+   "habitat": "waters-edge",
+   "gender_rate": 1,
+   "egg_groups": [
+    "monster",
+    "water1"
+   ],
+   "is_legendary": false,
+   "is_mythical": false,
+   "is_baby": false,
+   "stage": 3,
+   "types": [
+    "water"
+   ],
+   "base_stats": {
+    "hp": 79,
+    "attack": 83,
+    "defense": 100,
+    "special_attack": 85,
+    "special_defense": 105,
+    "speed": 78
+   },
+   "height": 16,
+   "weight": 855,
+   "generation": 1,
+   "auto_vector": [
+    0,
+    0.3333,
+    0,
+    -0.6,
+    0
+   ],
+   "matched_words": {
+    "O": {
+     "high": [],
+     "low": []
+    },
+    "C": {
+     "high": [
+      "precisely"
+     ],
+     "low": []
+    },
+    "E": {
+     "high": [],
+     "low": []
+    },
+    "A": {
+     "high": [],
+     "low": [
+      "brutal"
+     ]
+    },
+    "S": {
+     "high": [],
+     "low": []
+    }
+   },
+   "in_pool": true
+  }
+ ]
+}

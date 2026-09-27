@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "match": "a token matches an entry exactly, or starts with it when the entry ends in *",
+  "traits": {
+    "O": {
+      "high": ["curious", "curiosity", "intelligen*", "smart", "clever", "wisdom", "wise", "knowledge", "mysteri*", "mystic*", "dream*", "imagin*", "future", "predict*", "explor*", "wander*", "artist", "music*", "melod*", "song", "songs", "sing", "sings", "singing", "danc*", "beauty", "beautiful", "learn*", "magic*", "invent*", "inquisitive"],
+      "low": ["simple", "plain", "routine", "habit", "habits", "habitual", "ordinary", "familiar", "instinct", "instincts", "instinctive*", "practical", "predictable", "unchanging", "traditional", "tradition", "humble"]
+    },
+    "C": {
+      "high": ["careful", "carefully", "diligent*", "trains", "training", "disciplin*", "patient*", "patience", "precise*", "neat", "neatly", "tidy", "cleans", "organiz*", "organis*", "prepar*", "build*", "collect*", "stores", "gather*", "skill*", "master*", "dutiful*", "responsib*", "method*", "perfect*"],
+      "low": ["lazy", "lazily", "sleep*", "naps", "napping", "careless*", "reckless*", "whim", "whims", "whimsical", "fickle", "forget*", "mischiev*", "prank*", "trick*", "messy", "clumsy", "clumsily", "carefree", "aimless*", "idle*", "lounge*", "doze", "dozes", "dozing", "loaf*", "dawdl*", "impuls*"]
+    },
+    "E": {
+      "high": ["playful*", "lively", "energetic*", "excited", "excitement", "noisy", "loud*", "group*", "flock*", "herd*", "colony", "colonies", "pack", "packs", "swarm*", "play", "plays", "playing", "frolic*", "crowd*", "social*", "chatter*", "boister*", "shout*", "cheer*", "show off", "perform*"],
+      "low": ["timid*", "shy*", "hide", "hides", "hiding", "hidden", "alone", "solitar*", "quiet*", "silent*", "rarely", "reclus*", "seclu*", "nocturnal", "lurk*", "unseen", "reserved", "lone", "loner", "secretive", "withdrawn"]
+    },
+    "A": {
+      "high": ["gentle*", "kind", "kindly", "kindness", "kindhearted", "friendly", "affection*", "loyal*", "help", "helps", "helping", "helpful", "heal", "heals", "healing", "healer", "care", "cares", "caring", "nurtur*", "share", "shares", "sharing", "protect*", "rescue*", "sooth*", "comfort*", "docile", "harmless", "love", "loves", "beloved", "trust*", "cooperat*", "compassion*", "generous*"],
+      "low": ["fierce*", "aggress*", "violent*", "vicious*", "territor*", "ruthless*", "savage*", "brutal*", "hostile", "challeng*", "rival*", "proud", "pride", "selfish*", "stubborn*", "arrogan*", "bully", "bullies", "bullying", "intimidat*", "merciless*", "feisty", "domineer*", "belligeren*", "combative"]
+    },
+    "S": {
+      "high": ["calm*", "serene*", "relaxed", "relax*", "unflappable", "placid*", "mellow", "steady", "steadi*", "tranquil*", "peaceful*", "unfazed", "unmoved", "easygoing", "leisure*", "undisturbed", "poise*", "levelheaded", "unhurried"],
+      "low": ["nervous*", "scared", "frightened", "fearful", "afraid", "panic*", "startl*", "anxi*", "worr*", "sensitive", "moody", "temper", "tempered", "weep*", "sulk*", "upset*", "agitat*", "irritab*", "excitable", "jumpy", "trembl*", "cowardly", "skittish"]
+    }
+  }
+}

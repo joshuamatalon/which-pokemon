@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 701,
+    "name": "Hawlucha",
+    "showdown_id": "hawlucha",
+    "genus": "Wrestling Pokémon",
+    "lean": "masculine",
+    "stage": "evolved",
+    "ratings": {
+      "O": -1,
+      "C": 1,
+      "E": 4,
+      "A": -1,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entry credits practiced technique for its wins over bigger foes like Machamp and Hariyama, a mark of a grounded fighting style.",
+      "C": "It is skilled at using superb submission holds, the kind of technique that takes drilling to pull off in the middle of a match.",
+      "E": "The Pokédex calls it the Wrestling Pokémon and notes it strikes a pose before every finishing move, playing to the crowd each time.",
+      "A": "It overwhelms opponents on its own terms and sometimes showboats too long doing it, evidence of real self-assurance in the ring.",
+      "S": "Its own entry admits that showboating too long during a finishing move can put it in a tight spot, a sign it feels the moment strongly."
+    },
+    "personality": "Hawlucha fights like a professional wrestler. Though small, it keeps pace with far bigger opponents such as Machamp and Hariyama, using nimble leaps and submission holds to close the gap. In the middle of a match it likes to strike a dramatic pose before its finishing move, even though that pause sometimes gives an opponent room to counter.",
+    "media": [
+      {
+        "title": "Pokémon the Series: XY, Ash's own Hawlucha",
+        "note": "Ash caught it after a wrestling-style sparring match and used it through his Kalos League run."
+      }
+    ],
+    "community": "Fans often point to Hawlucha as proof that a small Pokémon can hang with giants in a fair fight. Competitive players value its speed and moveset for exactly that reason.",
+    "why": [
+      {
+        "text": "Hawlucha turns each battle into a wrestling show, striking a pose before every finishing move.",
+        "trait": "E",
+        "anchor": "wrestling",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/701/"
+      },
+      {
+        "text": "Hawlucha trains its submission holds well enough to outwrestle Pokémon twice its size.",
+        "trait": "C",
+        "anchor": "submission holds",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Hawlucha_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Hawlucha holds its ground against much bigger opponents like Machamp using pure technique.",
+        "trait": "A",
+        "anchor": "Machamp",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/701/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/701/",
+      "https://bulbapedia.bulbagarden.net/wiki/Hawlucha_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 704,
+    "name": "Goomy",
+    "showdown_id": "goomy",
+    "genus": "Soft Tissue Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": -1,
+      "E": -3,
+      "A": 1,
+      "S": -2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries describe practical survival behavior: sitting still in damp shade keeps it alive as the weakest Dragon type on record.",
+      "C": "It holds perfect stillness in the shade day after day, a simple routine described directly in its Pokédex entry.",
+      "E": "Multiple entries note it hides at the first sign of company, the behavior of a species that avoids crowds.",
+      "A": "Its slimy membrane lets attacks slide off harmlessly, so it rarely has to retaliate against anything.",
+      "S": "Its horns are described as very sensitive, delivering a strong shock and leaving it unable to move if grabbed, a sign it feels contact intensely."
+    },
+    "personality": "Goomy spends its days in a damp, shaded spot, staying still to keep its body from drying out. Its horns work as sensors, picking up danger long before a predator gets close. It ranks as the weakest Dragon-type Pokémon on record, yet a grip on those horns delivers a jolt strong enough to stop most attackers.",
+    "media": [
+      {
+        "title": "Pokémon the Series: XY, Ash's Goomy",
+        "note": "Ash hatched a Goomy from an egg and raised it through its evolution into Sliggoo and Goodra."
+      }
+    ],
+    "community": "Fans see Goomy as an easy Pokémon to underestimate at first glance, and many enjoy raising one specifically to watch it grow into Goodra.",
+    "why": [
+      {
+        "text": "Goomy relies on sensitive horns to detect danger early, giving it time to retreat to safety.",
+        "trait": "S",
+        "anchor": "horns",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/704/"
+      },
+      {
+        "text": "Goomy's slimy coat lets punches and kicks slide off harmlessly, so it rarely needs to fight back.",
+        "trait": "A",
+        "anchor": "slimy",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Goomy_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Goomy sticks close to the shade it knows keeps it safe, a practical habit that serves it well.",
+        "trait": "O",
+        "anchor": "shade",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/704/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/704/",
+      "https://bulbapedia.bulbagarden.net/wiki/Goomy_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 706,
+    "name": "Goodra",
+    "showdown_id": "goodra",
+    "genus": "Dragon Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": -1,
+      "C": -2,
+      "E": 1,
+      "A": 4,
+      "S": -2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex line about misunderstanding instructions points to a straightforward nature more than an inventive one.",
+      "C": "More than one entry describes it as dazed or bewildered after misreading instructions, a trait its trainers are said to find endearing.",
+      "E": "It seeks physical closeness with a trusted trainer through repeated hugging, described across several Pokédex entries.",
+      "A": "Its own entry says it will hug its beloved trainer, leaving them covered in slime, one of the most openly affectionate lines in the Pokédex.",
+      "S": "Left on its own, it is said to ooze gooey tears, a clear sign of how strongly it reacts to separation."
+    },
+    "personality": "Goodra shows affection with a full-body hug that leaves its trainer covered in slime, and it means every bit of it. It sometimes misunderstands instructions and looks dazed mid-battle, a trait many trainers find endearing. Underneath the soft exterior is real power: its horns land a punch equal to a hundred boxers at once.",
+    "media": [
+      {
+        "title": "Pokémon the Series: XY&Z, Ash's Goodra",
+        "note": "Evolved from his Goomy and fought through Ash's Kalos League run using its horn strikes and hug-first greeting."
+      }
+    ],
+    "community": "Trainers who raise a Goomy into Goodra often describe the payoff as one of the more rewarding evolutions in the games, both for its battle power and for how affectionate it stays.",
+    "why": [
+      {
+        "text": "Goodra greets a trusted trainer with a full-body hug, sticky slime and all.",
+        "trait": "A",
+        "anchor": "hug",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/706/"
+      },
+      {
+        "text": "Goodra sometimes looks dazed mid-battle, a moment many trainers find endearing.",
+        "trait": "C",
+        "anchor": "dazed",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Goodra_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Goodra feels a separation from those it loves quickly, and shows it through gooey tears.",
+        "trait": "S",
+        "anchor": "tears",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/706/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/706/",
+      "https://bulbapedia.bulbagarden.net/wiki/Goodra_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 722,
+    "name": "Rowlet",
+    "showdown_id": "rowlet",
+    "genus": "Grass Quill Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": 1,
+      "C": 2,
+      "E": -2,
+      "A": 0,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its entries describe switching tactics between ranged feathers and close kicks depending on the situation, a flexible read of each fight.",
+      "C": "One entry notes it has mastered the art of deftly launching dagger-sharp feathers, language that points to real precision.",
+      "E": "It is described flying noiselessly at night and nesting in tight, dark spaces such as a trainer's bag, a habit built around staying out of sight.",
+      "A": "Its behavior in the anime, treating any pocket as a nest, reads as comfortable and trusting around a trainer it likes.",
+      "S": "Described as wary in its own Pokédex entry, it stays alert to its surroundings before committing to an attack."
+    },
+    "personality": "Rowlet spends daylight hours gathering energy through photosynthesis, then turns active once night falls. It glides in near silence and can switch from launching sharp feathers at range to fast kicks up close, whichever the moment calls for. Ash's Rowlet became known for treating any bag or pocket as a favorite hiding spot.",
+    "media": [
+      {
+        "title": "Pokémon the Series: Sun & Moon, Ash's Rowlet",
+        "note": "Used his trainer's bag as a nest and later evolved into Decidueye during the Alola League."
+      }
+    ],
+    "community": "Ash's Rowlet became one of the more talked-about partners in Sun and Moon, mostly for drifting off through danger one moment and pulling off a precise dodge the next.",
+    "why": [
+      {
+        "text": "Rowlet launches feathers as sharp as blades with practiced aim before switching to close-range kicks.",
+        "trait": "C",
+        "anchor": "feathers",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/722/"
+      },
+      {
+        "text": "Rowlet glides silently through the night sky, closing the distance before it is even noticed.",
+        "trait": "E",
+        "anchor": "silently",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Rowlet_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Rowlet stores up energy through photosynthesis by day, a practical habit that powers its night hunts.",
+        "trait": "O",
+        "anchor": "photosynthesis",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/722/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/722/",
+      "https://bulbapedia.bulbagarden.net/wiki/Rowlet_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 724,
+    "name": "Decidueye",
+    "showdown_id": "decidueye",
+    "genus": "Arrow Quill Pokémon",
+    "lean": "neutral",
+    "stage": "mature",
+    "ratings": {
+      "O": 0,
+      "C": 3,
+      "E": -2,
+      "A": 0,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its entries focus entirely on precision archery, which gives this trait a neutral middle read.",
+      "C": "Its Pokédex entry says it can nock and fire an arrow quill in a tenth of a second, precise enough to pierce a pebble at a hundred yards.",
+      "E": "Described as cool and cautious, it favors controlled, solitary hunting over group activity.",
+      "A": "Its entries center on solo hunting skill, saying little about its dealings with others, so this trait lands near the middle.",
+      "S": "One entry says it is seized by panic when caught by surprise, even though it stays cool and cautious the rest of the time."
+    },
+    "personality": "Decidueye can nock and fire an arrow quill in a tenth of a second, hitting a precise spot before an opponent even registers the shot. It stays cool and measured through most encounters, tugging the vine on its head to sharpen its focus on a shot it cannot afford to miss. A sudden surprise is the one thing that rattles that composure.",
+    "media": [
+      {
+        "title": "Pokémon the Series: Sun & Moon, Ash's Decidueye",
+        "note": "Evolved from Rowlet and fought through the Alola League finals using its arrow quill attacks."
+      }
+    ],
+    "community": "Competitive players rate Decidueye for the pinpoint accuracy of its arrow quills, and its design as an archer owl draws steady praise from longtime fans of the region's starters.",
+    "why": [
+      {
+        "text": "Decidueye can nock and fire an arrow quill in a tenth of a second, hitting a precise mark.",
+        "trait": "C",
+        "anchor": "arrow quill",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/724/"
+      },
+      {
+        "text": "Decidueye stays cool through most fights, though a sudden surprise can catch its focus off guard.",
+        "trait": "S",
+        "anchor": "surprise",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Decidueye_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Decidueye keeps a cool, cautious distance in battle, reading an opponent before it commits to a shot.",
+        "trait": "E",
+        "anchor": "cautious",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/724/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/724/",
+      "https://bulbapedia.bulbagarden.net/wiki/Decidueye_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 725,
+    "name": "Litten",
+    "showdown_id": "litten",
+    "genus": "Fire Cat Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": 1,
+      "E": -3,
+      "A": -2,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its entries stick to grooming routine and self-reliance, saying nothing about curiosity toward the world around it.",
+      "C": "It grooms itself constantly and stores the loose fur as fuel, a routine described in detail across its Pokédex entries.",
+      "E": "Its own entry says it prefers solitude and does not let its emotions show easily.",
+      "A": "Its Pokédex entry warns that trying too hard to get close will keep it guarded, and even earned affection has to stay measured.",
+      "S": "It takes real time to earn its trust, and a scratch is the fast answer to anyone who moves too soon, a guarded reaction to being rushed."
+    },
+    "personality": "Litten keeps its feelings close and takes real time before it trusts anyone. It grooms constantly, and the loose fur it swallows becomes the fuel behind its fire attacks. Trainers who rush the bond usually get a scratch for their trouble, while the ones who wait find a partner that opens up on its own schedule.",
+    "media": [
+      {
+        "title": "Pokémon the Series: Sun & Moon, Kiawe's Litten",
+        "note": "Kept its distance early on before evolving through Torracat into a trusted Incineroar."
+      }
+    ],
+    "community": "Fans point to Litten as the Alola starter with the most guarded personality on paper, and many like that its trust has to be earned instead of given right away.",
+    "why": [
+      {
+        "text": "Litten prefers solitude and takes real time before it opens up to a new trainer.",
+        "trait": "E",
+        "anchor": "solitude",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/725/"
+      },
+      {
+        "text": "Litten spends its downtime grooming its fur, storing the loose fuel that later powers its fire moves.",
+        "trait": "C",
+        "anchor": "grooming",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Litten_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Litten holds its trust in reserve until a trainer proves steady, then it stays loyal.",
+        "trait": "A",
+        "anchor": "trust",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/725/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/725/",
+      "https://bulbapedia.bulbagarden.net/wiki/Litten_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 727,
+    "name": "Incineroar",
+    "showdown_id": "incineroar",
+    "genus": "Heel Pokémon",
+    "lean": "masculine",
+    "stage": "evolved",
+    "ratings": {
+      "O": -1,
+      "C": -1,
+      "E": 3,
+      "A": -4,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its entries focus on fighting style and attitude, with nothing pointing toward curiosity or invention.",
+      "C": "It is described as ignoring a trainer's orders with complete nonchalance when it is not in the mood, the opposite of a disciplined follower.",
+      "E": "Its Sword entry says it excels at violent, no-holds-barred battles, the profile of a Pokémon that thrives on high-energy fights.",
+      "A": "Its Sun entry calls it violent and selfish outright, and it is said to find beating outmatched opponents boring, holding out for a real challenge on its own terms.",
+      "S": "Even with a rough temperament, its entries describe deliberate, controlled fire attacks, the sign of a Pokémon that keeps its composure under a rough exterior."
+    },
+    "personality": "Incineroar fights loud and rough, throwing punches and kicks before finishing an opponent off with fire from around its waist. It saves its full effort for opponents worth the trouble, and it visibly loses interest against anyone outmatched. Underneath the showboating, canon notes it will step in to help smaller Pokémon when they need it.",
+    "media": [
+      {
+        "title": "Pokémon Sword and Shield, Incineroar's Gigantamax Form",
+        "note": "One of a small set of starter Pokémon given a unique Gigantamax appearance and the signature move G-Max Malodor."
+      }
+    ],
+    "community": "Incineroar is a fan favorite in competitive Pokémon for its Intimidate ability and its wrestling-inspired design, and many players enjoy how openly it shows attitude in battle.",
+    "why": [
+      {
+        "text": "Incineroar finishes a fight by spewing fire from around its navel, ending things in style.",
+        "trait": "E",
+        "anchor": "navel",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/727/"
+      },
+      {
+        "text": "Incineroar holds its ground against any opponent and saves its real effort for the toughest matches.",
+        "trait": "A",
+        "anchor": "opponent",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Incineroar_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Incineroar keeps a kind side underneath the rough act, stepping in to help smaller Pokémon.",
+        "trait": "A",
+        "anchor": "kind",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/727/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/727/",
+      "https://bulbapedia.bulbagarden.net/wiki/Incineroar_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 728,
+    "name": "Popplio",
+    "showdown_id": "popplio",
+    "genus": "Sea Lion Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": 0,
+      "C": 3,
+      "E": 2,
+      "A": 1,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its entries focus on practice and persistence, saying nothing in particular about curiosity, so this trait lands in the middle.",
+      "C": "More than one entry says it must practice daily and be persistent to grow bigger, stronger balloons, textbook conscientious behavior.",
+      "E": "It is described riding its own bouncy balloons to jump higher, an energetic and acrobatic way to train.",
+      "A": "It is called famous for being a hard worker, a trait that benefits any team it trains alongside.",
+      "S": "Its entries describe steady day-by-day practice building its skill gradually, the pattern of a Pokémon that sticks with something instead of giving up early."
+    },
+    "personality": "Popplio practices with its water balloons every day, working to make them bigger and stronger than they were the day before. It rides its own balloons to jump higher, turning practice into something like a game. Trainers who raise one often note how much that daily persistence pays off by the time it reaches Primarina.",
+    "media": [
+      {
+        "title": "Pokémon the Series: Sun & Moon, Lana's Popplio",
+        "note": "Trained daily with its water balloons and evolved through the Alola League into Primarina."
+      }
+    ],
+    "community": "Popplio has a reputation among fans as the starter that works hardest early on, which makes its climb to Primarina feel earned.",
+    "why": [
+      {
+        "text": "Popplio practices with its water balloons every day, building bigger ones through simple daily repetition.",
+        "trait": "C",
+        "anchor": "practices",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/728/"
+      },
+      {
+        "text": "Popplio rides its own water balloons to jump higher, turning practice into something playful.",
+        "trait": "E",
+        "anchor": "balloons",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Popplio_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Popplio earns a reputation as a hard worker, staying with its balloon training day after day.",
+        "trait": "S",
+        "anchor": "hard worker",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/728/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/728/",
+      "https://bulbapedia.bulbagarden.net/wiki/Popplio_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 730,
+    "name": "Primarina",
+    "showdown_id": "primarina",
+    "genus": "Soloist Pokémon",
+    "lean": "feminine",
+    "stage": "mature",
+    "ratings": {
+      "O": 2,
+      "C": 2,
+      "E": 1,
+      "A": 1,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "It is described taking on a fantastical look on moonlit nights while leading its colony in song, an aesthetic, artistic side to its Pokédex entries.",
+      "C": "Its entry says a trainer must prioritize the daily maintenance of its throat, a level of upkeep that points to real discipline.",
+      "E": "Its genus, Soloist Pokémon, sits alongside entries about leading its colony in song, a balance of independence and shared performance.",
+      "A": "It is described leading its colony in song on moonlit nights, a role that puts it at the center of the group without pushing anyone aside.",
+      "S": "Its entries describe composed, deliberate control over its water balloons through song, the picture of a performer that does not rattle easily."
+    },
+    "personality": "Primarina treats every battle as a stage, using its singing voice to direct water balloons with precision. On moonlit nights it leads its colony in song, and trainers are told to look after its throat with the same care they give any other part of its training. The result is a performer as controlled as it is memorable.",
+    "media": [
+      {
+        "title": "Pokémon the Series: Sun & Moon, Lana's Primarina",
+        "note": "Evolved from Popplio and used its singing and balloon attacks through the Alola League run."
+      }
+    ],
+    "community": "Fans regularly rank Primarina among the best-designed final starters for its stage-performer theme, and competitive players value the control its song gives over the battlefield.",
+    "why": [
+      {
+        "text": "Primarina takes on a striking look on moonlit nights, leading its colony through song.",
+        "trait": "O",
+        "anchor": "moonlit",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/730/"
+      },
+      {
+        "text": "Primarina's trainer is asked to give daily care to its throat, the instrument behind every performance.",
+        "trait": "C",
+        "anchor": "throat",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Primarina_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Primarina treats every battle like a stage, staying composed through the performance from start to finish.",
+        "trait": "S",
+        "anchor": "stage",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/730/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/730/",
+      "https://bulbapedia.bulbagarden.net/wiki/Primarina_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 741,
+    "name": "Oricorio",
+    "showdown_id": "oricorio",
+    "genus": "Dancing Pokémon",
+    "lean": "feminine",
+    "stage": "evolved",
+    "ratings": {
+      "O": 1,
+      "C": -1,
+      "E": 3,
+      "A": -1,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its whole design changes Style and typing based on the nectar it drinks, an adaptive read on curiosity built into the species itself.",
+      "C": "Its entries describe eager, in-the-moment dancing more than a fixed routine, so it favors the go-with-the-flow read on this trait.",
+      "E": "It is described winning over enemies with spirited dancing before using that opening to attack, a performer that thrives in front of an audience.",
+      "A": "One entry says it becomes fiercely angry if its trainer gives the wrong order, evidence it holds a clear opinion about how a fight should go.",
+      "S": "Its entries describe intense, fast emotional swings tied to its nectar-fueled moods, a Pokémon that feels a fight strongly."
+    },
+    "personality": "Oricorio changes its whole style, color and moves, depending on the flower nectar it drinks. The Baile Style shown here dances with real passion, winning over a crowd before turning that same energy into a blaze of fire. Give it the wrong call in battle and that passion turns just as quickly into open frustration.",
+    "media": [
+      {
+        "title": "Pokémon Sun and Moon, the four regional Styles of Oricorio",
+        "note": "The same species changes Style, typing and look by the flower nectar a trainer feeds it."
+      }
+    ],
+    "community": "Fans like Oricorio for offering four different looks and battle styles in one species, and many trainers collect all four Styles just to see the full set of dances.",
+    "why": [
+      {
+        "text": "Oricorio wins over a crowd with a spirited dance before turning that energy into a blaze of fire.",
+        "trait": "E",
+        "anchor": "dance",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/741/"
+      },
+      {
+        "text": "Oricorio speaks its mind fast, growing openly frustrated if its trainer calls the wrong order.",
+        "trait": "A",
+        "anchor": "wrong order",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Oricorio_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Oricorio takes on a new look and moves for every type of nectar it drinks.",
+        "trait": "O",
+        "anchor": "nectar",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/741/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/741/",
+      "https://bulbapedia.bulbagarden.net/wiki/Oricorio_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 742,
+    "name": "Cutiefly",
+    "showdown_id": "cutiefly",
+    "genus": "Bee Fly Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": 2,
+      "C": 1,
+      "E": 1,
+      "A": -1,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "It is described reading the auras of people and Pokémon around it to predict what happens next, a genuinely perceptive trait.",
+      "C": "Its entries say it skillfully reads auras to anticipate an opponent's next move, a level of applied focus beyond simple instinct.",
+      "E": "It is described in myriads fluttering above people whose auras resemble flowers, a Pokémon drawn toward company.",
+      "A": "It is said to get into skirmishes with Butterfree over the same patch of flowers, evidence it holds its own instead of backing off.",
+      "S": "Its aura-reading lets it anticipate an attack and glide around it, the behavior of a Pokémon that notices change early."
+    },
+    "personality": "Cutiefly reads the auras of the living things around it, using that sense to guess an opponent's next move before it happens. It spends its days chasing nectar and pollen, often trading friendly rivalry with Butterfree over the same patch of flowers. Groups of Cutiefly are drawn to people whose auras remind them of flowers.",
+    "media": [
+      {
+        "title": "Pokémon Sun and Moon, Cutiefly's aura sense",
+        "note": "Its Pokédex entries describe it reading auras to predict an opponent's next move in battle."
+      }
+    ],
+    "community": "Cutiefly is well liked by newer trainers in Alola for being easy to find near flowers and for the aura-reading gimmick that makes it useful early in a playthrough.",
+    "why": [
+      {
+        "text": "Cutiefly reads the auras of nearby Pokémon and people, using that sense to predict what comes next.",
+        "trait": "O",
+        "anchor": "auras",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/742/"
+      },
+      {
+        "text": "Cutiefly can predict an opponent's next move early enough to glide around the attack and strike back.",
+        "trait": "S",
+        "anchor": "predict",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Cutiefly_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Cutiefly flutters in numbers above people whose auras remind it of flowers.",
+        "trait": "E",
+        "anchor": "flutter",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/742/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/742/",
+      "https://bulbapedia.bulbagarden.net/wiki/Cutiefly_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 744,
+    "name": "Rockruff",
+    "showdown_id": "rockruff",
+    "genus": "Puppy Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": -1,
+      "E": 2,
+      "A": 1,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its entries focus on loyalty and instinct passed down since ancient times, with nothing pointing toward curiosity about new things.",
+      "C": "Its own entry notes its disposition grows rougher as it grows up, the opposite of a fixed, orderly routine.",
+      "E": "It is described sticking close to its trainer's side, the behavior of a Pokémon that wants company nearby.",
+      "A": "It rubs the rocks on its neck against a trainer as a sign of its love, even though the gesture itself is described as painful.",
+      "S": "One entry says it can sense when its trainer is in the dumps, a Pokémon that picks up on mood shifts quickly."
+    },
+    "personality": "Rockruff has lived alongside people for generations and stays close to a trainer it trusts, even sensing when that trainer feels down. It rubs the rocks on its neck against someone as a sign of affection, a gesture that stings more than it sounds. Raising one takes patience, since its temperament grows rougher as it gets older.",
+    "media": [
+      {
+        "title": "Pokémon the Series: Sun & Moon, Ash's Rockruff",
+        "note": "Evolved into a rare Dusk Form Lycanroc at sunset during the Alola League."
+      }
+    ],
+    "community": "New trainers like Rockruff for being one of the friendliest starting points into a battle team, and its evolution into three different Lycanroc forms keeps veteran fans invested too.",
+    "why": [
+      {
+        "text": "Rockruff rubs the rocks on its neck against a trusted trainer, a rough but real sign of its love.",
+        "trait": "A",
+        "anchor": "love",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/744/"
+      },
+      {
+        "text": "Rockruff has lived alongside people for generations and likes to stay close by a trainer's side.",
+        "trait": "E",
+        "anchor": "close",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Rockruff can sense when its trainer is feeling down and moves in to stay near.",
+        "trait": "S",
+        "anchor": "sense",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/744/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/744/",
+      "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 745,
+    "name": "Lycanroc",
+    "showdown_id": "lycanroc",
+    "genus": "Wolf Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": -1,
+      "C": 1,
+      "E": -1,
+      "A": 2,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its entries stay focused on hunting technique and loyalty, with nothing that points toward curiosity about new ideas.",
+      "C": "One entry describes it wearing prey down by degrees, a patient, methodical approach to a fight.",
+      "E": "Its Midday and Dusk entries lean toward measured, deliberate movement over open displays of energy.",
+      "A": "Raised well from a young age, it is described becoming a partner that will absolutely never betray its trainer, about as loyal as a Pokédex line gets.",
+      "S": "Its Midnight entry calls it calm and cautious, a Pokémon that reads a fight before it reacts."
+    },
+    "personality": "Lycanroc fights with quick, confusing movement, using the sharp rocks in its mane along with its claws and fangs. Raised well from a young age, it becomes a partner that stays loyal through anything. Its calmest form reads a fight with patience, closing in on an opponent step by step instead of rushing straight in.",
+    "media": [
+      {
+        "title": "Pokémon the Series: Sun & Moon, Ash's Dusk Form Lycanroc",
+        "note": "Evolved at sunset from Ash's Rockruff and fought through the Alola League finals."
+      }
+    ],
+    "community": "Trainers who value loyalty in a Pokémon tend to name Lycanroc first, and the choice between its three forms, tied to the time it evolves, keeps the species a common talking point.",
+    "why": [
+      {
+        "text": "Lycanroc raised well from a young age becomes a trustworthy partner that stays loyal for good.",
+        "trait": "A",
+        "anchor": "trustworthy",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/745/"
+      },
+      {
+        "text": "Lycanroc's calmer forms read a fight with patience, closing the distance step by step.",
+        "trait": "S",
+        "anchor": "calm",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Lycanroc wears down its opponent by degrees instead of rushing in, a patient and deliberate approach.",
+        "trait": "C",
+        "anchor": "degrees",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/745/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/745/",
+      "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 761,
+    "name": "Bounsweet",
+    "showdown_id": "bounsweet",
+    "genus": "Fruit Pokémon",
+    "lean": "feminine",
+    "stage": "young",
+    "ratings": {
+      "O": -2,
+      "C": -1,
+      "E": 0,
+      "A": 2,
+      "S": -2
+    },
+    "rating_evidence": {
+      "O": "Its own entry says it stays focused on instinct over strategy while bird Pokémon are after it, a simple, straightforward read on the world.",
+      "C": "Its main defense, spinning the sepals on its head, is described as usually a fruitless attempt, more improvised than planned.",
+      "E": "Its entries describe it mostly in terms of scent and pursuit, saying little about social behavior, so this trait lands near the middle.",
+      "A": "Its sweat becomes a sweet, drinkable juice that people enjoy, a Pokémon that gives something back even under constant pursuit.",
+      "S": "Chased by bird Pokémon in nearly every entry, it is described reacting fast with a spinning defense each time danger gets close."
+    },
+    "personality": "Bounsweet gives off a sweet scent that draws bird Pokémon like Toucannon from all around, and it spends a lot of its time trying to avoid becoming a meal. Its main defense is spinning the sepals on its head, which rarely works but rarely stops it from trying anyway. Its Pokédex says it grows more confident with each stage as it evolves into Steenee and then Tsareena.",
+    "media": [
+      {
+        "title": "Pokémon the Series: Sun & Moon, Mallow's Bounsweet",
+        "note": "Evolved into Steenee and then Tsareena across the Alola series, growing more confident with each stage."
+      }
+    ],
+    "community": "Bounsweet is a favorite among fans who like an underdog, since its whole early life is spent dodging bird Pokémon before it grows into the far more capable Tsareena.",
+    "why": [
+      {
+        "text": "Bounsweet gives off a sweet aroma that draws attention from all around, though bird Pokémon are usually the ones who come calling.",
+        "trait": "A",
+        "anchor": "sweet",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/761/"
+      },
+      {
+        "text": "Bounsweet starts spinning the sepals on its head the moment a bird Pokémon gets close, a fast defensive reflex.",
+        "trait": "S",
+        "anchor": "spinning",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Bounsweet_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "As the Fruit Pokémon, Bounsweet carries a scent so sweet that Toucannon and other bird Pokémon are drawn to it from all around.",
+        "trait": "O",
+        "anchor": "Fruit",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/761/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/761/",
+      "https://bulbapedia.bulbagarden.net/wiki/Bounsweet_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 764,
+    "name": "Comfey",
+    "showdown_id": "comfey",
+    "genus": "Posy Picker Pokémon",
+    "lean": "feminine",
+    "stage": "evolved",
+    "ratings": {
+      "O": 2,
+      "C": 1,
+      "E": 0,
+      "A": 3,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "It is described picking and arranging flowers so that each Comfey ends up with its own individual scent, a personal, creative habit.",
+      "C": "Its entries describe it consistently reattaching and caring for the flowers on its vine, upkeep that repeats day to day.",
+      "E": "Its entries focus on flower care more than group behavior, landing this trait near the middle.",
+      "A": "Baths made from its flowers are described as having a real relaxing effect on the people who use them, a benefit it shares just by existing nearby.",
+      "S": "It is described feeling uneasy without any flowers attached, a Pokémon that reacts quickly when something it relies on is missing."
+    },
+    "personality": "Comfey picks flowers with its vine and wears them as a personal arrangement, and no two Comfey wear quite the same bouquet. Flowers attached to a Comfey stay fresh instead of wilting, and the scent they give off has a real relaxing effect, used in baths people seek out. It feels most settled with fresh flowers in hand, and looks for more once its collection runs low.",
+    "media": [
+      {
+        "title": "Pokémon Sun and Moon, Comfey flower baths",
+        "note": "Its Pokédex entries describe flowers from Comfey's vine being used to prepare relaxing baths that people seek out."
+      }
+    ],
+    "community": "Comfey has a following among fans who like its individual flower styling, since every Comfey ends up looking a little different depending on what it has picked.",
+    "why": [
+      {
+        "text": "Comfey's petals give off a scent with a real healing effect on the people and Pokémon around it.",
+        "trait": "A",
+        "anchor": "healing",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/764/"
+      },
+      {
+        "text": "Comfey builds its own individual look with a vine full of picked flowers, and no two Comfey match.",
+        "trait": "O",
+        "anchor": "individual",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Comfey_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Comfey feels uneasy without any flowers on hand, and settles again as soon as it finds more.",
+        "trait": "S",
+        "anchor": "uneasy",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/764/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/764/",
+      "https://bulbapedia.bulbagarden.net/wiki/Comfey_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 778,
+    "name": "Mimikyu",
+    "showdown_id": "mimikyu",
+    "genus": "Disguise Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": 1,
+      "C": 1,
+      "E": -2,
+      "A": 2,
+      "S": -2
+    },
+    "rating_evidence": {
+      "O": "Making its own rag costume out of a Pikachu shape shows real creativity in how it solves the problem of being approached.",
+      "C": "It is described keeping its disguise carefully maintained and consistent, upkeep that takes real attention.",
+      "E": "It is described as a quiet Pokémon that conceals itself and keeps its distance from open attention.",
+      "A": "Its whole disguise exists, by its own Pokédex description, so it can get closer to people and other Pokémon, the core of the entry is a wish for company.",
+      "S": "It is described becoming agitated and resisting hard the moment anyone tries to look under its rag, a fast, strong reaction to something it guards closely."
+    },
+    "personality": "Mimikyu covers itself in a rag shaped like a Pikachu, an attempt to look more approachable to the people and Pokémon around it. What is actually underneath the rag stays a mystery, and it reacts fast and hard if anyone tries to look. The whole disguise exists for one reason: it wants to be near others, on its own terms.",
+    "media": [
+      {
+        "title": "Pokémon the Series: Sun & Moon, Team Rocket's Mimikyu",
+        "note": "A wild Mimikyu attached itself to Jessie for an extended anime arc built around its Pikachu disguise."
+      }
+    ],
+    "community": "Mimikyu is one of the more talked-about designs from the Alola region, and fans generally read its whole story as a Pokémon that wants company, regardless of the reaction its disguise usually causes.",
+    "why": [
+      {
+        "text": "Mimikyu wears its rag disguise so it can get closer to people and other Pokémon it wants to know.",
+        "trait": "A",
+        "anchor": "closer",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/778/"
+      },
+      {
+        "text": "Mimikyu conceals its true appearance and keeps a careful distance, choosing quiet company over open crowds.",
+        "trait": "E",
+        "anchor": "conceals",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Mimikyu_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Mimikyu fashions its rag into a Pikachu costume, a handmade disguise built entirely on its own terms.",
+        "trait": "O",
+        "anchor": "costume",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/778/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/778/",
+      "https://bulbapedia.bulbagarden.net/wiki/Mimikyu_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 780,
+    "name": "Drampa",
+    "showdown_id": "drampa",
+    "genus": "Placid Pokémon",
+    "lean": "neutral",
+    "stage": "mature",
+    "ratings": {
+      "O": 1,
+      "C": -1,
+      "E": 1,
+      "A": 3,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "It travels down from remote mountains on occasion to see the towns below, a Pokémon willing to leave familiar ground.",
+      "C": "It comes and goes from its mountain home on its own schedule, with no fixed routine described in its entries.",
+      "E": "It is described coming to town specifically to play with children it has befriended, seeking that company out on its own.",
+      "A": "Its entries describe it protecting children it has befriended if they are ever in danger, called compassionate outright in more than one entry.",
+      "S": "Its genus, Placid Pokémon, and entries describing a friendly, easygoing temperament most of the time back a steady read on this trait."
+    },
+    "personality": "Drampa lives high in the mountains, nearly two miles up, and comes down on occasion just to play with children in town. It looks out for the kids it has befriended and steps in if one of them runs into trouble. Its temperament stays calm and easygoing almost all the time, and the rare stories about its temper only come up when a friend of its gets hurt.",
+    "media": [
+      {
+        "title": "Pokémon Sun and Moon, Alola Pokédex entries for Drampa",
+        "note": "Its entries describe it descending from the mountains to play with children it has befriended in town."
+      }
+    ],
+    "community": "Drampa stands out to fans as one of the more good-natured dragon-adjacent designs in the series, valued for its protective streak toward kids as much as for its raw power.",
+    "why": [
+      {
+        "text": "Drampa will protect the children it has befriended in town if they run into trouble.",
+        "trait": "A",
+        "anchor": "protect",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/780/"
+      },
+      {
+        "text": "Drampa carries the placid genus name for a reason, staying calm and even-tempered almost all the time.",
+        "trait": "S",
+        "anchor": "placid",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Drampa_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Drampa comes down from its mountain home on occasion just to play with children in town.",
+        "trait": "E",
+        "anchor": "children",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/780/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/780/",
+      "https://bulbapedia.bulbagarden.net/wiki/Drampa_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 810,
+    "name": "Grookey",
+    "showdown_id": "grookey",
+    "genus": "Chimp Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": 1,
+      "C": 0,
+      "E": 3,
+      "A": 1,
+      "S": 0
+    },
+    "rating_evidence": {
+      "O": "Turning stick-drumming into a way of sending energy into nearby plants is a creative use of a simple tool.",
+      "C": "Its entries focus on rhythm and momentum over order or planning, so this trait lands near the middle.",
+      "E": "Its entry says it gets more and more pumped as it drums faster, a rising burst of energy in real time.",
+      "A": "The sound waves from its drumming are described carrying revitalizing energy to plants and flowers nearby, a benefit that reaches beyond itself.",
+      "S": "Its entries focus on building excitement more than staying even, so this trait lands close to the middle."
+    },
+    "personality": "Grookey carries a special stick everywhere and strikes up a beat with it every chance it gets. The sound waves from that rhythm carry real energy to nearby plants, which perk up and grow a little faster when Grookey is around. The faster it drums, the more pumped up it gets, and that energy spreads to anyone nearby.",
+    "media": [
+      {
+        "title": "Pokémon Sword and Shield, Grookey's reveal trailer",
+        "note": "Its reveal trailer for Sword and Shield showed Grookey drumming on its stick to make nearby plants grow."
+      }
+    ],
+    "community": "Grookey was a fan favorite the moment it was revealed, largely for how much personality its drumming animation packed into a starter reveal trailer.",
+    "why": [
+      {
+        "text": "Grookey strikes up a beat on its stick every chance it gets, and picks up speed as it goes.",
+        "trait": "E",
+        "anchor": "beat",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/810/"
+      },
+      {
+        "text": "Grookey's drumming sends revitalizing energy into the plants and flowers nearby, helping them along.",
+        "trait": "A",
+        "anchor": "energy",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Grookey_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Grookey turns simple sound waves from its stick into something that visibly helps the plants around it grow.",
+        "trait": "O",
+        "anchor": "sound waves",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/810/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/810/",
+      "https://bulbapedia.bulbagarden.net/wiki/Grookey_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 813,
+    "name": "Scorbunny",
+    "showdown_id": "scorbunny",
+    "genus": "Rabbit Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": 0,
+      "C": 1,
+      "E": 3,
+      "A": 0,
+      "S": 0
+    },
+    "rating_evidence": {
+      "O": "Its entries focus entirely on warming up and battle readiness, so this trait lands in the middle.",
+      "C": "Its own entry ties its fire energy directly to a warm-up routine, a repeatable habit before every fight.",
+      "E": "It is described needing a warm-up of running around before it is ready to fight, an entry built entirely around motion and energy.",
+      "A": "Its entries focus on its own preparation, saying little about its dealings with others, so this trait lands near the middle.",
+      "S": "Its entries describe a steady buildup from warm-up to full power, a controlled kind of energy building over time."
+    },
+    "personality": "Scorbunny warms up by running as much as it can, and that exercise is what actually gets its fire energy flowing. Once it is warmed up, the pads on its feet and nose start giving off real heat, a sign it is ready to fight at full power. It treats every match like a race it wants to win first.",
+    "media": [
+      {
+        "title": "Pokémon Sword and Shield, Scorbunny's reveal trailer",
+        "note": "Its reveal trailer showed Scorbunny warming up with a run before its fire pads lit up in a stadium setting."
+      }
+    ],
+    "community": "Scorbunny drew a strong following at its reveal for its sprinter design, and many trainers pick it first specifically for that early burst of speed and energy.",
+    "why": [
+      {
+        "text": "Scorbunny needs a real warm-up of running before its fire energy gets going.",
+        "trait": "E",
+        "anchor": "warm-up",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/813/"
+      },
+      {
+        "text": "Scorbunny treats its run as training, building toward the moment it is ready to fight at full power.",
+        "trait": "C",
+        "anchor": "ready",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Scorbunny_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Scorbunny stays even through its warm-up routine, building steadily until it can fight at full power.",
+        "trait": "S",
+        "anchor": "full power",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/813/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/813/",
+      "https://bulbapedia.bulbagarden.net/wiki/Scorbunny_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 815,
+    "name": "Cinderace",
+    "showdown_id": "cinderace",
+    "genus": "Striker Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": 0,
+      "C": 2,
+      "E": 3,
+      "A": -1,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its entries focus on technique and performance, saying little about curiosity, so this trait lands in the middle.",
+      "C": "It is described as skilled at both offense and defense, a balanced, well-rounded approach to a match.",
+      "E": "It is described getting pumped up when a crowd cheers it on, drawing real energy from an audience.",
+      "A": "Its entries warn that showboating can put it in a tough spot, a Pokémon that plays its own way even when it costs a little control.",
+      "S": "The same entry that praises its balance warns that showboating at the wrong moment creates real risk, a sign its composure has a limit."
+    },
+    "personality": "Cinderace juggles a pebble with its feet until it becomes a burning soccer ball, then fires it hard enough to leave a scorch mark. It handles offense and defense equally well, and a cheering crowd visibly pumps it up mid-match. The one risk is its own flair, since showboating at the wrong moment can put it in a tough spot.",
+    "media": [
+      {
+        "title": "Pokémon Sword and Shield, Cinderace's Gigantamax Form",
+        "note": "Its Gigantamax Form and signature move Pyro Ball built directly on its soccer striker design introduced in Galar."
+      }
+    ],
+    "community": "Cinderace became a competitive staple soon after its release, prized for the raw power of Pyro Ball and for a design fans immediately read as a soccer striker.",
+    "why": [
+      {
+        "text": "Cinderace visibly gets pumped up when a crowd has cheered it on mid-match.",
+        "trait": "E",
+        "anchor": "cheered",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/815/"
+      },
+      {
+        "text": "Cinderace handles both offense and defense equally well, a balance that sets it apart from a pure striker.",
+        "trait": "C",
+        "anchor": "offense and defense",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Cinderace_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Cinderace's flair for showboating shows a Pokémon that plays entirely on its own terms.",
+        "trait": "A",
+        "anchor": "showboating",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/815/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/815/",
+      "https://bulbapedia.bulbagarden.net/wiki/Cinderace_(Pok%C3%A9mon)"
+    ]
+  }
+]

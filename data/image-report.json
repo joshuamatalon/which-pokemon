@@ -1,0 +1,899 @@
+{
+ "results": [
+  {
+   "id": 1,
+   "name": "Bulbasaur",
+   "showdown_id": "bulbasaur",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 3,
+   "name": "Venusaur",
+   "showdown_id": "venusaur",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 4,
+   "name": "Charmander",
+   "showdown_id": "charmander",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 6,
+   "name": "Charizard",
+   "showdown_id": "charizard",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 7,
+   "name": "Squirtle",
+   "showdown_id": "squirtle",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 9,
+   "name": "Blastoise",
+   "showdown_id": "blastoise",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 12,
+   "name": "Butterfree",
+   "showdown_id": "butterfree",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 25,
+   "name": "Pikachu",
+   "showdown_id": "pikachu",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 26,
+   "name": "Raichu",
+   "showdown_id": "raichu",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 30,
+   "name": "Nidorina",
+   "showdown_id": "nidorina",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 35,
+   "name": "Clefairy",
+   "showdown_id": "clefairy",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 36,
+   "name": "Clefable",
+   "showdown_id": "clefable",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 37,
+   "name": "Vulpix",
+   "showdown_id": "vulpix",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 58,
+   "name": "Growlithe",
+   "showdown_id": "growlithe",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 59,
+   "name": "Arcanine",
+   "showdown_id": "arcanine",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 65,
+   "name": "Alakazam",
+   "showdown_id": "alakazam",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 77,
+   "name": "Ponyta",
+   "showdown_id": "ponyta",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 78,
+   "name": "Rapidash",
+   "showdown_id": "rapidash",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 94,
+   "name": "Gengar",
+   "showdown_id": "gengar",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 106,
+   "name": "Hitmonlee",
+   "showdown_id": "hitmonlee",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 107,
+   "name": "Hitmonchan",
+   "showdown_id": "hitmonchan",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 113,
+   "name": "Chansey",
+   "showdown_id": "chansey",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 115,
+   "name": "Kangaskhan",
+   "showdown_id": "kangaskhan",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 125,
+   "name": "Electabuzz",
+   "showdown_id": "electabuzz",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 131,
+   "name": "Lapras",
+   "showdown_id": "lapras",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 133,
+   "name": "Eevee",
+   "showdown_id": "eevee",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 135,
+   "name": "Jolteon",
+   "showdown_id": "jolteon",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 136,
+   "name": "Flareon",
+   "showdown_id": "flareon",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 147,
+   "name": "Dratini",
+   "showdown_id": "dratini",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 149,
+   "name": "Dragonite",
+   "showdown_id": "dragonite",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 150,
+   "name": "Mewtwo",
+   "showdown_id": "mewtwo",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 151,
+   "name": "Mew",
+   "showdown_id": "mew",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 152,
+   "name": "Chikorita",
+   "showdown_id": "chikorita",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 154,
+   "name": "Meganium",
+   "showdown_id": "meganium",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 155,
+   "name": "Cyndaquil",
+   "showdown_id": "cyndaquil",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 157,
+   "name": "Typhlosion",
+   "showdown_id": "typhlosion",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 158,
+   "name": "Totodile",
+   "showdown_id": "totodile",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 164,
+   "name": "Noctowl",
+   "showdown_id": "noctowl",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 179,
+   "name": "Mareep",
+   "showdown_id": "mareep",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 181,
+   "name": "Ampharos",
+   "showdown_id": "ampharos",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 196,
+   "name": "Espeon",
+   "showdown_id": "espeon",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 197,
+   "name": "Umbreon",
+   "showdown_id": "umbreon",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 212,
+   "name": "Scizor",
+   "showdown_id": "scizor",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 237,
+   "name": "Hitmontop",
+   "showdown_id": "hitmontop",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 242,
+   "name": "Blissey",
+   "showdown_id": "blissey",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 245,
+   "name": "Suicune",
+   "showdown_id": "suicune",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 249,
+   "name": "Lugia",
+   "showdown_id": "lugia",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 250,
+   "name": "Ho-Oh",
+   "showdown_id": "hooh",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 251,
+   "name": "Celebi",
+   "showdown_id": "celebi",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 252,
+   "name": "Treecko",
+   "showdown_id": "treecko",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 254,
+   "name": "Sceptile",
+   "showdown_id": "sceptile",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 255,
+   "name": "Torchic",
+   "showdown_id": "torchic",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 257,
+   "name": "Blaziken",
+   "showdown_id": "blaziken",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 258,
+   "name": "Mudkip",
+   "showdown_id": "mudkip",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 260,
+   "name": "Swampert",
+   "showdown_id": "swampert",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 280,
+   "name": "Ralts",
+   "showdown_id": "ralts",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 281,
+   "name": "Kirlia",
+   "showdown_id": "kirlia",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 300,
+   "name": "Skitty",
+   "showdown_id": "skitty",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 311,
+   "name": "Plusle",
+   "showdown_id": "plusle",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 330,
+   "name": "Flygon",
+   "showdown_id": "flygon",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 333,
+   "name": "Swablu",
+   "showdown_id": "swablu",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 334,
+   "name": "Altaria",
+   "showdown_id": "altaria",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 350,
+   "name": "Milotic",
+   "showdown_id": "milotic",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 376,
+   "name": "Metagross",
+   "showdown_id": "metagross",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 380,
+   "name": "Latias",
+   "showdown_id": "latias",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 381,
+   "name": "Latios",
+   "showdown_id": "latios",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 384,
+   "name": "Rayquaza",
+   "showdown_id": "rayquaza",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 385,
+   "name": "Jirachi",
+   "showdown_id": "jirachi",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 387,
+   "name": "Turtwig",
+   "showdown_id": "turtwig",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 389,
+   "name": "Torterra",
+   "showdown_id": "torterra",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 390,
+   "name": "Chimchar",
+   "showdown_id": "chimchar",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 392,
+   "name": "Infernape",
+   "showdown_id": "infernape",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 393,
+   "name": "Piplup",
+   "showdown_id": "piplup",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 395,
+   "name": "Empoleon",
+   "showdown_id": "empoleon",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 403,
+   "name": "Shinx",
+   "showdown_id": "shinx",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 405,
+   "name": "Luxray",
+   "showdown_id": "luxray",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 417,
+   "name": "Pachirisu",
+   "showdown_id": "pachirisu",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 427,
+   "name": "Buneary",
+   "showdown_id": "buneary",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 445,
+   "name": "Garchomp",
+   "showdown_id": "garchomp",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 448,
+   "name": "Lucario",
+   "showdown_id": "lucario",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 468,
+   "name": "Togekiss",
+   "showdown_id": "togekiss",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 470,
+   "name": "Leafeon",
+   "showdown_id": "leafeon",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 471,
+   "name": "Glaceon",
+   "showdown_id": "glaceon",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 475,
+   "name": "Gallade",
+   "showdown_id": "gallade",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 479,
+   "name": "Rotom",
+   "showdown_id": "rotom",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 488,
+   "name": "Cresselia",
+   "showdown_id": "cresselia",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 490,
+   "name": "Manaphy",
+   "showdown_id": "manaphy",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 492,
+   "name": "Shaymin",
+   "showdown_id": "shaymin",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 494,
+   "name": "Victini",
+   "showdown_id": "victini",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 497,
+   "name": "Serperior",
+   "showdown_id": "serperior",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 501,
+   "name": "Oshawott",
+   "showdown_id": "oshawott",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 503,
+   "name": "Samurott",
+   "showdown_id": "samurott",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 542,
+   "name": "Leavanny",
+   "showdown_id": "leavanny",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 547,
+   "name": "Whimsicott",
+   "showdown_id": "whimsicott",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 548,
+   "name": "Petilil",
+   "showdown_id": "petilil",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 549,
+   "name": "Lilligant",
+   "showdown_id": "lilligant",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 570,
+   "name": "Zorua",
+   "showdown_id": "zorua",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 571,
+   "name": "Zoroark",
+   "showdown_id": "zoroark",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 572,
+   "name": "Minccino",
+   "showdown_id": "minccino",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 573,
+   "name": "Cinccino",
+   "showdown_id": "cinccino",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 585,
+   "name": "Deerling",
+   "showdown_id": "deerling",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 586,
+   "name": "Sawsbuck",
+   "showdown_id": "sawsbuck",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 610,
+   "name": "Axew",
+   "showdown_id": "axew",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 627,
+   "name": "Rufflet",
+   "showdown_id": "rufflet",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 628,
+   "name": "Braviary",
+   "showdown_id": "braviary",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 637,
+   "name": "Volcarona",
+   "showdown_id": "volcarona",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 648,
+   "name": "Meloetta",
+   "showdown_id": "meloetta",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 650,
+   "name": "Chespin",
+   "showdown_id": "chespin",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 653,
+   "name": "Fennekin",
+   "showdown_id": "fennekin",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 654,
+   "name": "Braixen",
+   "showdown_id": "braixen",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 655,
+   "name": "Delphox",
+   "showdown_id": "delphox",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 656,
+   "name": "Froakie",
+   "showdown_id": "froakie",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 658,
+   "name": "Greninja",
+   "showdown_id": "greninja",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 669,
+   "name": "Flabébé",
+   "showdown_id": "flabebe",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 671,
+   "name": "Florges",
+   "showdown_id": "florges",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 681,
+   "name": "Aegislash",
+   "showdown_id": "aegislash",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 700,
+   "name": "Sylveon",
+   "showdown_id": "sylveon",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 701,
+   "name": "Hawlucha",
+   "showdown_id": "hawlucha",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 722,
+   "name": "Rowlet",
+   "showdown_id": "rowlet",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 724,
+   "name": "Decidueye",
+   "showdown_id": "decidueye",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 725,
+   "name": "Litten",
+   "showdown_id": "litten",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 728,
+   "name": "Popplio",
+   "showdown_id": "popplio",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 730,
+   "name": "Primarina",
+   "showdown_id": "primarina",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 741,
+   "name": "Oricorio",
+   "showdown_id": "oricorio",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 742,
+   "name": "Cutiefly",
+   "showdown_id": "cutiefly",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 744,
+   "name": "Rockruff",
+   "showdown_id": "rockruff",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 745,
+   "name": "Lycanroc",
+   "showdown_id": "lycanroc",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 761,
+   "name": "Bounsweet",
+   "showdown_id": "bounsweet",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 764,
+   "name": "Comfey",
+   "showdown_id": "comfey",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 810,
+   "name": "Grookey",
+   "showdown_id": "grookey",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 813,
+   "name": "Scorbunny",
+   "showdown_id": "scorbunny",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 815,
+   "name": "Cinderace",
+   "showdown_id": "cinderace",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 818,
+   "name": "Inteleon",
+   "showdown_id": "inteleon",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 821,
+   "name": "Rookidee",
+   "showdown_id": "rookidee",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 823,
+   "name": "Corviknight",
+   "showdown_id": "corviknight",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 831,
+   "name": "Wooloo",
+   "showdown_id": "wooloo",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 836,
+   "name": "Boltund",
+   "showdown_id": "boltund",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 856,
+   "name": "Hatenna",
+   "showdown_id": "hatenna",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 869,
+   "name": "Alcremie",
+   "showdown_id": "alcremie",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 873,
+   "name": "Frosmoth",
+   "showdown_id": "frosmoth",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 887,
+   "name": "Dragapult",
+   "showdown_id": "dragapult",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 888,
+   "name": "Zacian",
+   "showdown_id": "zacian",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 891,
+   "name": "Kubfu",
+   "showdown_id": "kubfu",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 892,
+   "name": "Urshifu",
+   "showdown_id": "urshifu",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 906,
+   "name": "Sprigatito",
+   "showdown_id": "sprigatito",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 908,
+   "name": "Meowscarada",
+   "showdown_id": "meowscarada",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 912,
+   "name": "Quaxly",
+   "showdown_id": "quaxly",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 957,
+   "name": "Tinkatink",
+   "showdown_id": "tinkatink",
+   "ani_static_fallback": false
+  },
+  {
+   "id": 959,
+   "name": "Tinkaton",
+   "showdown_id": "tinkaton",
+   "ani_static_fallback": false
+  }
+ ],
+ "fallbacks": []
+}

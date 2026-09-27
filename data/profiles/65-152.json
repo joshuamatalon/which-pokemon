@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 65,
+    "name": "Alakazam",
+    "showdown_id": "alakazam",
+    "genus": "Psi Pokémon",
+    "lean": "masculine",
+    "stage": "mature",
+    "ratings": {
+      "O": 4,
+      "C": 3,
+      "E": -2,
+      "A": -1,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Its Red and Blue Pokédex entry puts its intelligence quotient at 5,000, high enough to outperform a supercomputer.",
+      "C": "Its Sword Pokédex entry says it remembers everything that happens to it, from birth till death.",
+      "E": "In the anime, Sabrina trains it through quiet one-on-one focus drills instead of group play.",
+      "A": "It reasons out a battle on its own terms, the Strong-willed habit of a Pokémon that trusts its own read of the field.",
+      "S": "Its games portrayal never loses composure, holding a level stance through Sabrina's toughest Gym challenges."
+    },
+    "personality": "Alakazam carries an intelligence quotient the Pokédex puts at 5,000, high enough to outperform a supercomputer. It never forgets a fact once it learns it and treats every battle like a puzzle to work out calmly. In the anime, Sabrina's Alakazam studies an opponent before it moves and answers with precise counters. It keeps its own counsel and prefers a quiet room to a crowd.",
+    "media": [
+      {
+        "title": "Pokémon: The Series, Sabrina's calm Alakazam holds its Gym leader ground episode after episode",
+        "note": "Sabrina's Kadabra evolves into Alakazam during her run as a Kanto and Johto Gym leader."
+      }
+    ],
+    "community": "Alakazam usually tops fan lists of the smartest Pokémon, and players who traded a Kadabra to get one remember the requirement as a rite of passage. Its calm, calculating reputation keeps it a favorite among Psychic-type battlers.",
+    "why": [
+      {
+        "text": "Alakazam earns its Psi Pokémon title with an intelligence quotient the games put at 5,000.",
+        "trait": "O",
+        "anchor": "Psi",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/65/"
+      },
+      {
+        "text": "Its Sword Pokédex entry says it remembers everything that happens to it, a habit of careful record keeping.",
+        "trait": "C",
+        "anchor": "remembers",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/65/"
+      },
+      {
+        "text": "Alakazam holds a calm, disciplined stance through Sabrina's toughest Gym battles in the anime.",
+        "trait": "S",
+        "anchor": "calm",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Alakazam_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/65/",
+      "https://bulbapedia.bulbagarden.net/wiki/Alakazam_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Machop",
+    "showdown_id": "machop",
+    "genus": "Superpower Pokémon",
+    "lean": "masculine",
+    "stage": "young",
+    "ratings": {
+      "O": -2,
+      "C": 3,
+      "E": 3,
+      "A": 1,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries focus entirely on training routines, not on new ideas, fitting a practical, down-to-earth read.",
+      "C": "One entry says it hefts a Graveler repeatedly to strengthen its whole body, a set routine repeated on schedule.",
+      "E": "The games describe it constantly training in every style of martial arts, always in motion.",
+      "A": "Trainers often pair it with a Machoke or Graveler as a training partner, a role built on cooperation.",
+      "S": "Its Pokédex line says it can hurl 100 grown adults, a feat that reads as steady confidence under load."
+    },
+    "personality": "Machop loves building muscle and trains in every style of martial arts to get stronger. Its whole body is made of muscle, and the Pokédex says it can hurl 100 grown adults despite standing about the size of a child. It keeps at its training routine, lifting a willing Graveler again and again to build strength. Trainers who raise one often watch it treat every day as practice.",
+    "media": [
+      {
+        "title": "Pokémon Red and Blue, a common training partner found on Victory Road",
+        "note": "Many trainers raise one from a low-level catch all the way to Machamp."
+      }
+    ],
+    "community": "Machop shows up on lists of underrated Fighting types, since its climb from a common early catch to a Machamp is one of the more satisfying training arcs in the games. Fans like that its whole story is about steady effort.",
+    "why": [
+      {
+        "text": "Machop strengthens its whole body by hefting a Graveler again and again, the same routine every session.",
+        "trait": "C",
+        "anchor": "Graveler",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/66/"
+      },
+      {
+        "text": "It trains in every style of martial arts, always moving toward its next workout.",
+        "trait": "E",
+        "anchor": "martial arts",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/66/"
+      },
+      {
+        "text": "It is prized as a training partner, keeping pace hefting a Graveler through the same drill each day.",
+        "trait": "A",
+        "anchor": "Graveler",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Machop_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/66/",
+      "https://bulbapedia.bulbagarden.net/wiki/Machop_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Machamp",
+    "showdown_id": "machamp",
+    "genus": "Superpower Pokémon",
+    "lean": "masculine",
+    "stage": "evolved",
+    "ratings": {
+      "O": -4,
+      "C": 2,
+      "E": 2,
+      "A": 2,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "It is the games' own example of the practical end of the scale, valued for results over new ideas.",
+      "C": "Its Pokédex says it has mastered every kind of martial arts, the payoff of steady repeated training.",
+      "E": "It fights with four arms throwing punches in rapid volleys, always in the middle of the action.",
+      "A": "It is a familiar sight helping people move furniture and boxes, work that depends on lending a hand.",
+      "S": "Its four arms react faster than it can think, yet the games show it staying controlled under that speed."
+    },
+    "personality": "Machamp has mastered every kind of martial art, and its Pokédex entries say its four arms react faster than it can think. One punch can send an opponent clear over the horizon. Away from battle, Machamp is known across the games and its promotional art for working as a mover, carrying furniture and boxes that would take several people to lift. It treats hard, physical work as its natural role.",
+    "media": [
+      {
+        "title": "Pokémon franchise promotional art, shown working as a professional mover",
+        "note": "Machamp's four arms make it a recurring choice for carrying furniture in official art and spinoff media."
+      }
+    ],
+    "community": "Machamp is a fan favorite for its brute strength paired with a surprisingly domestic reputation, since official art often shows it moving furniture. Fans enjoy the contrast between its fighting stats and its helpful day job.",
+    "why": [
+      {
+        "text": "Machamp has mastered every kind of martial arts, the result of training that never let up.",
+        "trait": "C",
+        "anchor": "martial arts",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/68/"
+      },
+      {
+        "text": "Machamp is often pictured working as a mover, carrying furniture that would take several people to lift.",
+        "trait": "A",
+        "anchor": "mover",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Machamp_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "It throws punches from four arms at once, always ready to jump into the middle of a match.",
+        "trait": "E",
+        "anchor": "four arms",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/68/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/68/",
+      "https://bulbapedia.bulbagarden.net/wiki/Machamp_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Gengar",
+    "showdown_id": "gengar",
+    "genus": "Shadow Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": 2,
+      "C": -2,
+      "E": 1,
+      "A": -1,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "It invents games out of thin air, like slipping into a person's shadow just to see if they notice.",
+      "C": "Its pranks are spur of the moment, popping up as a chill or a shifting shadow instead of a planned routine.",
+      "E": "It seeks people out at night to interact with them, even when the interaction is a trick.",
+      "A": "It puts a good trick ahead of a stranger's comfort, the Strong-willed end of getting along.",
+      "S": "It appears without warning as a sudden chill or a shadow that overtakes you, a quick, reactive nature."
+    },
+    "personality": "Gengar likes to mimic the shadows of people at night and enjoys the moment they notice something is off. The Pokédex says a sudden chill can mean a Gengar is nearby, slipping past as your own shadow before darting away. It treats a good trick as a kind of game, always looking for the next person to surprise. Community consensus reads its pranks as playful and good-natured.",
+    "media": [
+      {
+        "title": "Pokémon Red and Blue, Elite Four member Agatha's signature Pokémon",
+        "note": "Agatha's Gengar is one of the toughest fights in the original Kanto Elite Four."
+      }
+    ],
+    "community": "Gengar is one of the most recognized Pokémon for its trickster reputation, and fans generally read its pranks as playful and good-natured. Its grin and shadow tricks made it a mascot for the series' lighter spooky side.",
+    "why": [
+      {
+        "text": "Gengar earns the Shadow Pokémon title by turning an ordinary streetlight shadow into a game of pretend.",
+        "trait": "O",
+        "anchor": "Shadow",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/94/"
+      },
+      {
+        "text": "The Pokédex says a sudden chill means a Gengar is close by, always looking for someone to visit.",
+        "trait": "E",
+        "anchor": "chill",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/94/"
+      },
+      {
+        "text": "It likes to mimic the shadows of people under a full moon, choosing the moment for its own trick.",
+        "trait": "C",
+        "anchor": "mimic",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/94/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/94/",
+      "https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Hitmonlee",
+    "showdown_id": "hitmonlee",
+    "genus": "Kicking Pokémon",
+    "lean": "masculine",
+    "stage": "evolved",
+    "ratings": {
+      "O": -1,
+      "C": 3,
+      "E": 2,
+      "A": 0,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its whole Pokédex identity centers on kicking technique, a practical skill built through repetition.",
+      "C": "Its entries describe a foot that turns diamond hard on impact, the payoff of a drilled, repeatable kick.",
+      "E": "It runs with long, loping strides and keeps moving through a fight, always active.",
+      "A": "Its Pokédex entries focus on technique it perfects alone, a fair, self-contained read on the trait.",
+      "S": "It has an amazing sense of balance and can kick in succession from any position, staying composed mid-motion."
+    },
+    "personality": "Hitmonlee's legs stretch to deliver a kick from almost any range, and its Pokédex says the sole of its foot turns diamond hard on impact. It has an exceptional sense of balance and can throw kicks in succession from awkward positions without losing its footing. When it needs to close distance fast, its legs lengthen and it covers ground in long, loping strides.",
+    "media": [
+      {
+        "title": "Pokémon: Indigo League, a featured Fighting type alongside Hitmonchan in Kanto Gym battles",
+        "note": "The two are frequently paired in games and media as a kicking-and-punching duo."
+      }
+    ],
+    "community": "Hitmonlee is a favorite among competitive players for its speed and kicking movepool, and its rivalry with Hitmonchan is a long-running fan topic about which fighting style suits a trainer better.",
+    "why": [
+      {
+        "text": "Hitmonlee's kick turns the sole of its foot diamond hard on impact, the payoff of practiced technique.",
+        "trait": "C",
+        "anchor": "diamond",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/106/"
+      },
+      {
+        "text": "It keeps an amazing sense of balance and can kick in succession from almost any position.",
+        "trait": "S",
+        "anchor": "balance",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/106/"
+      },
+      {
+        "text": "As the Kicking Pokémon, it built a whole fighting style around one stretching, dependable technique.",
+        "trait": "O",
+        "anchor": "Kicking",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/106/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/106/",
+      "https://bulbapedia.bulbagarden.net/wiki/Hitmonlee_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Hitmonchan",
+    "showdown_id": "hitmonchan",
+    "genus": "Punching Pokémon",
+    "lean": "masculine",
+    "stage": "evolved",
+    "ratings": {
+      "O": -1,
+      "C": 3,
+      "E": 1,
+      "A": 2,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Like Hitmonlee, its identity comes from one technique honed through repetition.",
+      "C": "The games say the spirit of a pro boxer trained it, the mark of disciplined, repeated practice.",
+      "E": "Its punches come in lightning fast volleys, yet between bouts it reads as composed and quiet.",
+      "A": "Its boxer-spirit backstory reads as sportsmanlike, built on trained discipline instead of picking fights.",
+      "S": "It throws punches so precise they slice the air cleanly, a sign of controlled, steady form."
+    },
+    "personality": "Hitmonchan fights like it has the spirit of a professional boxer inside it, throwing punches faster than a bullet train. Its Pokédex says the punches come in lightning fast volleys that are hard to even see, each one launched with enough precision to slice the air. Fans and the games alike treat it as the more disciplined, technical counterpart to Hitmonlee's kicking style.",
+    "media": [
+      {
+        "title": "Pokémon Trading Card Game, Base Set rare card, one of the original 102",
+        "note": "Hitmonchan's Base Set card was a well-known pull for players who opened the original 1999 set."
+      }
+    ],
+    "community": "Hitmonchan is often called the more technical, patient half of the Hitmon duo, prized by players who like a fighter that lands clean, precise hits instead of relying on raw speed alone.",
+    "why": [
+      {
+        "text": "The games say the spirit of a pro boxer trained Hitmonchan, the mark of steady, repeated practice.",
+        "trait": "C",
+        "anchor": "boxer",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/107/"
+      },
+      {
+        "text": "Its punches slice the air with enough control that even a graze lands with precision.",
+        "trait": "S",
+        "anchor": "slice",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/107/"
+      },
+      {
+        "text": "As the Punching Pokémon, it turned one clean technique into an entire fighting identity.",
+        "trait": "O",
+        "anchor": "Punching",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/107/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/107/",
+      "https://bulbapedia.bulbagarden.net/wiki/Hitmonchan_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Chansey",
+    "showdown_id": "chansey",
+    "genus": "Egg Pokémon",
+    "lean": "feminine",
+    "stage": "evolved",
+    "ratings": {
+      "O": 0,
+      "C": 2,
+      "E": 1,
+      "A": 4,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries stay grounded in caretaking facts, closer to the down-to-earth end of the scale.",
+      "C": "It is commonly stationed at Pokémon Centers as a steady, reliable helper, a routine role it keeps up daily.",
+      "E": "It works alongside Nurse Joy in busy Pokémon Centers, comfortable around a steady stream of people.",
+      "A": "The Pokédex says it shares its nutritious egg with any Pokémon it finds injured, the textbook case of putting others first.",
+      "S": "It stays composed while treating sick and injured Pokémon, a calm presence in a stressful place."
+    },
+    "personality": "Chansey is a gentle, kindhearted Pokémon that shares its nutritious egg with any injured Pokémon it comes across. The Pokédex calls it rare and elusive, and says it brings happiness to trainers who manage to find one. In the anime it works alongside Nurse Joy at Pokémon Centers, helping tend to Pokémon that come in hurt or tired. It stays warm and steady no matter how busy the center gets.",
+    "media": [
+      {
+        "title": "Pokémon: Indigo League, a recurring helper at Nurse Joy's Pokémon Centers",
+        "note": "Chansey appears throughout the anime assisting with checkups and recovery."
+      }
+    ],
+    "community": "Chansey is beloved as the face of Pokémon Center care, recognized by nearly every player for its role healing Pokémon between battles. Fans see it as one of the kindest, most dependable Pokémon in the whole roster.",
+    "why": [
+      {
+        "text": "Chansey shares its own nutritious egg with any Pokémon it finds hurt, putting another's need first.",
+        "trait": "A",
+        "anchor": "egg",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/113/"
+      },
+      {
+        "text": "The Pokédex says it is said to bring happiness to the trainer who manages to find one.",
+        "trait": "S",
+        "anchor": "happiness",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/113/"
+      },
+      {
+        "text": "It is described as gentle and kindhearted, a nature that keeps it steady through a full day of care work.",
+        "trait": "C",
+        "anchor": "gentle",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/113/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/113/",
+      "https://bulbapedia.bulbagarden.net/wiki/Chansey_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Kangaskhan",
+    "showdown_id": "kangaskhan",
+    "genus": "Parent Pokémon",
+    "lean": "feminine",
+    "stage": "mature",
+    "ratings": {
+      "O": -1,
+      "C": 1,
+      "E": -1,
+      "A": 2,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex focus stays on caring for its young, a practical, down-to-earth read.",
+      "C": "It keeps its infant close in its pouch for three years, a long, consistent commitment to one routine.",
+      "E": "It is rarely shown seeking out others, keeping its circle close to its own family.",
+      "A": "The games say it will not run from a fight to keep its young protected, the clearest case of putting someone else first.",
+      "S": "It stays swift and composed even while carrying its baby, meeting challengers with quick, controlled jabs."
+    },
+    "personality": "Kangaskhan raises its young in its pouch, and the Pokédex says the infant rarely leaves that pouch until its third year. It will not run from a fight if its young are threatened, standing its ground to protect them. Even while carrying its baby, it stays quick on its feet and meets challengers with sharp, controlled jabs.",
+    "media": [
+      {
+        "title": "Pokémon Red and Blue, one of the rarest catches in the Kanto Safari Zone",
+        "note": "Its low encounter rate made finding one a memorable event for Generation I players."
+      }
+    ],
+    "community": "Kangaskhan is remembered fondly as one of the series' clearest parent-and-child Pokémon, and its rarity in the original Kanto Safari Zone made it a prized catch for early players.",
+    "why": [
+      {
+        "text": "Kangaskhan raises its young in its pouch and will not run from a fight to keep them safe.",
+        "trait": "A",
+        "anchor": "pouch",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/115/"
+      },
+      {
+        "text": "It stays swift and steady on its feet even while carrying its baby into a challenge.",
+        "trait": "S",
+        "anchor": "swift",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/115/"
+      },
+      {
+        "text": "As the Parent Pokémon, its whole reputation is built around the practical work of raising its young.",
+        "trait": "O",
+        "anchor": "Parent",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/115/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/115/",
+      "https://bulbapedia.bulbagarden.net/wiki/Kangaskhan_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Tauros",
+    "showdown_id": "tauros",
+    "genus": "Wild Bull Pokémon",
+    "lean": "masculine",
+    "stage": "evolved",
+    "ratings": {
+      "O": -4,
+      "C": -1,
+      "E": 3,
+      "A": -2,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "The games use it as the model of the practical, down-to-earth end of the scale, all instinct and motion.",
+      "C": "It knocks down trees to calm itself instead of following a set plan, a spur of the moment habit.",
+      "E": "It is described as not satisfied unless it is rampaging at all times, always full of motion.",
+      "A": "It charges at whatever is nearby, including trees, without waiting for an opponent, the Strong-willed end of getting along.",
+      "S": "Its tail whipping is a visible early warning sign, since the Pokédex says its mood shows before it acts."
+    },
+    "personality": "Tauros is not satisfied unless it is charging at something, and if there is no opponent around it will knock down thick trees to work off that energy. The Pokédex says a Tauros whipping its own body with its long tails is giving fair warning that a charge is coming. It channels a huge amount of restless energy into running and hitting things head on.",
+    "media": [
+      {
+        "title": "Pokémon Red and Blue, a fast Kanto Safari Zone catch famous among competitive breeders",
+        "note": "Trainers caught many Tauros at once in the Safari Zone to breed for competitive stats."
+      }
+    ],
+    "community": "Tauros has a long history as a favorite Normal type for its raw Attack stat and its reliable place on competitive teams for generations. Fans enjoy its straightforward, all-charge personality.",
+    "why": [
+      {
+        "text": "Tauros is not satisfied unless it is rampaging, and it will charge down trees just to burn off energy.",
+        "trait": "E",
+        "anchor": "rampaging",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/128/"
+      },
+      {
+        "text": "A Tauros whipping its tails gives fair warning before it charges, telegraphing its next move instead of hiding it.",
+        "trait": "S",
+        "anchor": "warning",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Tauros_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "As the Wild Bull Pokémon, it trusts speed and momentum over any complicated plan.",
+        "trait": "O",
+        "anchor": "Wild Bull",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/128/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/128/",
+      "https://bulbapedia.bulbagarden.net/wiki/Tauros_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Gyarados",
+    "showdown_id": "gyarados",
+    "genus": "Atrocious Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": -1,
+      "C": -2,
+      "E": 2,
+      "A": -3,
+      "S": -3
+    },
+    "rating_evidence": {
+      "O": "Its entries describe raw instinct and power more than curiosity, closer to the practical end of the scale.",
+      "C": "Its rise from Magikarp is described as a sudden structural transformation instead of a planned process.",
+      "E": "It is a huge, active presence whenever it appears, never staying still or quiet.",
+      "A": "The games describe an extremely aggressive nature, the clearest Strong-willed read among the Water types in this set.",
+      "S": "It is described as capable of reshaping entire cities in a rage, a dramatic, high-intensity read on the trait."
+    },
+    "personality": "Gyarados emerges from a Magikarp's evolution as an entirely different Pokémon, huge and full of raw power. The Pokédex describes an extremely aggressive nature and a Hyper Beam strong enough to level a target in one hit. Trainers who raise one from a Magikarp often describe the payoff as dramatic, since a Pokémon known for being an underdog becomes one of the most powerful in the game.",
+    "media": [
+      {
+        "title": "Pokémon Gold and Silver, Elite Four Champion Lance's signature Pokémon",
+        "note": "Lance's team pairs Gyarados with his signature Dragonite line in the Johto Champion battle."
+      }
+    ],
+    "community": "Gyarados is one of the most celebrated glow-up stories in the franchise, famous for turning the low-powered Magikarp into a Water-type powerhouse. Fans point to it as proof that an early catch can become a serious contender.",
+    "why": [
+      {
+        "text": "Its evolution from Magikarp is a complete structural transformation, changing everything about how it fights.",
+        "trait": "C",
+        "anchor": "transformation",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/130/"
+      },
+      {
+        "text": "Gyarados can end a battle with one Hyper Beam, a display of raw, sudden power.",
+        "trait": "E",
+        "anchor": "Hyper Beam",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/130/"
+      },
+      {
+        "text": "Gyarados turns raw instinct into results, matching the Atrocious Pokémon's reputation for finishing a fight fast.",
+        "trait": "O",
+        "anchor": "Atrocious",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/130/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/130/",
+      "https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Lapras",
+    "showdown_id": "lapras",
+    "genus": "Transport Pokémon",
+    "lean": "neutral",
+    "stage": "mature",
+    "ratings": {
+      "O": 1,
+      "C": 1,
+      "E": -1,
+      "A": 3,
+      "S": 4
+    },
+    "rating_evidence": {
+      "O": "Its high intelligence lets it understand human speech, a curious trait even among Pokémon known for smarts.",
+      "C": "It reliably ferries people across the sea trip after trip, a role it keeps up steadily.",
+      "E": "It prefers calm, quiet water travel with a small group over a crowd, matching a low-key read.",
+      "A": "It is described as a gentle soul, offering to ferry people across the sea without being asked twice.",
+      "S": "The Pokédex calls it a gentle soul even though it has been overhunted nearly to extinction, and it keeps ferrying people regardless."
+    },
+    "personality": "Lapras is gentle by nature and can read the minds of people nearby, and its high intelligence lets it understand human speech. It likes ferrying people across the sea on its back, offering rides without needing to be asked. The Pokédex notes it is now rare in the wild, yet its temperament stays calm and giving. It moves at its own steady pace and never seems rushed.",
+    "media": [
+      {
+        "title": "Pokémon: Indigo League, Ash's Lapras ferries the group across several Kanto sea routes",
+        "note": "Ash catches a Lapras that becomes a recurring travel companion before he leaves it with a Seafoam Islands pod."
+      }
+    ],
+    "community": "Lapras holds a special place for longtime players as Ash's companion during part of his time traveling Kanto, and fans often name it as one of the most soothing, dependable Pokémon in the series.",
+    "why": [
+      {
+        "text": "Lapras stays gentle by nature even though the Pokédex says it is now rare in the wild.",
+        "trait": "S",
+        "anchor": "gentle",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/131/"
+      },
+      {
+        "text": "It offers to ferry people across the sea on its own back, without being asked twice.",
+        "trait": "A",
+        "anchor": "ferry",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/131/"
+      },
+      {
+        "text": "Its high intelligence lets it understand human speech, a rare gift the Pokédex calls out directly.",
+        "trait": "O",
+        "anchor": "intelligence",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/131/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/131/",
+      "https://bulbapedia.bulbagarden.net/wiki/Lapras_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "showdown_id": "eevee",
+    "genus": "Evolution Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": 2,
+      "C": -1,
+      "E": 2,
+      "A": 2,
+      "S": 0
+    },
+    "rating_evidence": {
+      "O": "Its unstable genetic makeup lets it branch into many different evolutions, an unusually open-ended trait among Pokémon.",
+      "C": "Its evolution depends on environment and exposure instead of a fixed plan, staying flexible by design.",
+      "E": "In the anime it is a common, friendly companion Pokémon, quick to warm up to new people.",
+      "A": "It bonds easily with trainers and other Pokémon, a friendly baseline before it ever evolves.",
+      "S": "Its temperament varies with which stone or environment shapes it, landing it near the middle of the scale."
+    },
+    "personality": "Eevee has an unstable genetic makeup that lets it mutate in different directions depending on the environment around it, and the games say it conceals many possible evolutions inside that one irregular genetic code. In the anime it is often a loyal, playful companion before any evolution happens. Its whole identity is about possibility, since almost any path is still open to it.",
+    "media": [
+      {
+        "title": "Pokémon: The Series, the Eevee Brothers episode where three trainers each raise a different evolution",
+        "note": "The Kanto-arc episode follows brothers who each specialize in Vaporeon, Jolteon or Flareon."
+      }
+    ],
+    "community": "Eevee is one of the most beloved Pokémon for the sheer number of ways it can grow, and fans regularly debate which evolution suits their own style best. Its adaptable reputation keeps it a favorite across every generation.",
+    "why": [
+      {
+        "text": "Eevee's unstable genetic makeup conceals many different possible evolutions inside one small Pokémon.",
+        "trait": "O",
+        "anchor": "evolutions",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/133/"
+      },
+      {
+        "text": "Its mutations depend on the environment around it instead of a fixed path, keeping its options open.",
+        "trait": "C",
+        "anchor": "environment",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/133/"
+      },
+      {
+        "text": "Eevee bonds closely enough that in the anime's Eevee Brothers story, three different trainers each raise one into a different partner.",
+        "trait": "A",
+        "anchor": "Eevee Brothers",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Eevee_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/133/",
+      "https://bulbapedia.bulbagarden.net/wiki/Eevee_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Vaporeon",
+    "showdown_id": "vaporeon",
+    "genus": "Bubble Jet Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": 1,
+      "C": 0,
+      "E": -1,
+      "A": 2,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its fin is often mistaken for a mermaid's, a detail that gives it an almost storybook quality.",
+      "C": "Its body holds a stable, water-like cell structure that lets it blend into any body of water it enters.",
+      "E": "It is most often found living close to water, away from crowds, matching a low-key read.",
+      "A": "It is generally described as gentle and easy to approach for a Water type living near people.",
+      "S": "It can melt away and become invisible in water, a controlled, unhurried way of avoiding conflict."
+    },
+    "personality": "Vaporeon lives close to water and has a long, fin-ridged tail that the Pokédex says is often mistaken for a mermaid's. Its cell structure is close to water molecules, letting it melt away and become nearly invisible once it is submerged. It moves through lakes and rivers at an easy pace, more at home gliding through water than staying on land.",
+    "media": [
+      {
+        "title": "Pokémon: The Series, the Eevee Brothers episode, raised by the brother named Rainer",
+        "note": "Rainer's Vaporeon represents the calm, water-focused branch of the three Eeveelution siblings."
+      }
+    ],
+    "community": "Vaporeon is a longtime favorite of the Eeveelutions for its graceful, water-elegant design, and it regularly places near the top of Eevee-family popularity polls among fans.",
+    "why": [
+      {
+        "text": "Vaporeon's fin-ridged tail is often mistaken for a mermaid's, giving it a storybook look in the water.",
+        "trait": "O",
+        "anchor": "mermaid",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/134/"
+      },
+      {
+        "text": "It lives close to water and stays there instead of in a crowd, at ease in a quiet lake.",
+        "trait": "E",
+        "anchor": "water",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/134/"
+      },
+      {
+        "text": "Vaporeon bonds closely with its trainer, the way Rainer's Vaporeon does in the anime's Eevee Brothers story.",
+        "trait": "A",
+        "anchor": "Rainer",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Vaporeon_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/134/",
+      "https://bulbapedia.bulbagarden.net/wiki/Vaporeon_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Jolteon",
+    "showdown_id": "jolteon",
+    "genus": "Lightning Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": 1,
+      "C": -1,
+      "E": 3,
+      "A": -1,
+      "S": -2
+    },
+    "rating_evidence": {
+      "O": "It generates thousand-volt lightning bolts from charged ions, an unusual trick even among Electric types.",
+      "C": "It reacts fast in the moment instead of following a routine, charging up as situations change.",
+      "E": "It sends 10,000-volt bolts out in dramatic bursts, always visibly active and charged up.",
+      "A": "Its games entries focus on speed and reaction more than group play, closer to the Strong-willed end of the scale.",
+      "S": "Its Pokédex entries describe a fast-changing mood that charges its power with every shift, a quick, responsive nature."
+    },
+    "personality": "Jolteon builds up negative ions in the air around it and can blast out lightning bolts carrying 10,000 volts. Its fur bristles with static whenever something changes nearby, and the Pokédex says its mood shifts quickly enough to charge its power right along with it. It reacts fast, covering ground and closing gaps before an opponent can settle in.",
+    "media": [
+      {
+        "title": "Pokémon: The Series, the Eevee Brothers episode, raised by the brother named Sparky",
+        "note": "Sparky's Jolteon represents the fast, high-energy branch of the three Eeveelution siblings."
+      }
+    ],
+    "community": "Jolteon is famous for topping Speed stat rankings among the Eeveelutions, and competitive players still value it for outrunning almost everything else in a matchup. Its spiky, energetic design is a fan favorite too.",
+    "why": [
+      {
+        "text": "Jolteon can blast out lightning bolts carrying 10,000 volts, one of the most dramatic displays among Electric types.",
+        "trait": "E",
+        "anchor": "lightning",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/135/"
+      },
+      {
+        "text": "Its fur carries a static charge that responds the moment something around it changes.",
+        "trait": "S",
+        "anchor": "static",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/135/"
+      },
+      {
+        "text": "As the Lightning Pokémon, Jolteon turns a burst of static charge into one of the fastest attacks around.",
+        "trait": "O",
+        "anchor": "Lightning",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/135/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/135/",
+      "https://bulbapedia.bulbagarden.net/wiki/Jolteon_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Flareon",
+    "showdown_id": "flareon",
+    "genus": "Flame Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": -1,
+      "C": 1,
+      "E": 1,
+      "A": 0,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its whole design is a practical heat-storage system instead of an exploratory trait, closer to the down-to-earth pole.",
+      "C": "It manages a flame chamber inside its body with enough control to release fire at a set temperature.",
+      "E": "It is active around food and heat sources, engaging directly instead of staying on the sidelines.",
+      "A": "Its games entries focus mostly on its own fire management, a fairly neutral read on sharing with others.",
+      "S": "Its internal temperature can soar past 1600 degrees, a dramatic, high-intensity way of reading the trait."
+    },
+    "personality": "Flareon stores thermal energy inside its body, and the Pokédex says that stored heat can climb past 1600 degrees. It has an internal flame chamber it uses to breathe out fire well over 3,000 degrees Fahrenheit when it needs to. When it catches prey or finds berries, it breathes fire on them until they are cooked through, ready to enjoy. It treats its own heat as a tool, not a hazard.",
+    "media": [
+      {
+        "title": "Pokémon: The Series, the Eevee Brothers episode, raised by the brother named Pyro",
+        "note": "Pyro's Flareon represents the fire-focused branch of the three Eeveelution siblings."
+      }
+    ],
+    "community": "Flareon is often the pick for players who want a straightforward, high-power Fire-type Eeveelution, and fans enjoy its cozy, fluffy design even though it is built around raw heat.",
+    "why": [
+      {
+        "text": "Flareon manages a flame chamber inside its body, controlling exactly when it inhales and when it blows out fire.",
+        "trait": "C",
+        "anchor": "flame chamber",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/136/"
+      },
+      {
+        "text": "It can store thermal energy until its temperature climbs past 1600 degrees, all held under its own control.",
+        "trait": "S",
+        "anchor": "thermal",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/136/"
+      },
+      {
+        "text": "As the Flame Pokémon, Flareon turns stored heat into one of the most direct, practical tools in its body.",
+        "trait": "O",
+        "anchor": "Flame",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/136/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/136/",
+      "https://bulbapedia.bulbagarden.net/wiki/Flareon_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Dratini",
+    "showdown_id": "dratini",
+    "genus": "Dragon Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": 2,
+      "C": 1,
+      "E": -2,
+      "A": 1,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "It was long considered a mythical Pokémon, the kind of open mystery that invites curiosity.",
+      "C": "It continually molts and sheds its old skin on a repeating cycle as it grows.",
+      "E": "So few people have seen one that the games nickname it the Mirage Pokémon, matching a low-key read.",
+      "A": "Its shed skin is often left behind for others to find, a generous trace of where it has been.",
+      "S": "Its Pokédex line about life energy building to uncontrollable levels shows a sensitive, fast-building side to the trait."
+    },
+    "personality": "Dratini was long considered a mythical Pokémon until a small colony was found living underwater, and it is still nicknamed the Mirage Pokémon because so few people ever see one. It continually molts and sheds its outer skin as its life energy builds up inside it. It lives quietly in clear water, leaving little trace behind except the skin it outgrows.",
+    "media": [
+      {
+        "title": "Pokémon Gold and Silver, tied to Blackthorn City's Dragon-type Gym",
+        "note": "The Dratini line is closely tied to Gym Leader Clair's Dragon-type specialty in Johto."
+      }
+    ],
+    "community": "Dratini is a favorite starting point for anyone chasing the Dragonite line, and fans enjoy the payoff of raising something this elusive into one of the strongest final forms in the game.",
+    "why": [
+      {
+        "text": "Dratini was long considered a mythical Pokémon before a small colony turned up living underwater.",
+        "trait": "O",
+        "anchor": "mythical",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/147/"
+      },
+      {
+        "text": "It continually molts and sheds its outer skin as it grows, repeating the process every time.",
+        "trait": "C",
+        "anchor": "molts",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/147/"
+      },
+      {
+        "text": "So few people have seen one that it earned the nickname Mirage Pokémon, content staying out of sight.",
+        "trait": "E",
+        "anchor": "Mirage",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/147/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/147/",
+      "https://bulbapedia.bulbagarden.net/wiki/Dratini_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Dragonite",
+    "showdown_id": "dragonite",
+    "genus": "Dragon Pokémon",
+    "lean": "neutral",
+    "stage": "mature",
+    "ratings": {
+      "O": 2,
+      "C": 1,
+      "E": 0,
+      "A": 3,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Its intelligence is said to match that of humans, an unusually high bar among Pokémon.",
+      "C": "It circles the globe in sixteen hours, a feat that depends on sustained, well-managed effort.",
+      "E": "It is rarely seen and keeps to remote waters, a calm presence instead of a crowd seeker.",
+      "A": "The Pokédex says it simply must help a drowning person or Pokémon it spots, the clearest case of putting others first.",
+      "S": "It leads lost ships through a storm to safety, staying composed exactly when conditions are worst."
+    },
+    "personality": "Dragonite is a kindhearted Pokémon that leads lost and foundering ships through a storm to the safety of land. Its intelligence is said to match that of humans, and it can circle the entire globe in just sixteen hours when it needs to. The Pokédex says that if it spots a drowning person or Pokémon, it simply has to help them. It stays calm exactly when things get difficult.",
+    "media": [
+      {
+        "title": "Pokémon Gold and Silver, part of Elite Four Champion Lance's signature Dragon-type team",
+        "note": "Lance's Dragonite anchors his final battle as Champion of the Johto League."
+      }
+    ],
+    "community": "Dragonite is widely loved as one of the friendliest strong Pokémon in the series, and fans often point to its rescue-focused Pokédex entries as proof that raw power and a gentle nature can go together.",
+    "why": [
+      {
+        "text": "Dragonite is described as a kindhearted Pokémon that leads storm-lost ships safely to land.",
+        "trait": "A",
+        "anchor": "kindhearted",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/149/"
+      },
+      {
+        "text": "It guides ships through a storm to safety, staying steady exactly when conditions turn rough.",
+        "trait": "S",
+        "anchor": "storm",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/149/"
+      },
+      {
+        "text": "Its intelligence is said to match that of humans, a rare distinction even among Dragon types.",
+        "trait": "O",
+        "anchor": "intelligence",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/149/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/149/",
+      "https://bulbapedia.bulbagarden.net/wiki/Dragonite_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "showdown_id": "mewtwo",
+    "genus": "Genetic Pokémon",
+    "lean": "neutral",
+    "stage": "mature",
+    "ratings": {
+      "O": 3,
+      "C": 2,
+      "E": -3,
+      "A": -2,
+      "S": 0
+    },
+    "rating_evidence": {
+      "O": "Its games entries call it the product of years of gene splicing and DNA engineering experiments, a Pokémon built entirely from applied ideas.",
+      "C": "It was engineered through controlled, methodical experiments over years, not a sudden or accidental process.",
+      "E": "It is typically found alone, apart from other Pokémon and people, matching a solitary, low-key read.",
+      "A": "Pokémon: The First Movie follows it choosing, by the end, to protect both humans and Pokémon instead of standing apart from them.",
+      "S": "Its Pokédex entries describe power intense enough to strain its own bones, a dramatic, high-charge read on the trait."
+    },
+    "personality": "Mewtwo was created after years of gene splicing and DNA engineering, and its DNA is almost identical to Mew's even though its size and temperament turned out very different. In Pokémon: The First Movie, it starts out isolated and untrusting, then comes to see humans and Pokémon as equally worth protecting. It usually keeps to itself, choosing distance over crowds, and lets its actions speak instead of words.",
+    "media": [
+      {
+        "title": "Pokémon: The First Movie (1998), Mewtwo's origin story",
+        "note": "The film follows Mewtwo from its creation through its choice to protect Pokémon and humans alike."
+      }
+    ],
+    "community": "Mewtwo remains one of the most discussed Pokémon in the franchise for its movie arc about identity and its own place in the world. Fans often cite its move toward compassion as one of the series' most memorable stories.",
+    "why": [
+      {
+        "text": "Mewtwo carries the Genetic Pokémon title honestly, built from years of DNA engineering and careful experimentation.",
+        "trait": "O",
+        "anchor": "Genetic",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/150/"
+      },
+      {
+        "text": "Mewtwo's DNA is almost identical to Mew's, though years of engineering gave it a very different path.",
+        "trait": "C",
+        "anchor": "DNA",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/150/"
+      },
+      {
+        "text": "Its disposition turned out very different from Mew's, shaped by its own choices as much as its origin.",
+        "trait": "A",
+        "anchor": "disposition",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/150/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/150/",
+      "https://bulbapedia.bulbagarden.net/wiki/Mewtwo_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Mew",
+    "showdown_id": "mew",
+    "genus": "New Species Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": 4,
+      "C": -2,
+      "E": 2,
+      "A": 2,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its DNA is said to hold the genetic codes of every Pokémon, letting it use techniques no single species can match.",
+      "C": "It is described as playful and unpredictable in the movies instead of following any fixed routine.",
+      "E": "Pokémon: The First Movie shows it playing hide-and-seek style games with Ash and his friends, actively engaging with them.",
+      "A": "The games describe it as gentle, widely regarded as the ancestor Pokémon watching over the rest.",
+      "S": "It stays playful and light even during the tense climax of Pokémon: The First Movie."
+    },
+    "personality": "Mew is so rare that many experts still call it a mirage, and scientists in the games believe it may be the ancestor of every Pokémon. Its DNA is said to hold the genetic codes of all Pokémon, letting it copy almost any move it wants to try. In Pokémon: The First Movie it turns up playful and curious, darting around and testing new tricks instead of settling into one style.",
+    "media": [
+      {
+        "title": "Pokémon: The First Movie (1998), Mew's playful cameo during the climax",
+        "note": "Mew appears near the end of the film, connecting its story to Mewtwo's origin."
+      }
+    ],
+    "community": "Mew is one of the most beloved mythical Pokémon in the franchise, tied to childhood memories of chasing the original Kanto legend. Its playful, ancestor-of-all-Pokémon status keeps it a favorite across generations of fans.",
+    "why": [
+      {
+        "text": "Mew is widely believed to be the ancestor of every Pokémon, carrying genetic codes for techniques few others can use.",
+        "trait": "O",
+        "anchor": "ancestor",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/151/"
+      },
+      {
+        "text": "Its playful cameo in Pokémon: The First Movie shows it darting around and testing new tricks.",
+        "trait": "E",
+        "anchor": "playful",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Mew_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "So few have seen it that it is still called a mirage, quietly watching over Pokémon everywhere without needing credit.",
+        "trait": "A",
+        "anchor": "mirage",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/151/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/151/",
+      "https://bulbapedia.bulbagarden.net/wiki/Mew_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Chikorita",
+    "showdown_id": "chikorita",
+    "genus": "Leaf Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": 0,
+      "C": 0,
+      "E": 1,
+      "A": 3,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries stay close to home, about sunbathing and its own leaf, instead of exploring new ideas.",
+      "C": "It uses the leaf on its head to read temperature and humidity, checking conditions before it settles in to sunbathe.",
+      "E": "In the anime it greets Ash with an enthusiastic jump into his arms the moment it is caught.",
+      "A": "Its battle fragrance calms the whole fight down into what the Pokédex calls a cozy, friendly atmosphere.",
+      "S": "The anime shows it reacting strongly and affectionately to Ash, a quick, expressive read on the trait."
+    },
+    "personality": "Chikorita is docile and loves to soak up the sun, using the leaf on its head to check the temperature and humidity before it settles in. Even in battle, a sweet fragrance wafts from its leaf and calms things into what the Pokédex calls a cozy, friendly atmosphere. In the anime, it became Ash's first partner in the Johto region and greeted him with real enthusiasm from the start.",
+    "media": [
+      {
+        "title": "Pokémon: The Johto Journeys, Ash's enthusiastic first partner Chikorita",
+        "note": "Chikorita becomes an expressive, devoted member of Ash's team through the Johto arc."
+      }
+    ],
+    "community": "Chikorita is remembered fondly as Ash's first Johto partner, and fans often bring up how openly affectionate it was toward him in the anime compared to his other starters.",
+    "why": [
+      {
+        "text": "Chikorita's battle fragrance calms things into what the Pokédex calls a cozy, friendly atmosphere for everyone involved.",
+        "trait": "A",
+        "anchor": "cozy",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/152/"
+      },
+      {
+        "text": "It checks the temperature and humidity with the leaf on its head before it settles down to rest.",
+        "trait": "C",
+        "anchor": "temperature",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/152/"
+      },
+      {
+        "text": "It became Ash's enthusiastic first Johto partner, greeting him with real excitement from the very start.",
+        "trait": "E",
+        "anchor": "enthusiastic",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Chikorita_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/152/",
+      "https://bulbapedia.bulbagarden.net/wiki/Chikorita_(Pok%C3%A9mon)"
+    ]
+  }
+]

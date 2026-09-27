@@ -1,0 +1,31 @@
+=== which-pokemon check.py ===
+root=test\fixtures\good  base-url=https://joshuamatalon.github.io/which-pokemon/  seed=20260927  python=3.14.6  numpy=2.5.0
+node=C:\Users\joshu\scoop\apps\nodejs-lts\current\node.EXE (v24.18.0)
+loaded data/corpus.json
+loaded data/pool.json
+loaded data/questions.json
+loaded data/lexicon.json
+
+A1   PASS   FIXTURE-SCALE: 10 species, full 1..1025 completeness not evaluated; field/type schema OK for 10 species
+A2   PASS   0/10 species tag() mismatch. REPORT: 90.0% of species have >=1 lexicon match
+A3   PASS   seed coverage + no-duplicate check: OK
+A4   PASS   10 profiles checked against pool.csv + swaps FIXTURE-SCALE: only 10 profiles, pool-wide floors (126/60/42/25) not evaluated
+A5   PASS   0 why-sentence problems across 10 profiles
+A6   PASS   15 items checked
+A7   PASS   takers list equals Q7 table exactly
+A8   PASS   0 image problems across 10 profiles. REPORT: 0 static fallbacks
+A9   PASS   python/js match() agreement on 10000 cases (10 takers x 1000), seed=20260927: 0 disagreements; determinism OK
+A10  REPORT seed=20260927 lattice max=2.252 p95=1.661; random(20000,seed=20260927) p95=1.344 FIXTURE-SCALE (10 members): thresholds not evaluated, numbers only
+A11  REPORT lattice reach counts: {'alex': 10, 'melissa': 10, 'josh': 10, 'carolyn': 10, 'john': 10, 'andrew': 10, 'oliver': 10, 'todd': 10, 'milo': 10, 'guest': 10} FIXTURE-SCALE (10 members): >=60/all thresholds not evaluated
+A12  REPORT seed=20260927 top-member share per taker (pct): {'alex': 27.12, 'melissa': 27.12, 'josh': 27.12, 'carolyn': 35.52, 'john': 35.52, 'andrew': 27.12, 'oliver': 46.38, 'todd': 57.82, 'milo': 57.82, 'guest': 31.77} FIXTURE-SCALE (10 members): 6%/16% caps not evaluated
+A13  PASS   unit-case py=OK js=OK (matches python: 0.24->2, 0.26->1); questions-null-lean=OK check-const-null-lean=OK; stub-vs-real(20000x10)=OK: 0 disagreements over 20000 draws x 10 takers; web: 1 lean-mentioning line(s) under web/, 0 flagged; index.html gender-word scan: clean; storage-write heuristic scan: 0 hit(s)
+A14  REPORT seed=20260927 target-stage share: {'todd': 68.77, 'milo': 68.77, 'carolyn': 67.72, 'john': 67.72} FIXTURE-SCALE (10 members): 40% thresholds not evaluated
+A15  PASS   seed=20260927 result-text checks over 2000 draws: 0 problems
+A16  PASS   prose_check.py over 195 strings + index.html: em-dashes/banned/neg-parallel must be 0; how-it-works HEURISTIC extract: 75 words
+A17  REPORT seed=20260927 guest retest over 2000 draws (synthetic item shape): same-Pokemon 29.9%, in-original-top-3 63.2% -- report only, no pass mark
+A18  SKIP   --skip-a18 set
+A19  PASS   self-contained calibration: clean pair -> PASS, pair with a duplicated why sentence -> FAIL (must be PASS then FAIL for this check to count as calibrated)
+A20  PASS   149 pool.csv rows, 10 pool.json profiles checked against 142 screened-out ids
+
+SUMMARY: 14 PASS, 0 FAIL (0 of them MUST), 1 SKIP, 5 REPORT-only
+SKIPPED (not evidence of failure, evidence of missing input): ['A18']

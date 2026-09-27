@@ -1,0 +1,713 @@
+{
+ "version": 1,
+ "traits": [
+  "O",
+  "C",
+  "E",
+  "A",
+  "S"
+ ],
+ "swaps": [],
+ "profiles": [
+  {
+   "id": 1,
+   "name": "Bulbasaur",
+   "showdown_id": "bulbasaur",
+   "genus": "Seed Pokémon",
+   "lean": "neutral",
+   "stage": "young",
+   "ratings": {
+    "O": -1,
+    "C": 1,
+    "E": 0,
+    "A": 2,
+    "S": 1
+   },
+   "rating_evidence": {
+    "O": "Fixture evidence sentence for O.",
+    "C": "Fixture evidence sentence for C.",
+    "E": "Fixture evidence sentence for E.",
+    "A": "Fixture evidence sentence for A.",
+    "S": "Fixture evidence sentence for S."
+   },
+   "auto_vector": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.3333
+   ],
+   "personality": "Fixture personality sentence about Bulbasaur for instrument calibration only.",
+   "media": [
+    {
+     "title": "Bulbasaur appears in the games",
+     "note": "Fixture note."
+    }
+   ],
+   "community": "Fixture community sentence about Bulbasaur.",
+   "why": [
+    {
+     "text": "The Bulbasaur is known for being steady in canon.",
+     "trait": "S",
+     "anchor": "Bulbasaur"
+    },
+    {
+     "text": "Its Seed Pokémon genus fits Bulbasaur well.",
+     "trait": "O",
+     "anchor": "Seed Pokémon"
+    },
+    {
+     "text": "Fans of Bulbasaur note its friendly reputation.",
+     "trait": "A",
+     "anchor": "Bulbasaur"
+    }
+   ],
+   "sources": [
+    "https://pokeapi.co/api/v2/pokemon-species/1/",
+    "https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pok%C3%A9mon)"
+   ],
+   "images": {
+    "art": "img/art/1.png",
+    "ani": "img/ani/bulbasaur.gif",
+    "ani_static_fallback": false
+   },
+   "vector": [
+    -0.6,
+    0.0,
+    -0.1,
+    0.3,
+    0.3
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Venusaur",
+   "showdown_id": "venusaur",
+   "genus": "Seed Pokémon",
+   "lean": "neutral",
+   "stage": "mature",
+   "ratings": {
+    "O": 1,
+    "C": 1,
+    "E": -1,
+    "A": 2,
+    "S": 3
+   },
+   "rating_evidence": {
+    "O": "Fixture evidence sentence for O.",
+    "C": "Fixture evidence sentence for C.",
+    "E": "Fixture evidence sentence for E.",
+    "A": "Fixture evidence sentence for A.",
+    "S": "Fixture evidence sentence for S."
+   },
+   "auto_vector": [
+    0.0,
+    0.0,
+    0.0,
+    0.5,
+    0.0
+   ],
+   "personality": "Fixture personality sentence about Venusaur for instrument calibration only.",
+   "media": [
+    {
+     "title": "Venusaur appears in the games",
+     "note": "Fixture note."
+    }
+   ],
+   "community": "Fixture community sentence about Venusaur.",
+   "why": [
+    {
+     "text": "The Venusaur is known for being steady in canon.",
+     "trait": "S",
+     "anchor": "Venusaur"
+    },
+    {
+     "text": "Its Seed Pokémon genus fits Venusaur well.",
+     "trait": "O",
+     "anchor": "Seed Pokémon"
+    },
+    {
+     "text": "Fans of Venusaur note its friendly reputation.",
+     "trait": "A",
+     "anchor": "Venusaur"
+    }
+   ],
+   "sources": [
+    "https://pokeapi.co/api/v2/pokemon-species/3/",
+    "https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pok%C3%A9mon)"
+   ],
+   "images": {
+    "art": "img/art/3.png",
+    "ani": "img/ani/venusaur.gif",
+    "ani_static_fallback": false
+   },
+   "vector": [
+    0.3,
+    0.0,
+    -0.5,
+    0.7,
+    0.8
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Charizard",
+   "showdown_id": "charizard",
+   "genus": "Flame Pokémon",
+   "lean": "neutral",
+   "stage": "evolved",
+   "ratings": {
+    "O": 1,
+    "C": -1,
+    "E": 2,
+    "A": -2,
+    "S": -1
+   },
+   "rating_evidence": {
+    "O": "Fixture evidence sentence for O.",
+    "C": "Fixture evidence sentence for C.",
+    "E": "Fixture evidence sentence for E.",
+    "A": "Fixture evidence sentence for A.",
+    "S": "Fixture evidence sentence for S."
+   },
+   "auto_vector": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "personality": "Fixture personality sentence about Charizard for instrument calibration only.",
+   "media": [
+    {
+     "title": "Charizard appears in the games",
+     "note": "Fixture note."
+    }
+   ],
+   "community": "Fixture community sentence about Charizard.",
+   "why": [
+    {
+     "text": "The Charizard is known for being steady in canon.",
+     "trait": "S",
+     "anchor": "Charizard"
+    },
+    {
+     "text": "Its Flame Pokémon genus fits Charizard well.",
+     "trait": "O",
+     "anchor": "Flame Pokémon"
+    },
+    {
+     "text": "Fans of Charizard note its friendly reputation.",
+     "trait": "A",
+     "anchor": "Charizard"
+    }
+   ],
+   "sources": [
+    "https://pokeapi.co/api/v2/pokemon-species/6/",
+    "https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon)"
+   ],
+   "images": {
+    "art": "img/art/6.png",
+    "ani": "img/ani/charizard.gif",
+    "ani_static_fallback": false
+   },
+   "vector": [
+    0.3,
+    -0.5,
+    0.5,
+    -0.9,
+    -0.3
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Butterfree",
+   "showdown_id": "butterfree",
+   "genus": "Butterfly Pokémon",
+   "lean": "neutral",
+   "stage": "evolved",
+   "ratings": {
+    "O": -2,
+    "C": 1,
+    "E": -1,
+    "A": 2,
+    "S": -1
+   },
+   "rating_evidence": {
+    "O": "Fixture evidence sentence for O.",
+    "C": "Fixture evidence sentence for C.",
+    "E": "Fixture evidence sentence for E.",
+    "A": "Fixture evidence sentence for A.",
+    "S": "Fixture evidence sentence for S."
+   },
+   "auto_vector": [
+    0.0,
+    0.6667,
+    0.0,
+    0.2,
+    0.0
+   ],
+   "personality": "Fixture personality sentence about Butterfree for instrument calibration only.",
+   "media": [
+    {
+     "title": "Butterfree appears in the games",
+     "note": "Fixture note."
+    }
+   ],
+   "community": "Fixture community sentence about Butterfree.",
+   "why": [
+    {
+     "text": "The Butterfree is known for being steady in canon.",
+     "trait": "S",
+     "anchor": "Butterfree"
+    },
+    {
+     "text": "Its Butterfly Pokémon genus fits Butterfree well.",
+     "trait": "O",
+     "anchor": "Butterfly Pokémon"
+    },
+    {
+     "text": "Fans of Butterfree note its friendly reputation.",
+     "trait": "A",
+     "anchor": "Butterfree"
+    }
+   ],
+   "sources": [
+    "https://pokeapi.co/api/v2/pokemon-species/12/",
+    "https://bulbapedia.bulbagarden.net/wiki/Butterfree_(Pok%C3%A9mon)"
+   ],
+   "images": {
+    "art": "img/art/12.png",
+    "ani": "img/ani/butterfree.gif",
+    "ani_static_fallback": false
+   },
+   "vector": [
+    -0.9,
+    0.3,
+    -0.5,
+    0.5,
+    -0.3
+   ]
+  },
+  {
+   "id": 30,
+   "name": "Nidorina",
+   "showdown_id": "nidorina",
+   "genus": "Poison Pin Pokémon",
+   "lean": "feminine",
+   "stage": "evolved",
+   "ratings": {
+    "O": -1,
+    "C": 2,
+    "E": 0,
+    "A": 3,
+    "S": 1
+   },
+   "rating_evidence": {
+    "O": "Fixture evidence sentence for O.",
+    "C": "Fixture evidence sentence for C.",
+    "E": "Fixture evidence sentence for E.",
+    "A": "Fixture evidence sentence for A.",
+    "S": "Fixture evidence sentence for S."
+   },
+   "auto_vector": [
+    0.0,
+    0.0,
+    0.3333,
+    0.6,
+    0.1429
+   ],
+   "personality": "Fixture personality sentence about Nidorina for instrument calibration only.",
+   "media": [
+    {
+     "title": "Nidorina appears in the games",
+     "note": "Fixture note."
+    }
+   ],
+   "community": "Fixture community sentence about Nidorina.",
+   "why": [
+    {
+     "text": "The Nidorina is known for being steady in canon.",
+     "trait": "S",
+     "anchor": "Nidorina"
+    },
+    {
+     "text": "Its Poison Pin Pokémon genus fits Nidorina well.",
+     "trait": "O",
+     "anchor": "Poison Pin Pokémon"
+    },
+    {
+     "text": "Fans of Nidorina note its friendly reputation.",
+     "trait": "A",
+     "anchor": "Nidorina"
+    }
+   ],
+   "sources": [
+    "https://pokeapi.co/api/v2/pokemon-species/30/",
+    "https://bulbapedia.bulbagarden.net/wiki/Nidorina_(Pok%C3%A9mon)"
+   ],
+   "images": {
+    "art": "img/art/30.png",
+    "ani": "img/ani/nidorina.gif",
+    "ani_static_fallback": false
+   },
+   "vector": [
+    -0.6,
+    0.6,
+    0.1,
+    0.9,
+    0.1
+   ]
+  },
+  {
+   "id": 35,
+   "name": "Clefairy",
+   "showdown_id": "clefairy",
+   "genus": "Fairy Pokémon",
+   "lean": "feminine",
+   "stage": "young",
+   "ratings": {
+    "O": 1,
+    "C": -1,
+    "E": 3,
+    "A": -1,
+    "S": -2
+   },
+   "rating_evidence": {
+    "O": "Fixture evidence sentence for O.",
+    "C": "Fixture evidence sentence for C.",
+    "E": "Fixture evidence sentence for E.",
+    "A": "Fixture evidence sentence for A.",
+    "S": "Fixture evidence sentence for S."
+   },
+   "auto_vector": [
+    0.7778,
+    0.2,
+    -0.2308,
+    0.0,
+    0.0
+   ],
+   "personality": "Fixture personality sentence about Clefairy for instrument calibration only.",
+   "media": [
+    {
+     "title": "Clefairy appears in the games",
+     "note": "Fixture note."
+    }
+   ],
+   "community": "Fixture community sentence about Clefairy.",
+   "why": [
+    {
+     "text": "The Clefairy is known for being steady in canon.",
+     "trait": "S",
+     "anchor": "Clefairy"
+    },
+    {
+     "text": "Its Fairy Pokémon genus fits Clefairy well.",
+     "trait": "O",
+     "anchor": "Fairy Pokémon"
+    },
+    {
+     "text": "Fans of Clefairy note its friendly reputation.",
+     "trait": "A",
+     "anchor": "Clefairy"
+    }
+   ],
+   "sources": [
+    "https://pokeapi.co/api/v2/pokemon-species/35/",
+    "https://bulbapedia.bulbagarden.net/wiki/Clefairy_(Pok%C3%A9mon)"
+   ],
+   "images": {
+    "art": "img/art/35.png",
+    "ani": "img/ani/clefairy.gif",
+    "ani_static_fallback": false
+   },
+   "vector": [
+    0.9,
+    -0.3,
+    0.9,
+    -0.7,
+    -0.8
+   ]
+  },
+  {
+   "id": 58,
+   "name": "Growlithe",
+   "showdown_id": "growlithe",
+   "genus": "Puppy Pokémon",
+   "lean": "masculine",
+   "stage": "young",
+   "ratings": {
+    "O": -1,
+    "C": -1,
+    "E": 2,
+    "A": -1,
+    "S": -2
+   },
+   "rating_evidence": {
+    "O": "Fixture evidence sentence for O.",
+    "C": "Fixture evidence sentence for C.",
+    "E": "Fixture evidence sentence for E.",
+    "A": "Fixture evidence sentence for A.",
+    "S": "Fixture evidence sentence for S."
+   },
+   "auto_vector": [
+    0.3333,
+    -0.5,
+    0.3333,
+    0.2,
+    0.0
+   ],
+   "personality": "Fixture personality sentence about Growlithe for instrument calibration only.",
+   "media": [
+    {
+     "title": "Growlithe appears in the games",
+     "note": "Fixture note."
+    }
+   ],
+   "community": "Fixture community sentence about Growlithe.",
+   "why": [
+    {
+     "text": "The Growlithe is known for being steady in canon.",
+     "trait": "S",
+     "anchor": "Growlithe"
+    },
+    {
+     "text": "Its Puppy Pokémon genus fits Growlithe well.",
+     "trait": "O",
+     "anchor": "Puppy Pokémon"
+    },
+    {
+     "text": "Fans of Growlithe note its friendly reputation.",
+     "trait": "A",
+     "anchor": "Growlithe"
+    }
+   ],
+   "sources": [
+    "https://pokeapi.co/api/v2/pokemon-species/58/",
+    "https://bulbapedia.bulbagarden.net/wiki/Growlithe_(Pok%C3%A9mon)"
+   ],
+   "images": {
+    "art": "img/art/58.png",
+    "ani": "img/ani/growlithe.gif",
+    "ani_static_fallback": false
+   },
+   "vector": [
+    -0.1,
+    -0.8,
+    0.7,
+    -0.5,
+    -0.8
+   ]
+  },
+  {
+   "id": 59,
+   "name": "Arcanine",
+   "showdown_id": "arcanine",
+   "genus": "Legendary Pokémon",
+   "lean": "masculine",
+   "stage": "mature",
+   "ratings": {
+    "O": 1,
+    "C": 2,
+    "E": -1,
+    "A": 1,
+    "S": 3
+   },
+   "rating_evidence": {
+    "O": "Fixture evidence sentence for O.",
+    "C": "Fixture evidence sentence for C.",
+    "E": "Fixture evidence sentence for E.",
+    "A": "Fixture evidence sentence for A.",
+    "S": "Fixture evidence sentence for S."
+   },
+   "auto_vector": [
+    0.75,
+    0.0,
+    0.0,
+    0.2,
+    0.0
+   ],
+   "personality": "Fixture personality sentence about Arcanine for instrument calibration only.",
+   "media": [
+    {
+     "title": "Arcanine appears in the games",
+     "note": "Fixture note."
+    }
+   ],
+   "community": "Fixture community sentence about Arcanine.",
+   "why": [
+    {
+     "text": "The Arcanine is known for being steady in canon.",
+     "trait": "S",
+     "anchor": "Arcanine"
+    },
+    {
+     "text": "Its Legendary Pokémon genus fits Arcanine well.",
+     "trait": "O",
+     "anchor": "Legendary Pokémon"
+    },
+    {
+     "text": "Fans of Arcanine note its friendly reputation.",
+     "trait": "A",
+     "anchor": "Arcanine"
+    }
+   ],
+   "sources": [
+    "https://pokeapi.co/api/v2/pokemon-species/59/",
+    "https://bulbapedia.bulbagarden.net/wiki/Arcanine_(Pok%C3%A9mon)"
+   ],
+   "images": {
+    "art": "img/art/59.png",
+    "ani": "img/ani/arcanine.gif",
+    "ani_static_fallback": false
+   },
+   "vector": [
+    0.7,
+    0.6,
+    -0.5,
+    0.1,
+    0.8
+   ]
+  },
+  {
+   "id": 65,
+   "name": "Alakazam",
+   "showdown_id": "alakazam",
+   "genus": "Psi Pokémon",
+   "lean": "masculine",
+   "stage": "mature",
+   "ratings": {
+    "O": -2,
+    "C": -1,
+    "E": 1,
+    "A": -1,
+    "S": -1
+   },
+   "rating_evidence": {
+    "O": "Fixture evidence sentence for O.",
+    "C": "Fixture evidence sentence for C.",
+    "E": "Fixture evidence sentence for E.",
+    "A": "Fixture evidence sentence for A.",
+    "S": "Fixture evidence sentence for S."
+   },
+   "auto_vector": [
+    0.8,
+    -0.5,
+    0.3333,
+    0.3333,
+    0.0
+   ],
+   "personality": "Fixture personality sentence about Alakazam for instrument calibration only.",
+   "media": [
+    {
+     "title": "Alakazam appears in the games",
+     "note": "Fixture note."
+    }
+   ],
+   "community": "Fixture community sentence about Alakazam.",
+   "why": [
+    {
+     "text": "The Alakazam is known for being steady in canon.",
+     "trait": "S",
+     "anchor": "Alakazam"
+    },
+    {
+     "text": "Its Psi Pokémon genus fits Alakazam well.",
+     "trait": "O",
+     "anchor": "Psi Pokémon"
+    },
+    {
+     "text": "Fans of Alakazam note its friendly reputation.",
+     "trait": "A",
+     "anchor": "Alakazam"
+    }
+   ],
+   "sources": [
+    "https://pokeapi.co/api/v2/pokemon-species/65/",
+    "https://bulbapedia.bulbagarden.net/wiki/Alakazam_(Pok%C3%A9mon)"
+   ],
+   "images": {
+    "art": "img/art/65.png",
+    "ani": "img/ani/alakazam.gif",
+    "ani_static_fallback": false
+   },
+   "vector": [
+    -0.3,
+    -0.8,
+    0.3,
+    -0.3,
+    -0.3
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Blastoise",
+   "showdown_id": "blastoise",
+   "genus": "Shellfish Pokémon",
+   "lean": "neutral",
+   "stage": "mature",
+   "ratings": {
+    "O": 1,
+    "C": 3,
+    "E": -2,
+    "A": 2,
+    "S": 2
+   },
+   "rating_evidence": {
+    "O": "Fixture evidence sentence for O.",
+    "C": "Fixture evidence sentence for C.",
+    "E": "Fixture evidence sentence for E.",
+    "A": "Fixture evidence sentence for A.",
+    "S": "Fixture evidence sentence for S."
+   },
+   "auto_vector": [
+    0.0,
+    0.3333,
+    0.0,
+    -0.6,
+    0.0
+   ],
+   "personality": "Fixture personality sentence about Blastoise for instrument calibration only.",
+   "media": [
+    {
+     "title": "Blastoise appears in the games",
+     "note": "Fixture note."
+    }
+   ],
+   "community": "Fixture community sentence about Blastoise.",
+   "why": [
+    {
+     "text": "The Blastoise is known for being steady in canon.",
+     "trait": "S",
+     "anchor": "Blastoise"
+    },
+    {
+     "text": "Its Shellfish Pokémon genus fits Blastoise well.",
+     "trait": "O",
+     "anchor": "Shellfish Pokémon"
+    },
+    {
+     "text": "Fans of Blastoise note its friendly reputation.",
+     "trait": "A",
+     "anchor": "Blastoise"
+    }
+   ],
+   "sources": [
+    "https://pokeapi.co/api/v2/pokemon-species/9/",
+    "https://bulbapedia.bulbagarden.net/wiki/Blastoise_(Pok%C3%A9mon)"
+   ],
+   "images": {
+    "art": "img/art/9.png",
+    "ani": "img/ani/blastoise.gif",
+    "ani_static_fallback": false
+   },
+   "vector": [
+    0.3,
+    0.9,
+    -0.9,
+    -0.1,
+    0.5
+   ]
+  }
+ ]
+}

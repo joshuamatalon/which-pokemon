@@ -1,0 +1,5 @@
+data/cache/
+node_modules/
+data/pool-errors.json
+__pycache__/
+*.pyc

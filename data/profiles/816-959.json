@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 816,
+    "name": "Sobble",
+    "showdown_id": "sobble",
+    "genus": "Water Lizard Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": -1,
+      "E": -2,
+      "A": 1,
+      "S": -4
+    },
+    "rating_evidence": {
+      "O": "Its Shield Pokédex entry describes an instinctive color change for camouflage, a practical skill built into its skin.",
+      "C": "Its Pokédex lines describe it crying and hiding in the moment a scare hits, quick reactions instead of any plan.",
+      "E": "Its Shield entry describes it turning invisible in the rain, built for slipping out of sight.",
+      "A": "Anime appearances, including Gou's Sobble in Pokémon Journeys, show it comforting others and being comforted in turn.",
+      "S": "Its Sword Pokédex entry says its tears carry the sting of a hundred onions and fall the moment it feels scared."
+    },
+    "personality": "Sobble is a Water Lizard Pokémon that turns invisible in the rain, its skin shifting color to match the water around it. When it feels scared, it cries, and its tears carry the sting of a hundred onions. In Pokémon Journeys, Gou's Sobble spent its early episodes hiding behind him before growing steadier in battle. It favors a quiet corner over a crowd.",
+    "media": [
+      {
+        "title": "Pokémon Journeys, Gou's starter Sobble",
+        "note": "It hid behind Gou for its first several appearances before growing steadier in battle."
+      }
+    ],
+    "community": "Fans call Sobble one of the most relatable starters, since its instinct to cry first and figure things out after mirrors how a lot of people actually feel.",
+    "why": [
+      {
+        "text": "Sobble's tears carry the sting of a hundred onions, a defense every rival learns to respect.",
+        "trait": "S",
+        "anchor": "onions",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Sobble_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "As a Water Lizard Pokémon, Sobble turns invisible in falling rain, slipping away from danger unseen.",
+        "trait": "E",
+        "anchor": "invisible",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/816/"
+      },
+      {
+        "text": "In Pokémon Journeys, Gou's Sobble grew steadier in battle after a shy start, finding its own pace.",
+        "trait": "E",
+        "anchor": "Journeys",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Sobble_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/816/",
+      "https://bulbapedia.bulbagarden.net/wiki/Sobble_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 818,
+    "name": "Inteleon",
+    "showdown_id": "inteleon",
+    "genus": "Secret Agent Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": 1,
+      "C": 3,
+      "E": -1,
+      "A": -1,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex line says its membranes let it pick out a foe's weak point before it strikes, a sharp read on any situation.",
+      "C": "It blasts water from its fingertips at Mach 3 with pinpoint aim, the precision a Secret Agent Pokémon is named for.",
+      "E": "As a Secret Agent Pokémon it works from cover, gliding in on a hidden membrane instead of announcing itself.",
+      "A": "Its Pokédex lines focus on its own speed and aim, a Pokémon built to win a match on its own skill.",
+      "S": "Its Shield Pokédex line says it shoots water from its fingertips at Mach 3 speed with a steady, exact aim."
+    },
+    "personality": "Inteleon is a Secret Agent Pokémon built for precision. Nictitating membranes let it read where a foe is exposed, then it fires water from its fingertips at three times the speed of sound. A membrane on its back lets it glide into a room instead of walking in. Gou's Sobble became one of these sharpshooters partway through Pokémon Journeys.",
+    "media": [
+      {
+        "title": "Pokémon Journeys, Gou's Sobble evolves into Inteleon",
+        "note": "It became his steady, precise battler for the rest of the series."
+      }
+    ],
+    "community": "Trainers who play competitively rate Inteleon among the sharpest shooters in the game, prized for hitting hard and first.",
+    "why": [
+      {
+        "text": "Inteleon reads where a foe is exposed through its nictitating membranes before it ever fires a shot.",
+        "trait": "O",
+        "anchor": "membranes",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/818/"
+      },
+      {
+        "text": "As a Secret Agent Pokémon, Inteleon glides in on a hidden membrane instead of walking into the open.",
+        "trait": "E",
+        "anchor": "Secret Agent",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Inteleon_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "It blasts water from its fingertips at Mach 3, the level of aim that made Gou's Sobble a precise battler.",
+        "trait": "C",
+        "anchor": "Mach 3",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Inteleon_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/818/",
+      "https://bulbapedia.bulbagarden.net/wiki/Inteleon_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 823,
+    "name": "Corviknight",
+    "showdown_id": "corviknight",
+    "genus": "Raven Pokémon",
+    "lean": "neutral",
+    "stage": "mature",
+    "ratings": {
+      "O": -1,
+      "C": 3,
+      "E": 0,
+      "A": 2,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex line calls it a taxi service that runs known routes, a Pokémon built on reliable ground instead of exploring.",
+      "C": "Its Shield entry credits its great intellect and flying skill for making it the region's dependable airborne taxi service.",
+      "E": "Its Pokédex lines describe its role and strength, and say little about crowds or solitude, so its social rating sits at the middle.",
+      "A": "It carries trainers across Galar as the Corviknight Taxi, a service built on getting people where they need to go.",
+      "S": "Its Sword entry says it reigns supreme in Galar's skies, a steady command that holds through any storm."
+    },
+    "personality": "Corviknight is a Raven Pokémon with a steel body dark enough to make any rival think twice. In Pokémon Sword and Shield it runs the Corviknight Taxi, carrying trainers between towns on its broad wings. Its Shield Pokédex entry credits its intellect and flying skill for the job. It rules the skies of Galar and keeps to its route.",
+    "media": [
+      {
+        "title": "Pokémon Sword and Shield, the Corviknight Taxi service",
+        "note": "It ferries the player character between Galar's towns throughout the game."
+      }
+    ],
+    "community": "Players remember Corviknight fondly as the taxi that opens up fast travel in Galar, and competitive fans value it as a steady, defensive teammate.",
+    "why": [
+      {
+        "text": "Corviknight runs the Corviknight Taxi service, carrying trainers safely between towns across the Galar region.",
+        "trait": "A",
+        "anchor": "Taxi",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Corviknight_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Its great intellect and flying skill, named in its own Pokédex entry, make it Galar's most dependable flier.",
+        "trait": "C",
+        "anchor": "intellect",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/823/"
+      },
+      {
+        "text": "As a Raven Pokémon it commands the skies of Galar with a steel body dark enough to give any rival pause.",
+        "trait": "S",
+        "anchor": "Raven",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/823/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/823/",
+      "https://bulbapedia.bulbagarden.net/wiki/Corviknight_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 831,
+    "name": "Wooloo",
+    "showdown_id": "wooloo",
+    "genus": "Sheep Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": -2,
+      "C": -1,
+      "E": 2,
+      "A": 3,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex line says its fleece works so well as a cushion that it can tumble off a cliff and land standing, a Pokémon built for practical comfort.",
+      "C": "Wooloo's lines describe rolling and bouncing through its day, a Pokémon that goes with the moment instead of a set plan.",
+      "E": "Wild Area encounters in Sword and Shield show Wooloo gathering in large flocks across Galar's fields.",
+      "A": "Its wool is spun into cloth trainers rely on, and its Pokédex line calls its fleece the softest kind of cushion for anyone nearby.",
+      "S": "It can fall from a cliff and land unharmed thanks to its fleece, taking a tumble in stride."
+    },
+    "personality": "Wooloo is a Sheep Pokémon whose curly fleece works like a cushion, soft enough that it can fall off a cliff and land unharmed. Herds of them roll across the fields of the Galar region in the Wild Area of Pokémon Sword and Shield. Cloth spun from its wool ranks among the strongest fabric in Galar. It travels in flocks and keeps close to the ones it knows.",
+    "media": [
+      {
+        "title": "Pokémon Sword and Shield, Wild Area flocks",
+        "note": "Herds of Wooloo roll across the grassy fields the player explores early in the game."
+      }
+    ],
+    "community": "Fans took to Wooloo fast for the sight gag of it rolling downhill in the Sword and Shield trailers, and it's become one of the region's favorite gentle mascots.",
+    "why": [
+      {
+        "text": "Wooloo's fleece cushions it so well that it can fall from a cliff and land unharmed.",
+        "trait": "S",
+        "anchor": "cliff",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Wooloo_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Herds of this Sheep Pokémon roll together across the fields of the Galar region.",
+        "trait": "E",
+        "anchor": "Sheep",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/831/"
+      },
+      {
+        "text": "Cloth spun from its wool ranks among the strongest fabric found anywhere in Galar.",
+        "trait": "C",
+        "anchor": "wool",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Wooloo_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/831/",
+      "https://bulbapedia.bulbagarden.net/wiki/Wooloo_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 849,
+    "name": "Toxtricity",
+    "showdown_id": "toxtricity",
+    "genus": "Punk Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": 2,
+      "C": -1,
+      "E": 3,
+      "A": -2,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "It claws the protrusions on its chest as if playing a guitar, turning its own electricity into music.",
+      "C": "Toxtricity is born as either an Amped or a Low Key form, its temperament set by nature at hatching.",
+      "E": "Its Gigantamax form headlines concerts in Pokémon Sword and Shield, throwing sound and electricity out to a crowd.",
+      "A": "Its Shield Pokédex entry describes it chugging stagnant water to draw out the toxins inside, quicker to challenge than to make peace.",
+      "S": "Its own Pokédex entry calls it short-tempered, quick to react the moment something sets it off."
+    },
+    "personality": "Toxtricity is a Punk Pokémon that turns its own electricity into music, clawing the protrusions on its chest like a guitar. Sword and Shield give it two forms, Amped and Low Key, each with a personality set by nature. Its Gigantamax form throws concerts across the Wild Area, electricity crackling with every beat. Its Pokédex calls it quick to react, a Pokémon that plays as hard as it fights.",
+    "media": [
+      {
+        "title": "Pokémon Sword and Shield, Gigantamax Toxtricity concerts",
+        "note": "Its Gigantamax form performs to crowds in the Wild Area, electricity pulsing with the music."
+      }
+    ],
+    "community": "Fans embraced Toxtricity as one of Galar's best rock-star designs, split between the two forms and still arguing over whether Amped or Low Key looks cooler.",
+    "why": [
+      {
+        "text": "Toxtricity claws the protrusions on its chest as if strumming a guitar, turning electricity into its own music.",
+        "trait": "O",
+        "anchor": "guitar",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Toxtricity_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "As a Punk Pokémon its Gigantamax form headlines concerts across the Wild Area, electricity crackling with every beat.",
+        "trait": "E",
+        "anchor": "Punk",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/849/"
+      },
+      {
+        "text": "Its Shield Pokédex entry says it chugs stagnant water to draw out the toxins inside, turning danger into fuel for a fight.",
+        "trait": "A",
+        "anchor": "stagnant",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Toxtricity_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/849/",
+      "https://bulbapedia.bulbagarden.net/wiki/Toxtricity_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 856,
+    "name": "Hatenna",
+    "showdown_id": "hatenna",
+    "genus": "Calm Pokémon",
+    "lean": "feminine",
+    "stage": "young",
+    "ratings": {
+      "O": 1,
+      "C": 0,
+      "E": -4,
+      "A": 2,
+      "S": -2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex line says it senses the emotions of others through the horn on its head, reading feelings most Pokémon miss.",
+      "C": "Its Pokédex lines describe what it senses and where it lives, nothing about routine, so its planning rating sits at the middle.",
+      "E": "Its Shield entry says it prefers areas without people and runs the moment it senses a strong emotion nearby, a Pokémon that keeps its distance from a crowd.",
+      "A": "Its Sword entry says it opens up only to a trainer with a calm disposition, holding out for someone gentle.",
+      "S": "It runs at the first sign of a strong emotion, feeling a room's mood before anyone else does."
+    },
+    "personality": "Hatenna is a Calm Pokémon that senses feelings through the horn on its head. Its Sword Pokédex entry says it opens up only to a trainer with a calm disposition, and its Shield entry says it prefers quiet places over crowds, ready to dash off if emotions run high nearby. In the games it evolves once it settles somewhere peaceful. It reads a room before it ever steps into one.",
+    "media": [
+      {
+        "title": "Pokémon Sword and Shield, Hatenna's Galar Pokédex entries",
+        "note": "Both entries describe how closely it senses the feelings of everyone around it."
+      }
+    ],
+    "community": "Fans see Hatenna as one of Galar's gentlest designs, a small Pokémon that reads a room fast and asks for a calm trainer in return.",
+    "why": [
+      {
+        "text": "Hatenna senses the feelings of everyone nearby through the horn on its head, well before anyone speaks.",
+        "trait": "O",
+        "anchor": "senses",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/856/"
+      },
+      {
+        "text": "As a Calm Pokémon it seeks out quiet places, stepping away from a crowd instead of into one.",
+        "trait": "E",
+        "anchor": "Calm",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Hatenna_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "It opens up to a trainer with a calm disposition, holding its trust for someone as steady as it is.",
+        "trait": "A",
+        "anchor": "calm disposition",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Hatenna_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/856/",
+      "https://bulbapedia.bulbagarden.net/wiki/Hatenna_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 869,
+    "name": "Alcremie",
+    "showdown_id": "alcremie",
+    "genus": "Cream Pokémon",
+    "lean": "feminine",
+    "stage": "evolved",
+    "ratings": {
+      "O": 1,
+      "C": 2,
+      "E": 1,
+      "A": 3,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Alcremie comes in dozens of sweet forms depending on how it's raised, each one a different creative result.",
+      "C": "Its Pokédex line says it decorates berries with cream for a trainer it trusts, careful work down to the topping.",
+      "E": "Its Pokédex lines describe it around a trusted trainer, not in a crowd and not completely alone, so its social rating sits on the friendly middle ground.",
+      "A": "It treats a trusted trainer to berries finished with its own cream, sharing something made by hand.",
+      "S": "Its cream turns sweeter and richer the more content Alcremie feels, its mood showing up gently."
+    },
+    "personality": "Alcremie is a Cream Pokémon that decorates berries with sweet cream for any trainer it trusts. Its cream grows richer and sweeter the more content it feels, and its final form depends on how it's raised and carried in Pokémon Sword and Shield, set by spinning while walking. It comes in dozens of flavors and toppings, no two quite the same. It shares what it makes.",
+    "media": [
+      {
+        "title": "Pokémon Sword and Shield, evolving Milcery into Alcremie",
+        "note": "The player spins in place while holding a Poké Ball to choose its final sweet and cream form."
+      }
+    ],
+    "community": "Collectors chase every one of Alcremie's cream and flavor combinations, and it's become one of the most decorated, most photographed Pokémon in the Galar Pokédex.",
+    "why": [
+      {
+        "text": "Alcremie decorates berries with its own cream for any trainer it has come to trust.",
+        "trait": "A",
+        "anchor": "berries",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Alcremie_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "As a Cream Pokémon it grows sweeter and richer in flavor the more content it feels.",
+        "trait": "S",
+        "anchor": "Cream",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/869/"
+      },
+      {
+        "text": "Its final form is shaped by how a trainer raises and carries it in Pokémon Sword and Shield.",
+        "trait": "C",
+        "anchor": "Sword and Shield",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Alcremie_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/869/",
+      "https://bulbapedia.bulbagarden.net/wiki/Alcremie_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 872,
+    "name": "Snom",
+    "showdown_id": "snom",
+    "genus": "Worm Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": 1,
+      "E": -2,
+      "A": 1,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entry says it eats the snow piling up on the ground, a simple, practical habit.",
+      "C": "It ties its own body to a branch with spun thread before settling in to sleep, a small bit of preparation each night.",
+      "E": "It disguises itself as an icicle while it sleeps, built to go unnoticed instead of drawing a crowd.",
+      "A": "Its Pokédex lines describe it as harmless, spending its time eating snow instead of picking a fight.",
+      "S": "It sleeps through the cold tied to a branch, undisturbed by the weather around it."
+    },
+    "personality": "Snom is a Worm Pokémon that spins frigid thread to tie itself to a branch, disguising itself as an icicle while it sleeps. It eats the snow that piles up on the ground, and the more it eats, the bigger the spikes on its back grow. Game Freak gave it a night-only evolution method after fans asked for more time with its design in Pokémon Sword and Shield. It keeps to itself through the cold months.",
+    "media": [
+      {
+        "title": "Pokémon Sword and Shield, Snom's night-only evolution requirement",
+        "note": "It evolves into Frosmoth only after leveling up at night, a change Game Freak made partly for fans who wanted to keep it around longer."
+      }
+    ],
+    "community": "Fans took to Snom right away for how small and gentle it looked, and its own developers built an evolution rule around how much players wanted to keep it as is.",
+    "why": [
+      {
+        "text": "Snom ties its own body to a branch with spun thread, disguising itself as an icicle while it sleeps.",
+        "trait": "E",
+        "anchor": "icicle",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Snom_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "As a Worm Pokémon it eats the snow piling up on the ground, growing the spikes on its back a little more each time.",
+        "trait": "C",
+        "anchor": "Worm",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/872/"
+      },
+      {
+        "text": "Its night-only evolution in Pokémon Sword and Shield grew out of how much fans wanted to keep it around, a sign of how much people already cared about it.",
+        "trait": "A",
+        "anchor": "Sword and Shield",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Snom_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/872/",
+      "https://bulbapedia.bulbagarden.net/wiki/Snom_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 873,
+    "name": "Frosmoth",
+    "showdown_id": "frosmoth",
+    "genus": "Frost Moth Pokémon",
+    "lean": "neutral",
+    "stage": "mature",
+    "ratings": {
+      "O": 0,
+      "C": -1,
+      "E": -1,
+      "A": -1,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex lines describe its wings and its temper, nothing about curiosity, so its openness rating sits at the middle.",
+      "C": "Its Pokédex lines describe it patrolling fields and mountains instead of keeping to any fixed routine, a wandering guardian.",
+      "E": "It patrols fields and mountains largely on its own, a guardian instead of a Pokémon that travels in a group.",
+      "A": "Its Pokédex entry says it drives off anyone who disturbs the fields and mountains it watches over, quick to meet a threat.",
+      "S": "Its wings run colder than minus 290 degrees Fahrenheit and hold that temperature through any weather."
+    },
+    "personality": "Frosmoth is a Frost Moth Pokémon that watches over fields and mountains, its icy wings shedding scales like falling snow as it flies. Its Pokédex entry says the temperature of those wings sits below minus 290 degrees Fahrenheit, cold enough to raise a blizzard around anyone who disturbs the land it guards. It works alone, patrolling quietly. It turns fierce only in defense of its territory.",
+    "media": [
+      {
+        "title": "Pokémon Sword and Shield, Frosmoth's Galar Pokédex entry",
+        "note": "Its entry describes it raising a blizzard to chase off anyone who disturbs the fields and mountains it watches."
+      }
+    ],
+    "community": "Fans rate Frosmoth as an underrated Gen 8 design, valued in competitive play for turning the sun into an advantage with its own icy typing twist.",
+    "why": [
+      {
+        "text": "Frosmoth's icy scales fall like snow as it flies over the fields and mountains it watches.",
+        "trait": "S",
+        "anchor": "snow",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Frosmoth_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "As a Frost Moth Pokémon it patrols largely on its own, a quiet guardian of the land.",
+        "trait": "E",
+        "anchor": "Frost Moth",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/873/"
+      },
+      {
+        "text": "It raises a blizzard around anyone who disturbs the fields and mountains, standing guard in any weather.",
+        "trait": "A",
+        "anchor": "blizzard",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Frosmoth_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/873/",
+      "https://bulbapedia.bulbagarden.net/wiki/Frosmoth_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 887,
+    "name": "Dragapult",
+    "showdown_id": "dragapult",
+    "genus": "Stealth Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": 1,
+      "C": 2,
+      "E": 0,
+      "A": 2,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex line describes it keeping Dreepy tucked away until the right moment, a Pokémon that reads a battle before acting.",
+      "C": "It keeps Dreepy stored safely in the holes on its horns, launching them only once a fight actually starts.",
+      "E": "Its Pokédex lines focus on how it fights, not on crowds or solitude, so its social rating sits at the middle.",
+      "A": "Its Violet Pokédex line says the Dreepy inside its horns look forward to being launched, a bond built on trust.",
+      "S": "As a Stealth Pokémon it waits quietly before it strikes, holding steady until the moment calls for speed."
+    },
+    "personality": "Dragapult is a Stealth Pokémon that keeps Dreepy tucked safely inside the holes on its horns until a fight begins. Its Pokédex entry says those Dreepy look forward to being launched at supersonic speed once battle starts. It holds still and reads the moment instead of rushing in. Fans nicknamed it the fastest Pokémon in its generation, and competitive players build entire teams around that speed.",
+    "media": [
+      {
+        "title": "Pokémon Sword and Shield, Dragapult's Galar Pokédex entry",
+        "note": "Its entry describes the Dreepy it keeps in its horns and launches like supersonic missiles once a fight starts."
+      }
+    ],
+    "community": "Fans and competitive players alike rank Dragapult among Galar's most popular designs, drawn to its speed on the field and its care for the Dreepy riding in its horns.",
+    "why": [
+      {
+        "text": "Dragapult keeps its Dreepy tucked safely in the holes on its horns until a battle actually begins.",
+        "trait": "C",
+        "anchor": "Dreepy",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/887/"
+      },
+      {
+        "text": "As a Stealth Pokémon it holds still and reads the moment before it ever strikes.",
+        "trait": "S",
+        "anchor": "Stealth",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Dragapult_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "The Dreepy riding inside its horns look forward to being launched at supersonic speed once the fight starts.",
+        "trait": "A",
+        "anchor": "supersonic",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Dragapult_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/887/",
+      "https://bulbapedia.bulbagarden.net/wiki/Dragapult_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 891,
+    "name": "Kubfu",
+    "showdown_id": "kubfu",
+    "genus": "Wushu Pokémon",
+    "lean": "masculine",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": 3,
+      "E": -1,
+      "A": 1,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex lines focus on training and discipline, a practical Pokémon that hones what already works.",
+      "C": "Its Sword Pokédex entry says it trains hard to perfect its moves, and those very moves decide which form it takes when it evolves.",
+      "E": "It trains at Master Mustard's dojo on the Isle of Armor, working through drills instead of performing for a crowd.",
+      "A": "It studies directly under Master Mustard on the Isle of Armor, listening closely and putting in the work.",
+      "S": "Its Shield entry says pulling the white hair on its head wells up power from deep in its belly, a fighting spirit that rises with calm control."
+    },
+    "personality": "Kubfu is a Wushu Pokémon that trains hard to perfect its moves, and the moves it masters decide which form it takes when it evolves. In the Isle of Armor expansion it studies under Master Mustard, working through the Tower of Water or the Tower of Darkness to prove itself. Its Shield entry says pulling the white hair on its head wells up fighting spirit from deep inside. It earns its strength one drill at a time.",
+    "media": [
+      {
+        "title": "Pokémon Sword and Shield, Isle of Armor expansion",
+        "note": "Kubfu trains under Master Mustard and clears a tower trial before it can evolve into Urshifu."
+      }
+    ],
+    "community": "Fans see Kubfu as one of the most earned evolutions in the series, since a trainer has to walk it through an entire training arc before it becomes Urshifu.",
+    "why": [
+      {
+        "text": "Kubfu trains hard to perfect its moves, and those very moves decide which form it takes when it evolves.",
+        "trait": "C",
+        "anchor": "trains",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Kubfu_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "As a Wushu Pokémon it studies under Master Mustard on the Isle of Armor before it ever evolves.",
+        "trait": "E",
+        "anchor": "Wushu",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/891/"
+      },
+      {
+        "text": "Pulling the white hair on its head draws up its fighting spirit from somewhere deep inside.",
+        "trait": "S",
+        "anchor": "hair",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Kubfu_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/891/",
+      "https://bulbapedia.bulbagarden.net/wiki/Kubfu_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 892,
+    "name": "Urshifu",
+    "showdown_id": "urshifu",
+    "genus": "Wushu Pokémon",
+    "lean": "masculine",
+    "stage": "evolved",
+    "ratings": {
+      "O": 1,
+      "C": 3,
+      "E": -1,
+      "A": -1,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex line says one of its forms races across sheer cliffs, always refining its moves on new terrain.",
+      "C": "Both of its Pokédex entries describe constant training, one perfecting a single decisive blow and the other refining its footwork on the cliffs.",
+      "E": "It trains and battles in the mountains of a distant region on its own, apart from any group.",
+      "A": "Its Pokédex entry describes it leaping straight at a foe for one devastating blow, meeting a challenge head-on.",
+      "S": "The Rapid Strike form races across sheer cliffs with total control of its legs, always sure of its footing."
+    },
+    "personality": "Urshifu is a Wushu Pokémon that comes in two trained styles. Its Single Strike form leaps in close and lands one devastating blow, built for a fast, decisive finish. Its Rapid Strike form races across sheer cliffs in the mountains, refining its legwork with every run. Both evolve from Kubfu after a trainer walks it through the Isle of Armor's towers.",
+    "media": [
+      {
+        "title": "Pokémon Sword and Shield, Isle of Armor expansion",
+        "note": "Kubfu evolves into one of Urshifu's two styles depending on which tower trial a trainer completes."
+      }
+    ],
+    "community": "Competitive players rank Urshifu among the strongest Pokémon to come out of Galar, and fans still debate whether the Single Strike or Rapid Strike style suits them more.",
+    "why": [
+      {
+        "text": "Urshifu's Rapid Strike form races across sheer cliffs in the mountains, refining its legwork with every run.",
+        "trait": "C",
+        "anchor": "cliffs",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Urshifu_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "As a Wushu Pokémon it trains constantly, perfecting one decisive blow or its footwork in the mountains.",
+        "trait": "O",
+        "anchor": "Wushu",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/892/"
+      },
+      {
+        "text": "Its Single Strike form leaps in close and lands one devastating blow it has trained hard for.",
+        "trait": "A",
+        "anchor": "devastating blow",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Urshifu_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/892/",
+      "https://bulbapedia.bulbagarden.net/wiki/Urshifu_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 898,
+    "name": "Calyrex",
+    "showdown_id": "calyrex",
+    "genus": "King Pokémon",
+    "lean": "masculine",
+    "stage": "mature",
+    "ratings": {
+      "O": 2,
+      "C": -1,
+      "E": -2,
+      "A": 4,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Legend says it ruled over Galar in ancient times, its wisdom passed down through the region's oldest stories.",
+      "C": "Its legend describes mercy and power, not any routine of rule, a king remembered for grace over upkeep.",
+      "E": "It stayed out of sight for ages after its reign, its legend growing in its absence instead of in a crowd.",
+      "A": "Its Pokédex entry calls it merciful, capable of healing and blessing those it favors, powers named directly in its own Pokédex line.",
+      "S": "Legend remembers it as a king who ruled calmly over Galar for generations before it faded from common sight."
+    },
+    "personality": "Calyrex is a King Pokémon remembered in Galar's oldest legends as a merciful ruler, capable of healing hearts and calling plants to grow. It reigned over the region in ancient times before fading from common sight. In the Crown Tundra expansion it returns and can join with either Glastrier or Spectrier to ride into battle. Its legend still shapes how Galar's oldest stories are told.",
+    "media": [
+      {
+        "title": "Pokémon Sword and Shield, Crown Tundra expansion",
+        "note": "Calyrex is the central legendary Pokémon of the expansion and can fuse with Glastrier or Spectrier."
+      }
+    ],
+    "community": "Fans of the Crown Tundra treat Calyrex as one of the more thoughtful legendary designs, tying its story to two very different partner Pokémon instead of to raw power alone.",
+    "why": [
+      {
+        "text": "Calyrex is remembered as a merciful king who once brought healing and blessings to the whole Galar region.",
+        "trait": "A",
+        "anchor": "merciful",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/898/"
+      },
+      {
+        "text": "As a King Pokémon it can join with Glastrier or Spectrier to ride again in the Crown Tundra.",
+        "trait": "E",
+        "anchor": "King",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Calyrex_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Legend says it has the power to mend hearts and call plants to spring up wherever it walks.",
+        "trait": "O",
+        "anchor": "mend",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Calyrex_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/898/",
+      "https://bulbapedia.bulbagarden.net/wiki/Calyrex_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 906,
+    "name": "Sprigatito",
+    "showdown_id": "sprigatito",
+    "genus": "Grass Cat Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": 1,
+      "C": -1,
+      "E": 2,
+      "A": 2,
+      "S": 0
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex line says its scent grows stronger in the sun, a small daily change that rewards attention.",
+      "C": "Its Pokédex lines describe washing its face and giving off scent, playful habits instead of any strict routine, so its planning rating leans low.",
+      "E": "Its Pokédex entry says the sweet scent it gives off mesmerizes everyone nearby, drawing a crowd without trying.",
+      "A": "In Pokémon Horizons, Liko's Sprigatito sticks close by her side as her first and steadiest partner.",
+      "S": "Its Pokédex lines describe its scent and its fur, nothing about how it handles surprise, so its steadiness rating sits at the middle."
+    },
+    "personality": "Sprigatito is a Grass Cat Pokémon whose fluffy fur is close in makeup to a plant's. Its Pokédex entry says it washes its face often to keep that fur from drying out, and the sweet scent it gives off grows stronger in the sun and mesmerizes anyone nearby. In Pokémon Horizons it became Liko's first partner, staying close to her from the show's opening episode.",
+    "media": [
+      {
+        "title": "Pokémon Horizons: The Series, Liko's starter Sprigatito",
+        "note": "It travels at Liko's side as her first partner from the show's opening episodes."
+      }
+    ],
+    "community": "Fans voted Sprigatito the most popular of the Scarlet and Violet starters going into release, and it stayed a favorite for its cat-like charm through the whole generation.",
+    "why": [
+      {
+        "text": "Sprigatito's sweet scent grows stronger in the sun and mesmerizes anyone standing nearby.",
+        "trait": "E",
+        "anchor": "mesmerizes",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Sprigatito_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "As a Grass Cat Pokémon it washes its face often to keep its plant-like fur from drying out.",
+        "trait": "C",
+        "anchor": "Grass Cat",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/906/"
+      },
+      {
+        "text": "In Pokémon Horizons it became Liko's first partner and has stayed close by her side since.",
+        "trait": "A",
+        "anchor": "Horizons",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Sprigatito_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/906/",
+      "https://bulbapedia.bulbagarden.net/wiki/Sprigatito_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 908,
+    "name": "Meowscarada",
+    "showdown_id": "meowscarada",
+    "genus": "Magician Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": 2,
+      "C": 3,
+      "E": -1,
+      "A": -1,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex line says it uses reflective fur to create the illusion of a floating flower, a clever bit of misdirection.",
+      "C": "Its Violet Pokédex entry describes it rigging foes with pollen-packed bombs through skillful misdirection, timed with real precision.",
+      "E": "It works through quiet misdirection instead of open confrontation, winning a fight before an opponent notices it started.",
+      "A": "Its Pokédex lines focus on outwitting a foe through misdirection instead of cooperating with one, more strategist than teammate.",
+      "S": "It sets off its flower bombs at exactly the right moment, staying composed while its plan plays out."
+    },
+    "personality": "Meowscarada is a Magician Pokémon that turns its cape's reflective fur into a floating-flower illusion. Its Violet Pokédex entry says it rigs foes with pollen-packed flower bombs through skillful misdirection, setting them off before an opponent realizes what happened. It is the final evolution of Sprigatito in Pokémon Scarlet and Violet. It wins with a clever plan.",
+    "media": [
+      {
+        "title": "Pokémon Scarlet and Violet, Sprigatito's final evolution",
+        "note": "Meowscarada is the last stage of the grass starter line introduced in the Paldea region."
+      }
+    ],
+    "community": "Competitive players respect Meowscarada for how fast and precise its tricks are in battle, and fans call it one of the sharpest-looking final starters in the series.",
+    "why": [
+      {
+        "text": "Meowscarada creates the illusion of a floating flower using the reflective fur lining its own cape.",
+        "trait": "O",
+        "anchor": "illusion",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/908/"
+      },
+      {
+        "text": "As a Magician Pokémon it rigs foes with pollen-packed bombs through skillful, well-timed misdirection.",
+        "trait": "C",
+        "anchor": "Magician",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Meowscarada_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "It sets off its flower bombs at exactly the right moment, staying composed as its plan unfolds.",
+        "trait": "S",
+        "anchor": "flower bombs",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Meowscarada_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/908/",
+      "https://bulbapedia.bulbagarden.net/wiki/Meowscarada_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 909,
+    "name": "Fuecoco",
+    "showdown_id": "fuecoco",
+    "genus": "Fire Croc Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": -1,
+      "E": 1,
+      "A": 1,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "It spends its time lying on warm rocks and absorbing heat, a practical habit named directly in its own Pokédex entry.",
+      "C": "Its Violet Pokédex entry says its flame sac is small, so energy leaks out and flickers to and fro instead of staying in one steady flow.",
+      "E": "In Pokémon Horizons, Roy's Fuecoco jumps into new situations with quick, eager energy from its very first appearance.",
+      "A": "Roy's Fuecoco in Pokémon Horizons sticks close to him and the rest of the group through the whole first season.",
+      "S": "Its flame sac is small and always leaks energy that flickers to and fro, a sign of energy that shifts instead of sitting level."
+    },
+    "personality": "Fuecoco is a Fire Croc Pokémon that lies on warm rocks and turns absorbed heat into fire energy. Its Pokédex entry says its flame sac is small, so energy is always leaking out through the dent on its head, flickering to and fro. In Pokémon Horizons it became Roy's partner, meeting every new place with quick, easy energy. It takes each moment as it comes.",
+    "media": [
+      {
+        "title": "Pokémon Horizons: The Series, Roy's starter Fuecoco",
+        "note": "It travels with Roy from the start of the series, staying close through the group's early adventures."
+      }
+    ],
+    "community": "Fans took to Fuecoco fast for its round, easygoing look, and it became one of the most merchandised starters of the generation soon after release.",
+    "why": [
+      {
+        "text": "Fuecoco lies on warm rocks and turns the heat it absorbs into fire energy of its own.",
+        "trait": "C",
+        "anchor": "warm rocks",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Fuecoco_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "As a Fire Croc Pokémon its flame flickers to and fro, energy leaking gently from the dent on its head.",
+        "trait": "E",
+        "anchor": "Fire Croc",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/909/"
+      },
+      {
+        "text": "In Pokémon Horizons it became Roy's partner, meeting every new place with easy, ready energy.",
+        "trait": "A",
+        "anchor": "Horizons",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Fuecoco_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/909/",
+      "https://bulbapedia.bulbagarden.net/wiki/Fuecoco_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 911,
+    "name": "Skeledirge",
+    "showdown_id": "skeledirge",
+    "genus": "Singer Pokémon",
+    "lean": "neutral",
+    "stage": "mature",
+    "ratings": {
+      "O": 2,
+      "C": 1,
+      "E": 1,
+      "A": 3,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Legend says it was born when the fireball on its head gained a soul, a story as striking as its song.",
+      "C": "Its Pokédex lines describe its song and its heat, nothing about routine, so its planning rating sits just above the middle.",
+      "E": "Its gentle singing reaches everyone within earshot, carrying without it ever needing to raise its voice.",
+      "A": "Its Violet Pokédex entry says its gentle singing soothes the souls of all who hear it.",
+      "S": "It keeps its singing calm and steady even while its own flames burn at well over 5,000 degrees Fahrenheit."
+    },
+    "personality": "Skeledirge is a Singer Pokémon born, legend says, when the fireball on its head gained a soul. Its Pokédex entry says its gentle singing soothes the souls of everyone who hears it, even while its flames burn at more than 5,400 degrees Fahrenheit. It is the final evolution of Fuecoco in Pokémon Scarlet and Violet. Its voice carries calm wherever it goes.",
+    "media": [
+      {
+        "title": "Pokémon Scarlet and Violet, Fuecoco's final evolution",
+        "note": "Skeledirge is the last stage of the fire starter line introduced in the Paldea region."
+      }
+    ],
+    "community": "Fans single out Skeledirge's design and its singer theme as one of the most memorable final starters, and its slow, gentle songs stand out against the usual fire-type roar.",
+    "why": [
+      {
+        "text": "Skeledirge's gentle singing soothes the souls of everyone who hears it, however far its flames burn.",
+        "trait": "A",
+        "anchor": "soothes",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Skeledirge_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "As a Singer Pokémon it was born, legend says, when the fireball on its head gained a soul of its own.",
+        "trait": "O",
+        "anchor": "Singer",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/911/"
+      },
+      {
+        "text": "It keeps its voice calm and steady even while its flames burn past 5,000 degrees Fahrenheit.",
+        "trait": "S",
+        "anchor": "Fahrenheit",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Skeledirge_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/911/",
+      "https://bulbapedia.bulbagarden.net/wiki/Skeledirge_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 912,
+    "name": "Quaxly",
+    "showdown_id": "quaxly",
+    "genus": "Duckling Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": 1,
+      "C": 4,
+      "E": 0,
+      "A": 1,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its Violet Pokédex entry says it's prone to overthinking things, a sign of a mind that keeps turning ideas over.",
+      "C": "Its Violet Pokédex entry says it likes to keep things tidy, precise habits that carry into how it swims and travels.",
+      "E": "Its Pokédex lines describe its habits and its travel, little about time around others, so its social rating sits at the middle.",
+      "A": "In Pokémon Horizons, Dot's Quaxly stays close and dependable as her steady partner through the group's travels.",
+      "S": "Its Violet Pokédex entry says it's prone to overthinking things, turning a situation over more than once before it settles."
+    },
+    "personality": "Quaxly is a Duckling Pokémon that migrated to the Paldea region from distant lands long ago. Its feathers secrete a gel that repels water and grime, and its Violet Pokédex entry says it likes to keep things tidy and is prone to overthinking. Strong legs let it swim fast rivers with ease. In Pokémon Horizons it became Dot's partner, steady company through the whole first season.",
+    "media": [
+      {
+        "title": "Pokémon Horizons: The Series, Dot's starter Quaxly",
+        "note": "It travels with Dot from the start of the series as her steady, tidy-minded partner."
+      }
+    ],
+    "community": "Fans call Quaxly the most classically cute of the Scarlet and Violet starters, and its tidy habits made it an easy favorite among younger players.",
+    "why": [
+      {
+        "text": "Quaxly keeps things tidy by habit, a trait its own Violet Pokédex entry names directly.",
+        "trait": "C",
+        "anchor": "tidy",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/912/"
+      },
+      {
+        "text": "As a Duckling Pokémon it migrated to Paldea from distant lands long before settling into the region.",
+        "trait": "O",
+        "anchor": "Duckling",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Quaxly_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Its strong legs let it swim fast, flowing rivers with an ease few other Pokémon match.",
+        "trait": "S",
+        "anchor": "rivers",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Quaxly_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/912/",
+      "https://bulbapedia.bulbagarden.net/wiki/Quaxly_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 957,
+    "name": "Tinkatink",
+    "showdown_id": "tinkatink",
+    "genus": "Metalsmith Pokémon",
+    "lean": "feminine",
+    "stage": "young",
+    "ratings": {
+      "O": 0,
+      "C": 2,
+      "E": -1,
+      "A": 1,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex lines describe its hammer and its habits, nothing about curiosity, so its openness rating sits at the middle.",
+      "C": "Its Violet Pokédex entry says it remakes its hammer again and again until it's satisfied with the result, real persistence for such a young Pokémon.",
+      "E": "It works alone pounding scraps of iron into shape instead of crafting as part of a group.",
+      "A": "It swings its handmade hammer to protect itself and whatever it has built, standing up for its own work.",
+      "S": "Its Scarlet Pokédex entry says the hammer it works so hard on is often taken by Pokémon that eat metal, a setback it works through every time."
+    },
+    "personality": "Tinkatink is a Metalsmith Pokémon that pounds scraps of iron together into a handmade hammer. Its Violet Pokédex entry says it remakes that hammer again and again until it's satisfied with the result. Its Scarlet entry says the hammer often gets taken by Pokémon that gnaw on metal, so it swings what it has to protect the rest. It keeps building every time it has to start over.",
+    "media": [
+      {
+        "title": "Pokémon Scarlet and Violet, Tinkatink's Paldea Pokédex entries",
+        "note": "Both entries describe it forging and reforging its own hammer out of scrap iron."
+      }
+    ],
+    "community": "Fans warmed to Tinkatink for its small size next to the hammer it carries, and for how much work its Pokédex says goes into building just one tool.",
+    "why": [
+      {
+        "text": "Tinkatink remakes its own hammer again and again until it's satisfied with how it turned out.",
+        "trait": "C",
+        "anchor": "hammer",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Tinkatink_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "As a Metalsmith Pokémon it pounds scraps of iron together on its own to build what it needs.",
+        "trait": "E",
+        "anchor": "Metalsmith",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/957/"
+      },
+      {
+        "text": "It swings its handmade hammer to guard the work it has put so much into.",
+        "trait": "A",
+        "anchor": "handmade hammer",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Tinkatink_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/957/",
+      "https://bulbapedia.bulbagarden.net/wiki/Tinkatink_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 959,
+    "name": "Tinkaton",
+    "showdown_id": "tinkaton",
+    "genus": "Hammer Pokémon",
+    "lean": "feminine",
+    "stage": "evolved",
+    "ratings": {
+      "O": 2,
+      "C": 2,
+      "E": 2,
+      "A": -1,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its Scarlet Pokédex entry calls it an intelligent Pokémon with a very daring disposition, quick to size up a target.",
+      "C": "Its Violet Pokédex entry says its hammer tops 220 pounds, yet it swings the thing around with real control and ease.",
+      "E": "Its Scarlet entry describes it knocking rocks into the sky at passing Corviknight, bold enough to pick a fight with something twice its size.",
+      "A": "Its Violet entry says it carries off whatever plunder it pleases, following its own rules.",
+      "S": "It swings a hammer heavier than most Pokémon its size without losing its footing, in full control of the weight."
+    },
+    "personality": "Tinkaton is a Hammer Pokémon carrying a hammer that tops 220 pounds, yet its Violet Pokédex entry says it swings the thing around with ease. Its Scarlet entry calls it an intelligent Pokémon with a daring disposition, bold enough to knock rocks at passing Corviknight. It carries off whatever plunder it pleases and hauls it home. It follows its own rules and rarely asks permission first.",
+    "media": [
+      {
+        "title": "Pokémon Scarlet and Violet, Tinkatink's final evolution",
+        "note": "Tinkaton is the last stage of the fairy and steel line introduced in the Paldea region."
+      }
+    ],
+    "community": "Competitive players like Tinkaton for how much punch its huge hammer packs, and fans enjoy its daring, independent streak next to its small, round shape.",
+    "why": [
+      {
+        "text": "Tinkaton swings a hammer that tops 220 pounds with real control, despite its own small size.",
+        "trait": "C",
+        "anchor": "220 pounds",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Tinkaton_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Its Scarlet Pokédex entry calls it an intelligent Pokémon with a daring disposition, bold enough to challenge a passing Corviknight.",
+        "trait": "O",
+        "anchor": "intelligent",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/959/"
+      },
+      {
+        "text": "As a Hammer Pokémon it carries off whatever plunder it pleases and hauls it straight home.",
+        "trait": "A",
+        "anchor": "Hammer",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Tinkaton_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/959/",
+      "https://bulbapedia.bulbagarden.net/wiki/Tinkaton_(Pok%C3%A9mon)"
+    ]
+  }
+]

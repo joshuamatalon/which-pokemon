@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 570,
+    "name": "Zorua",
+    "showdown_id": "zorua",
+    "genus": "Tricky Fox Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": 2,
+      "C": -1,
+      "E": -2,
+      "A": -1,
+      "S": -2
+    },
+    "rating_evidence": {
+      "O": "The Pokédex genus, Tricky Fox Pokémon, names the imaginative transformations that let Zorua invent a new identity in an instant.",
+      "C": "One Pokédex entry says Zorua changes into whichever shape a moment calls for, favoring quick improvising over a fixed plan.",
+      "E": "The Pokédex calls Zorua a timid Pokémon and says it stays transformed unless friends are near, a low-key habit around strangers.",
+      "A": "One entry notes it changes to look like its foe and uses the opening to slip away, a self-reliant streak more than a team habit.",
+      "S": "A Black and White Pokédex entry says it keeps a disguise on until friends are near, matching a temperament that notices risk quickly."
+    },
+    "personality": "Zorua turns into whatever shape a moment calls for, most often the quiet form of a child wandering a town alone. Its Pokédex entries call this a timid habit, one it keeps up until it feels safe among friends. Once it trusts a Trainer, the borrowed faces drop, and it turns out to be playful and quick to bond.",
+    "media": [
+      {
+        "title": "Pokémon: Zoroark: Master of Illusions (2010 film)",
+        "note": "A Zorua at the center of the story searches for its guardian while wearing a string of borrowed disguises."
+      }
+    ],
+    "community": "Fans point to Zorua as one of the better-written mystery Pokémon, since its whole gimmick rewards paying attention to small details in a scene. Nuzlocke and story-run players often pick it for the roleplay angle its disguises open up.",
+    "why": [
+      {
+        "text": "Zorua earns the genus Tricky Fox Pokémon by inventing a new disguise for almost any situation it meets.",
+        "trait": "O",
+        "anchor": "Tricky Fox",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/570/"
+      },
+      {
+        "text": "A Pokédex entry calls Zorua a timid Pokémon whose caution is what pushed its disguise ability to develop in the first place.",
+        "trait": "S",
+        "anchor": "timid",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Zorua_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Zorua often takes the form of a child while it wanders a town alone, a disguise gentle enough to avoid alarming anyone.",
+        "trait": "A",
+        "anchor": "child",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/570/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/570/",
+      "https://bulbapedia.bulbagarden.net/wiki/Zorua_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 571,
+    "name": "Zoroark",
+    "showdown_id": "zoroark",
+    "genus": "Illusion Fox Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": 2,
+      "C": 0,
+      "E": -1,
+      "A": 3,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its genus, Illusion Fox Pokémon, credits Zoroark with conjuring visions detailed enough to fool a whole crowd at once.",
+      "C": "Its Pokédex entries describe illusions built fresh for each threat instead of a fixed defense plan, closer to adaptable than scheduled.",
+      "E": "Its Pokédex entries describe it keeping to a hidden den with its pack, a homebody habit apart from the crowds humans bring nearby.",
+      "A": "One Pokédex line says Zoroark cares deeply about others of its kind, protecting its den and pack even at cost to itself.",
+      "S": "It answers human search parties with conjured visions instead of panic, a composed response its entries link to protecting its pack."
+    },
+    "personality": "Zoroark forms tight bonds with its own kind and uses illusions to guard its den from outsiders. Pokédex entries describe a Pokémon that cares deeply about its pack, conjuring visions convincing enough to send a search party wandering through the woods. Trainers who earn its trust often describe a loyal, watchful partner underneath the theatrics.",
+    "media": [
+      {
+        "title": "Pokémon: Zoroark: Master of Illusions (2010 film)",
+        "note": "Zoroark defends Crown City with illusions built to protect the people and Pokémon living there."
+      }
+    ],
+    "community": "Zoroark is a common pick among players who like a Pokémon with a story behind its kit, since its whole design centers on protecting others through misdirection instead of brute force. It also holds a steady fan base as one of the more striking Dark types in competitive play.",
+    "why": [
+      {
+        "text": "Zoroark's genus, Illusion Fox Pokémon, points at visions detailed enough to fool a whole search party at once.",
+        "trait": "O",
+        "anchor": "Illusion Fox",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/571/"
+      },
+      {
+        "text": "Bonds between Zoroark and its own kind run strong, and its Pokédex entries describe it protecting that pack before itself.",
+        "trait": "A",
+        "anchor": "bonds",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "It conjures illusions strong enough to keep its den and pack safe, a steady kind of protection its Pokédex entries describe directly.",
+        "trait": "S",
+        "anchor": "safe",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/571/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/571/",
+      "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 572,
+    "name": "Minccino",
+    "showdown_id": "minccino",
+    "genus": "Chinchilla Pokémon",
+    "lean": "feminine",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": 3,
+      "E": 1,
+      "A": 2,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries stay focused on cleaning and grooming instead of curiosity about the wider world, a practical, down-to-earth streak.",
+      "C": "Its entries describe it sweeping and dusting constantly and call it a clean freak that tolerates no mess, a textbook organized habit.",
+      "E": "Minccino greet each other by grooming with their tails, a small, gentle social ritual instead of a loud group display.",
+      "A": "Its entries describe Minccino grooming one another as a greeting, a caring habit it repeats with every Minccino it meets.",
+      "S": "Its daily tail-washing routine reads as a calm, repeatable habit in its Pokédex entries, not an anxious one."
+    },
+    "personality": "Minccino keeps its tail spotless and uses it like a broom, sweeping and dusting anywhere it goes. Pokédex entries call it a clean freak that will not tolerate even a speck of mess, and Minccino greet each other by grooming one another's tails. The Minccino with the fluffier tail carries itself with a bit more pride.",
+    "media": [
+      {
+        "title": "Pokémon Black and White (games)",
+        "note": "A wild find on Route 4 near Nimbasa City, one of the first tidy, tail-first Pokémon many Trainers meet in Unova."
+      }
+    ],
+    "community": "Minccino has a following among players who like its clean, practical design and its role as an easy early catch with a genuinely useful ability list. Its grooming behavior between Minccino pairs is a frequently cited example of a small, charming Pokédex detail.",
+    "why": [
+      {
+        "text": "Minccino carries the genus Chinchilla Pokémon and keeps to practical routines like tail care instead of chasing new experiences.",
+        "trait": "O",
+        "anchor": "Chinchilla",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/572/"
+      },
+      {
+        "text": "Minccino greets others of its kind by grooming them with its tail, a small caring ritual noted directly in its Pokédex entries.",
+        "trait": "A",
+        "anchor": "groom",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Minccino_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Its Pokédex entries call it a clean freak that sweeps and dusts constantly, keeping its whole nest tidy.",
+        "trait": "C",
+        "anchor": "clean",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/572/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/572/",
+      "https://bulbapedia.bulbagarden.net/wiki/Minccino_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 573,
+    "name": "Cinccino",
+    "showdown_id": "cinccino",
+    "genus": "Scarf Pokémon",
+    "lean": "feminine",
+    "stage": "evolved",
+    "ratings": {
+      "O": -1,
+      "C": 3,
+      "E": 1,
+      "A": 0,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries stay centered on fur care and combat oil instead of curiosity, keeping Cinccino practical like its pre-evolution.",
+      "C": "One entry says Cinccino coats its whole nest in oil to keep dust out and will not tolerate even a speck of it, a highly organized habit.",
+      "E": "Little in its Pokédex text describes group behavior, so its energy reads as measured instead of showy.",
+      "A": "Its entries focus on self-protection and nest care more than direct care for others, landing it near the middle of the scale.",
+      "S": "A Sword and Shield entry describes it sliding smoothly away from an opponent's attack, a composed, practiced response."
+    },
+    "personality": "Cinccino's fur is coated in a special oil that lets it slide right out of an opponent's attack. Its Pokédex entries describe the same oil protecting its nest from dust, and Cinccino keeps that nest immaculate. Some entries mention the oil fetching a high price at market, a small sign of how prized it is.",
+    "media": [
+      {
+        "title": "Pokémon Black and White 2 (games)",
+        "note": "Evolves from Minccino only with a Shiny Stone, turning a common early find into a sleek, ribbon-tailed partner."
+      }
+    ],
+    "community": "Cinccino built a competitive reputation around its Skill Link ability, which lets its multi-hit moves land every strike, so battlers often praise it as a small Pokémon that punches well above its size.",
+    "why": [
+      {
+        "text": "Cinccino's genus, Scarf Pokémon, points at fur kept silky enough to double as a Trainer's fashion favorite.",
+        "trait": "O",
+        "anchor": "Scarf",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/573/"
+      },
+      {
+        "text": "Cinccino coats its nest in the same oil that protects its fur, keeping the whole space free of dust.",
+        "trait": "C",
+        "anchor": "oil",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Cinccino_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "It can slide right away from an incoming attack, a composed escape its Pokédex entries describe happening in an instant.",
+        "trait": "S",
+        "anchor": "slide",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/573/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/573/",
+      "https://bulbapedia.bulbagarden.net/wiki/Cinccino_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 576,
+    "name": "Gothitelle",
+    "showdown_id": "gothitelle",
+    "genus": "Astral Body Pokémon",
+    "lean": "feminine",
+    "stage": "mature",
+    "ratings": {
+      "O": 3,
+      "C": 0,
+      "E": -2,
+      "A": 2,
+      "S": -2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries describe skies distorted by its psychic power, showing stars thousands of light-years away, a vivid, curious kind of power.",
+      "C": "Little in its entries ties Gothitelle to routine or planning, so it sits near the middle of that scale.",
+      "E": "Its entries describe intense psychic power used quietly and a dislike of conflict, both pointing toward a low-key temperament.",
+      "A": "One entry says it dislikes conflict despite its tremendous psychic power, a gentle instinct given how strong it actually is.",
+      "S": "A Pokédex entry says it responds with real feeling when it learns a Trainer's life span, showing emotions that run close to the surface."
+    },
+    "personality": "Gothitelle reads the future in the movement of the stars, and the space around it can bend enough to show skies thousands of light-years away. Despite carrying tremendous psychic power, its Pokédex entries say it dislikes conflict. When it learns a Trainer's life span, the same entries say it responds with real feeling instead of staying detached.",
+    "media": [
+      {
+        "title": "Pokémon Black and White (games)",
+        "note": "Evolves from Gothorita at level 41, completing a line built around reading the stars for a Trainer's future."
+      }
+    ],
+    "community": "Gothitelle has a following among players drawn to its design, part fortune teller and part quiet guardian, and to its strong Trick Room support role in competitive doubles play.",
+    "why": [
+      {
+        "text": "Gothitelle carries the genus Astral Body Pokémon, distorting the space around it enough to show stars thousands of light-years away.",
+        "trait": "O",
+        "anchor": "Astral Body",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/576/"
+      },
+      {
+        "text": "Despite its tremendous psychic power, Gothitelle's own Pokédex entries say it dislikes conflict and avoids it when it can.",
+        "trait": "A",
+        "anchor": "conflict",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Gothitelle_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "When Gothitelle learns a Trainer's life span, it responds with visible feeling, a detail its own Pokédex entries describe directly.",
+        "trait": "S",
+        "anchor": "life span",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/576/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/576/",
+      "https://bulbapedia.bulbagarden.net/wiki/Gothitelle_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 609,
+    "name": "Chandelure",
+    "showdown_id": "chandelure",
+    "genus": "Luring Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": 2,
+      "C": 0,
+      "E": -1,
+      "A": -2,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries describe a dancing flame used to mesmerize onlookers, an inventive, otherworldly way to hold a room's attention.",
+      "C": "Little in its entries points to routine, so Chandelure's habits sit near the middle of the scale.",
+      "E": "Its entries describe it haunting quiet, run-down mansions instead of open or crowded places, a low-key setting.",
+      "A": "Its Pokédex entries describe absorbing and burning spirits to fuel its flame, a self-directed habit more than a caring one.",
+      "S": "The unhurried, hypnotic sway of its flame arms reads as a controlled, practiced motion in its Pokédex text."
+    },
+    "personality": "Chandelure lights dilapidated, empty mansions with a flame that never quite goes out. Its Pokédex entries describe it swaying the flames on its arms in an unhurried, hypnotic dance that holds a room's attention. That same otherworldly glow is why some homes are said to have used Chandelure in place of ordinary lighting.",
+    "media": [
+      {
+        "title": "Pokémon Black and White (games)",
+        "note": "The final evolution of Litwick, a line tied to Celestial Tower, a landmark built to honor Pokémon that have passed on."
+      }
+    ],
+    "community": "Chandelure draws a following from players who like its gothic, chandelier-shaped design and from competitive battlers who value its Flame Body and heavy special attack in fast Fire and Ghost teams.",
+    "why": [
+      {
+        "text": "Chandelure earns the genus Luring Pokémon for the dancing flame display its Pokédex entries say holds a room's attention.",
+        "trait": "O",
+        "anchor": "Luring",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/609/"
+      },
+      {
+        "text": "It favors dilapidated, quiet mansions over crowded places, a low-key habit its Pokédex entries describe directly.",
+        "trait": "E",
+        "anchor": "mansions",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Chandelure_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Its unhurried, swaying flame puts a hypnotic rhythm into every entrance, a steady, practiced motion instead of a frantic one.",
+        "trait": "S",
+        "anchor": "hypnotic",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/609/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/609/",
+      "https://bulbapedia.bulbagarden.net/wiki/Chandelure_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 627,
+    "name": "Rufflet",
+    "showdown_id": "rufflet",
+    "genus": "Eaglet Pokémon",
+    "lean": "masculine",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": -2,
+      "E": 3,
+      "A": -3,
+      "S": -2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries stay focused on fights and berries instead of curiosity about the wider world, a grounded, practical streak.",
+      "C": "Entries describe it picking fights indiscriminately instead of choosing them carefully, a spontaneous streak more than a planned one.",
+      "E": "Its Pokédex entries describe a Pokémon that challenges anything it sees, bold and full of energy in every encounter.",
+      "A": "One entry calls it a combative Pokémon ready to pick a fight with anyone, holding its ground instead of looking for common ground.",
+      "S": "It reportedly starts bawling when it loses a fight it picked, a fast, visible emotional reaction."
+    },
+    "personality": "Rufflet challenges nearly anything it meets, strong opponents included, and its Pokédex entries say those frequent fights are exactly what make it stronger. It crushes berries with its own talons and holds onto what it catches with the same sharp grip. Soon after hatching, it is said to challenge its own parent just to earn their respect.",
+    "media": [
+      {
+        "title": "Pokémon the Series: Best Wishes",
+        "note": "Ash catches a Rufflet in the Unova region, and it later evolves into a Braviary that stays on his team for years."
+      }
+    ],
+    "community": "Rufflet has a following among players who like a scrappy, underdog early-route Pokémon, and its evolution into Braviary makes it a common pick for Trainers who want a Flying type with real presence.",
+    "why": [
+      {
+        "text": "Rufflet carries the genus Eaglet Pokémon and lives up to it by challenging nearly any opponent it meets.",
+        "trait": "E",
+        "anchor": "Eaglet",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/627/"
+      },
+      {
+        "text": "With its sharp talons, Rufflet crushes berries and grips its catch firmly, a hands-on approach its Pokédex text describes directly.",
+        "trait": "C",
+        "anchor": "talons",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Rufflet_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Soon after hatching, Rufflet challenges its own parent, set on earning their approval, a habit named in its Pokédex entries.",
+        "trait": "A",
+        "anchor": "parent",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/627/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/627/",
+      "https://bulbapedia.bulbagarden.net/wiki/Rufflet_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 628,
+    "name": "Braviary",
+    "showdown_id": "braviary",
+    "genus": "Valiant Pokémon",
+    "lean": "masculine",
+    "stage": "evolved",
+    "ratings": {
+      "O": -1,
+      "C": 1,
+      "E": 2,
+      "A": -1,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries stay focused on loyalty and battle instead of curiosity, a grounded streak that carries over from Rufflet.",
+      "C": "Entries describe it staying in a fight once it commits, even while injured, a persistent, follow-through habit.",
+      "E": "Its Pokédex entries describe flocks of Braviary banding together and battling as a group, an outgoing, high-energy temperament.",
+      "A": "One entry says Braviary with more scars on their front earn more respect from the flock, a proud, competitive streak.",
+      "S": "Its entries describe it staying in a fight even after taking real damage, an unshaken calm under pressure."
+    },
+    "personality": "Braviary fights for its friends without hesitating over the danger to itself, and its Pokédex entries say scars only add to the respect it earns from its flock. Longtime Alolan communities are said to have called it the hero of the sky. One Braviary is even strong enough in canon to carry a car while flying.",
+    "media": [
+      {
+        "title": "Pokémon the Series: Sun & Moon",
+        "note": "Ash's Braviary, evolved from his Unova-era Rufflet, returns as a surprise team member for the Manalo Conference."
+      }
+    ],
+    "community": "Braviary has a strong fan following built on its hero of the sky reputation and its role as one of Ash's longest-running team members across multiple regions.",
+    "why": [
+      {
+        "text": "Braviary carries the genus Valiant Pokémon, living up to it by banding together with its flock to battle for what matters to it.",
+        "trait": "E",
+        "anchor": "Valiant",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/628/"
+      },
+      {
+        "text": "The more scars a Braviary carries, its Pokédex entries say, the more respect it earns from the rest of its flock.",
+        "trait": "C",
+        "anchor": "scars",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Braviary_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Braviary fights for its friends without weighing the danger to itself, a loyalty its Pokédex entries state directly.",
+        "trait": "A",
+        "anchor": "friends",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/628/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/628/",
+      "https://bulbapedia.bulbagarden.net/wiki/Braviary_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 637,
+    "name": "Volcarona",
+    "showdown_id": "volcarona",
+    "genus": "Sun Pokémon",
+    "lean": "neutral",
+    "stage": "mature",
+    "ratings": {
+      "O": 3,
+      "C": 0,
+      "E": 1,
+      "A": 3,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries describe it as an embodiment of the sun, with ancient murals depicting it as a deity of fire, a grand, imaginative presence.",
+      "C": "Little in its entries ties Volcarona to routine, so it sits near the middle of the planning scale.",
+      "E": "Its entries describe a sea of fire around its battles as it scatters ember scales from six wings, a vivid, high-energy display.",
+      "A": "Legends in its Pokédex entries say it hatched from a flaming cocoon to save people and Pokémon suffering in a bitter cold winter, a protective, caring act.",
+      "S": "It is described as a steady, radiant presence during a crisis, providing warmth through an entire freezing season."
+    },
+    "personality": "Volcarona is said to have hatched from a burning cocoon to save people and Pokémon caught in a bitter winter, and time-worn murals depict it as a deity of fire. When it flies, six wings scatter burning scales, and some Pokédex entries say this is Volcarona trying to warm creatures suffering in the cold. People are said to have feared and revered it as the fire of the sun.",
+    "media": [
+      {
+        "title": "Pokémon Black and White (games)",
+        "note": "Hatches from an egg discovered deep in Relic Castle's desert after Larvesta is carried to warmth and safety."
+      }
+    ],
+    "community": "Volcarona has a strong reputation among competitive players for its Quiver Dance setup sweeps, and among lore fans for its role as a benevolent, sun-deity figure in Unova mythology.",
+    "why": [
+      {
+        "text": "Volcarona's genus, Sun Pokémon, points at Pokédex legends describing it as a deity that warmed people and Pokémon through a bitter winter.",
+        "trait": "O",
+        "anchor": "Sun Pokémon",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/637/"
+      },
+      {
+        "text": "Its Pokédex entries describe it rescuing people and Pokémon suffering in the cold, hatching from a burning cocoon to do it.",
+        "trait": "A",
+        "anchor": "cold",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Volcarona_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "As it flies, Volcarona scatters burning scales from all six wings, a bright, high-energy display its Pokédex entries describe directly.",
+        "trait": "E",
+        "anchor": "wings",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/637/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/637/",
+      "https://bulbapedia.bulbagarden.net/wiki/Volcarona_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 648,
+    "name": "Meloetta",
+    "showdown_id": "meloetta",
+    "genus": "Melody Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": 3,
+      "C": -1,
+      "E": 2,
+      "A": 1,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries say its melodies inspired many famous songs, an imaginative, artistic gift at the center of its design.",
+      "C": "Its entries describe performing wherever it likes instead of to a schedule, a free, unstructured habit.",
+      "E": "Its entries describe singing melodies that reach and move whole audiences, an outgoing, performance-focused temperament.",
+      "A": "Its ability to make listening Pokémon happy is described directly in its Pokédex entries, a gentle use of a powerful gift.",
+      "S": "Its entries say its melodies can shift a listener's mood in either direction, showing Meloetta reads and channels feelings closely."
+    },
+    "personality": "Meloetta sings with a special method that can shape the feelings of anyone who hears it, and many well-known songs are said to trace back to its melodies. It performs freely, following its own sense of the moment more than any set routine. Trainers who travel with Meloetta often describe a companion tuned closely to the mood of a room.",
+    "media": [
+      {
+        "title": "Pokémon the Movie: Kyurem vs. the Sword of Justice (2012)",
+        "note": "Meloetta travels alongside Ash and friends, playing music that reveals hidden truths within Pokémon hearts."
+      }
+    ],
+    "community": "Meloetta has a devoted fan base built around its music-and-dance gimmick and its two interchangeable formes, and it is often named as one of the more graceful mythical Pokémon designs.",
+    "why": [
+      {
+        "text": "Meloetta carries the genus Melody Pokémon, and its Pokédex entries credit its songs with inspiring many well-known melodies.",
+        "trait": "O",
+        "anchor": "Melody",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/648/"
+      },
+      {
+        "text": "Meloetta's melodies can shape the feelings of any Pokémon that hears them, a gentle kind of influence named directly in its Pokédex entries.",
+        "trait": "A",
+        "anchor": "feelings",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Meloetta_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Its melodies are sung with a method built to reach and move an entire audience at once, per its Pokédex entries.",
+        "trait": "E",
+        "anchor": "sung",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/648/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/648/",
+      "https://bulbapedia.bulbagarden.net/wiki/Meloetta_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 650,
+    "name": "Chespin",
+    "showdown_id": "chespin",
+    "genus": "Spiny Nut Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": -1,
+      "E": 2,
+      "A": 0,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries focus on practical armor and defense instead of curiosity, a grounded, down-to-earth streak.",
+      "C": "Entries describe quills that stay soft until flexed on the spot, a spontaneous readiness more than a planned defense.",
+      "E": "Anime portrayals of Chespin, including Clemont's, show a lively, food-motivated energy that pushes it into action quickly.",
+      "A": "Little in its entries points strongly toward either pole, so Chespin sits near the middle of the getting-along scale.",
+      "S": "Its Pokédex entries say a direct hit from a truck would not faze it, an extremely steady, unshaken temperament."
+    },
+    "personality": "Chespin wears a thick shell of wood over its head and back tough enough that a direct hit from a truck would not faze it. The quills on its head stay soft most of the time, but flexing them turns the points hard and sharp enough to pierce rock. In the animated series, Clemont's Chespin brings a lively, eager energy to every scene it is in.",
+    "media": [
+      {
+        "title": "Pokémon the Series: XY",
+        "note": "Clemont's Chespin joins his team early in his time in Kalos and grows into a headstrong, energetic Chesnaught."
+      }
+    ],
+    "community": "Chespin often gets picked as the starter for players who like a tanky, defense-first playstyle, and its wooden-armor design draws steady praise for standing out from the usual Grass-type mold.",
+    "why": [
+      {
+        "text": "Chespin carries the genus Spiny Nut Pokémon, its head quills able to flex from soft to sharp on the spot.",
+        "trait": "C",
+        "anchor": "Spiny Nut",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/650/"
+      },
+      {
+        "text": "A direct hit from a truck would not faze Chespin, according to its own Pokédex entry, a remarkably steady constitution.",
+        "trait": "S",
+        "anchor": "truck",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Chespin_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Chespin's thick shell of wood lets it shrug off hits and stay close to its Trainer's side without flinching.",
+        "trait": "A",
+        "anchor": "shell",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/650/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/650/",
+      "https://bulbapedia.bulbagarden.net/wiki/Chespin_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 653,
+    "name": "Fennekin",
+    "showdown_id": "fennekin",
+    "genus": "Fox Pokémon",
+    "lean": "feminine",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": 0,
+      "E": -1,
+      "A": 0,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries focus on practical snacking and temperature control instead of curiosity, a grounded, down-to-earth streak.",
+      "C": "Little in its entries points strongly toward either pole, so Fennekin sits near the middle of the planning scale.",
+      "E": "Its Pokédex entries describe intimidating opponents with a puff of hot air instead of an open, outgoing display, a more reserved approach.",
+      "A": "Little in its entries points strongly toward either pole, so Fennekin sits near the middle of the getting-along scale.",
+      "S": "Its Pokédex entries describe quick defensive reactions, puffing hot air the moment it feels threatened, a response that shows feelings early."
+    },
+    "personality": "Fennekin nibbles on a twig as it walks, and it gives Fennekin a burst of energy. Its large, roomy ears vent air hotter than 390 degrees Fahrenheit, and Fennekin uses that heat to intimidate anything that gets too close. In the animated series, Serena's Fennekin starts out a little uncertain before growing steadier with every battle.",
+    "media": [
+      {
+        "title": "Pokémon the Series: XY",
+        "note": "Serena chooses Fennekin as her first partner Pokémon, beginning a story that carries it through two more evolutions."
+      }
+    ],
+    "community": "Fennekin is a fan favorite starter thanks to its fox-like design and Serena's arc in the anime, and it remains one of the most requested Kalos starters among longtime players.",
+    "why": [
+      {
+        "text": "Fennekin munches on a twig as it walks, a small daily habit its Pokédex entries describe directly.",
+        "trait": "C",
+        "anchor": "twig",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/653/"
+      },
+      {
+        "text": "The instant it feels threatened, Fennekin vents air hotter than 390 degrees Fahrenheit from its ears, a fast, protective response.",
+        "trait": "S",
+        "anchor": "hot",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Fennekin_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Fennekin's genus, Fox Pokémon, points at Pokédex entries describing a sharp burst of energy from a single twig.",
+        "trait": "O",
+        "anchor": "Fox",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/653/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/653/",
+      "https://bulbapedia.bulbagarden.net/wiki/Fennekin_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 654,
+    "name": "Braixen",
+    "showdown_id": "braixen",
+    "genus": "Fox Pokémon",
+    "lean": "feminine",
+    "stage": "evolved",
+    "ratings": {
+      "O": 0,
+      "C": 1,
+      "E": 1,
+      "A": 1,
+      "S": 0
+    },
+    "rating_evidence": {
+      "O": "Little in its entries points strongly toward either pole, so Braixen sits near the middle of the imagination scale.",
+      "C": "Its Pokédex entries describe using the twig in its tail as a deliberate tool for battle and signaling, a purposeful, prepared habit.",
+      "E": "Its Pokédex entries describe launching into battle with fire drawn from its own tail, an active, engaged temperament.",
+      "A": "One entry says the flame from its tail is used to send signals to its allies, a cooperative, team-minded habit.",
+      "S": "Little in its entries points strongly toward either pole, so Braixen sits near the middle of the steadiness scale."
+    },
+    "personality": "Braixen keeps a twig tucked into its tail fur, and friction from that fur is enough to set the twig alight before battle. One Pokédex entry says the same flame doubles as a signal Braixen sends to its allies. In the animated series, Serena's Braixen grows into a sharp, capable battler during the Kalos League.",
+    "media": [
+      {
+        "title": "Pokémon the Series: XY",
+        "note": "Serena's Fennekin evolves into Braixen partway through her time in Kalos, becoming a key part of her battling team."
+      }
+    ],
+    "community": "Braixen gets steady praise for its unusual fire-from-a-wand fighting style, which stands out from most other Fire-type designs, and for its role in Serena's growth as a battler in the anime.",
+    "why": [
+      {
+        "text": "Braixen shares the genus Fox Pokémon with its evolutionary line, and Pokédex entries describe it lighting its own signal fire with a flick of its tail.",
+        "trait": "O",
+        "anchor": "Fox Pokémon",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/654/"
+      },
+      {
+        "text": "The flame from Braixen's tail doubles as a signal to its allies, a cooperative use of its own fire named in its Pokédex entry.",
+        "trait": "A",
+        "anchor": "allies",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Braixen_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Braixen launches straight into battle once the twig in its tail catches fire, an active, engaged style its Pokédex entry describes directly.",
+        "trait": "E",
+        "anchor": "battle",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/654/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/654/",
+      "https://bulbapedia.bulbagarden.net/wiki/Braixen_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 655,
+    "name": "Delphox",
+    "showdown_id": "delphox",
+    "genus": "Fox Pokémon",
+    "lean": "feminine",
+    "stage": "mature",
+    "ratings": {
+      "O": 3,
+      "C": 2,
+      "E": -1,
+      "A": 0,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries describe gazing into its own flame to reach a focused state that lets it see into the future, an imaginative, foresight-based gift.",
+      "C": "Its entries describe reaching that focused, future-seeing state through a deliberate ritual, a disciplined, prepared habit.",
+      "E": "Its Pokédex entries describe a calm, focused presence instead of an outgoing one, a quieter temperament.",
+      "A": "Little in its entries points strongly toward either pole, so Delphox sits near the middle of the getting-along scale.",
+      "S": "Its entries describe reaching a focused, meditative state before using its full power, a steady, composed temperament."
+    },
+    "personality": "Delphox gazes into the flame at the tip of its branch until it reaches a focused state that lets it see into the future. That same focus lets it generate a fiery vortex hot enough to sweep foes into a spin. In the animated series, Serena's Braixen evolves into a Delphox that carries the same calm, capable presence into every battle.",
+    "media": [
+      {
+        "title": "Pokémon the Series: XY",
+        "note": "Serena's Braixen evolves into Delphox, becoming her signature Pokémon for the remainder of her time in Kalos."
+      }
+    ],
+    "community": "Delphox is a fan favorite for its fox-and-fire-mage aesthetic, and Serena's arc in the anime made it one of the most recognized final starters from the Kalos generation.",
+    "why": [
+      {
+        "text": "Delphox gazes into its own branch-tip flame until it reaches a focused state that lets it see into the future, a gift its Pokédex entries describe directly.",
+        "trait": "O",
+        "anchor": "focused state",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/655/"
+      },
+      {
+        "text": "Generating a fiery vortex takes real discipline, and Delphox's Pokédex entries describe it as a deliberate, practiced power.",
+        "trait": "C",
+        "anchor": "vortex",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Delphox_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Its calm, focused ritual for seeing into the future is described in its Pokédex entries as a steady, composed process.",
+        "trait": "S",
+        "anchor": "future",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/655/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/655/",
+      "https://bulbapedia.bulbagarden.net/wiki/Delphox_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 656,
+    "name": "Froakie",
+    "showdown_id": "froakie",
+    "genus": "Bubble Frog Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": 0,
+      "C": -2,
+      "E": 1,
+      "A": -1,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Little in its entries points strongly toward either pole, so Froakie sits near the middle of the imagination scale.",
+      "C": "Its Pokédex entries describe a happy-go-lucky air, a carefree habit more than a scheduled one.",
+      "E": "Its entries describe a light, playful manner in how it carries itself day to day, an easygoing energy.",
+      "A": "Its entries describe keeping a watchful eye on its surroundings beneath a relaxed exterior, a guarded habit more than an open one.",
+      "S": "Its Pokédex entries describe bubbles that cushion it from damage, a protective habit that keeps it composed under attack."
+    },
+    "personality": "Froakie secretes flexible bubbles from its chest and back, and those bubbles cushion the damage it takes in a fight. Its Pokédex entries describe a happy-go-lucky air on the surface, paired with a watchful eye that never really switches off. In the animated series, Ash's Froakie carries that same quiet alertness before growing into one of his most memorable partners.",
+    "media": [
+      {
+        "title": "Pokémon the Series: XY",
+        "note": "Ash chooses Froakie as his starter Pokémon in Kalos, beginning a partnership that eventually reaches Ash-Greninja."
+      }
+    ],
+    "community": "Froakie has a strong fan base as one of the most requested starters to bring back, thanks to its role at Ash's side through Kalos and the unique bond mechanic tied to its final evolution.",
+    "why": [
+      {
+        "text": "Froakie carries the genus Bubble Frog Pokémon, and its Pokédex entries describe the bubbles on its body cushioning it from damage.",
+        "trait": "S",
+        "anchor": "Bubble Frog",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/656/"
+      },
+      {
+        "text": "Beneath a happy-go-lucky air, Froakie keeps a watchful eye on its surroundings, a detail named directly in its Pokédex entry.",
+        "trait": "A",
+        "anchor": "watchful",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Froakie_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Its happy-go-lucky air comes through in its Pokédex entries as a light, easygoing energy that carries into every encounter.",
+        "trait": "E",
+        "anchor": "happy-go-lucky",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/656/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/656/",
+      "https://bulbapedia.bulbagarden.net/wiki/Froakie_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 658,
+    "name": "Greninja",
+    "showdown_id": "greninja",
+    "genus": "Ninja Pokémon",
+    "lean": "masculine",
+    "stage": "evolved",
+    "ratings": {
+      "O": 1,
+      "C": 2,
+      "E": -2,
+      "A": -1,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries describe shaping compressed water into throwing stars, an inventive, precise use of its own body.",
+      "C": "Entries describe spinning and throwing its water stars at high speed with enough precision to split metal, a disciplined, practiced skill.",
+      "E": "Its Pokédex entries describe appearing and vanishing with a ninja's grace, a quiet, low-key presence instead of a loud one.",
+      "A": "Its entries describe toying with enemies using swift movements before striking, a self-directed style more than a cooperative one.",
+      "S": "Its Pokédex entries describe graceful, composed movement even in the middle of a fast-moving fight, an unshaken calm."
+    },
+    "personality": "Greninja creates throwing stars out of compressed water, spinning and hurling them fast enough to split metal in two. Its Pokédex entries describe it appearing and vanishing with a ninja's grace, slicing at opponents with the sharpest water it can form. In the animated series, Ash's Greninja reaches a rare bond form that lets the two share real battle instincts.",
+    "media": [
+      {
+        "title": "Pokémon the Series: XY",
+        "note": "Ash's Greninja reaches Ash-Greninja, a bond-driven form that carries the pair through the climactic battle against Alain."
+      }
+    ],
+    "community": "Greninja has one of the largest competitive followings of any starter final evolution, prized for its Protean ability and speed, and Ash-Greninja remains one of the anime's most talked-about story arcs.",
+    "why": [
+      {
+        "text": "Greninja carries the genus Ninja Pokémon, appearing and vanishing with a grace its Pokédex entries describe as genuinely composed.",
+        "trait": "S",
+        "anchor": "Ninja Pokémon",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/658/"
+      },
+      {
+        "text": "Its throwing stars, spun from compressed water, are precise enough to split metal, a skill its Pokédex entries credit to real practice.",
+        "trait": "C",
+        "anchor": "throwing stars",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Greninja_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Greninja appears and vanishes with a grace its Pokédex entries describe directly, turning ninja movement into something close to art.",
+        "trait": "O",
+        "anchor": "grace",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/658/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/658/",
+      "https://bulbapedia.bulbagarden.net/wiki/Greninja_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 669,
+    "name": "Flabébé",
+    "showdown_id": "flabebe",
+    "genus": "Single Bloom Pokémon",
+    "lean": "feminine",
+    "stage": "young",
+    "ratings": {
+      "O": 1,
+      "C": -1,
+      "E": -1,
+      "A": 2,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries describe searching until it finds a flower with the exact color and shape it wants, a particular, curious streak.",
+      "C": "Its entries describe floating and drifting with the wind instead of following any fixed plan, a go-with-the-flow habit.",
+      "E": "Its entries describe a quiet life spent with a single flower instead of time in a crowd, a low-key temperament.",
+      "A": "Its entries describe a crown made from collected pollen that carries hidden healing properties, a gentle, caring detail.",
+      "S": "Its entries describe floating in the wind's embrace with an untroubled heart, an unusually calm, steady temperament."
+    },
+    "personality": "Flabébé bonds with one flower and stays with it for as long as it lives, floating in the wind with what its Pokédex entries call an untroubled heart. If the flower is not quite right, Flabébé keeps traveling until it finds one with the exact color and shape it wants. It wears a crown of collected pollen that is said to carry hidden healing properties.",
+    "media": [
+      {
+        "title": "Pokémon X and Y (games)",
+        "note": "One of the first Fairy-type Pokémon most Trainers meet, found early in Santalune Forest."
+      }
+    ],
+    "community": "Flabébé is popular among players who like its gentle, flower-bonded design, and among collectors for the five different flower colors it can be found with in the wild.",
+    "why": [
+      {
+        "text": "Flabébé carries the genus Single Bloom Pokémon, and its Pokédex entries describe it searching until it finds a flower with just the color and shape it wants.",
+        "trait": "O",
+        "anchor": "Single Bloom",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/669/"
+      },
+      {
+        "text": "It floats in the wind's embrace with what its own Pokédex entry calls an untroubled heart, a picture of real calm.",
+        "trait": "S",
+        "anchor": "untroubled heart",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Flab%C3%A9b%C3%A9_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Flabébé wears a crown of collected pollen that its Pokédex entry says carries hidden healing properties, a gentle detail built into its design.",
+        "trait": "A",
+        "anchor": "crown",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/669/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/669/",
+      "https://bulbapedia.bulbagarden.net/wiki/Flab%C3%A9b%C3%A9_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 671,
+    "name": "Florges",
+    "showdown_id": "florges",
+    "genus": "Garden Pokémon",
+    "lean": "feminine",
+    "stage": "mature",
+    "ratings": {
+      "O": 1,
+      "C": 3,
+      "E": -1,
+      "A": 2,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries describe controlling the flowers it grows and drawing power from the beauty of flowering plants, an aesthetic, sensitive streak.",
+      "C": "Its entries describe a life that can span several hundred years devoted entirely to protecting one garden, an extremely organized, committed habit.",
+      "E": "Its entries describe claiming a single garden as its territory instead of roaming widely, a low-key, settled temperament.",
+      "A": "Its entries describe devoting its entire life to protecting the gardens in its care, a deeply caring, protective habit.",
+      "S": "Its entries describe centuries of steady, unbroken devotion to one place, a remarkably calm and enduring temperament."
+    },
+    "personality": "Florges claims a single flower garden as its territory and draws power from the flowering plants growing there. Its Pokédex entries say its life can span several hundred years, and it is said to devote that whole span to protecting its garden. In times long past, castle governors are said to have invited Florges in to help design and embellish their grounds.",
+    "media": [
+      {
+        "title": "Pokémon the Series: XY",
+        "note": "Valerie, the Laverre City Gym Leader, battles with Florges as her signature Fairy-type ace."
+      }
+    ],
+    "community": "Florges draws steady praise for its elegant, garden-guardian design and for Valerie's calm, graceful presence in both the games and the anime.",
+    "why": [
+      {
+        "text": "Florges carries the genus Garden Pokémon, and its Pokédex entries describe a life spanning several hundred years devoted to protecting its garden.",
+        "trait": "C",
+        "anchor": "Garden Pokémon",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/671/"
+      },
+      {
+        "text": "It draws power from the beauty of flowering plants around it, a sensitivity to its surroundings that its Pokédex entries describe directly.",
+        "trait": "O",
+        "anchor": "beauty",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Florges_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Castle governors of the past are said to have invited Florges in to help embellish their grounds, a caring, collaborative role its Pokédex entries describe.",
+        "trait": "A",
+        "anchor": "castle",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/671/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/671/",
+      "https://bulbapedia.bulbagarden.net/wiki/Florges_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 681,
+    "name": "Aegislash",
+    "showdown_id": "aegislash",
+    "genus": "Royal Sword Pokémon",
+    "lean": "neutral",
+    "stage": "mature",
+    "ratings": {
+      "O": 1,
+      "C": 3,
+      "E": -1,
+      "A": -2,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Its Pokédex entries describe detecting the innate qualities of leadership in a person, a perceptive, discerning kind of intelligence.",
+      "C": "Its entries describe generations of kings attended in strict royal order, a disciplined, tradition-bound habit.",
+      "E": "Its entries describe a formal, court-bound presence instead of a loud or crowd-seeking one, a low-key temperament.",
+      "A": "Its entries describe once directing people and Pokémon to build a kingdom to its liking, a strong-willed streak that holds firmly to its own view.",
+      "S": "Its entries describe a defensive stance using its steel body and a force field of spectral power to soften any attack, a composed, controlled temperament."
+    },
+    "personality": "Aegislash attended generations of kings, using its spectral power to guide and protect the courts it served. Its Pokédex entries say it can detect the innate qualities of leadership, and legend holds that whoever it recognizes is destined to become king. In its shield stance, Aegislash uses its steel body and a field of spectral power to soften the force of any attack.",
+    "media": [
+      {
+        "title": "Pokémon X and Y (games)",
+        "note": "Wikstrom, a member of the Kalos Elite Four with a knight motif, fields Aegislash as one of his signature Pokémon."
+      }
+    ],
+    "community": "Aegislash has a strong competitive reputation for its stance-switching playstyle, and its royal sword-and-shield design draws steady praise as one of the more original Steel-type concepts.",
+    "why": [
+      {
+        "text": "Aegislash carries the genus Royal Sword Pokémon, and its Pokédex entries describe generations of kings it attended in careful royal order.",
+        "trait": "C",
+        "anchor": "Royal Sword",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/681/"
+      },
+      {
+        "text": "Aegislash is said to detect the innate qualities of leadership in a person, an ability its Pokédex entries describe as a real, recognized gift.",
+        "trait": "O",
+        "anchor": "leadership",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Aegislash_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Aegislash steadies itself with a force field of spectral power in its defensive stance, softening the force of any attack that comes.",
+        "trait": "S",
+        "anchor": "spectral power",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/681/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/681/",
+      "https://bulbapedia.bulbagarden.net/wiki/Aegislash_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 700,
+    "name": "Sylveon",
+    "showdown_id": "sylveon",
+    "genus": "Intertwining Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": 1,
+      "C": 0,
+      "E": 1,
+      "A": 3,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "A Galarian fairy tale about Sylveon vanquishing a dragon is recorded in its Pokédex entries, a whimsical, imaginative bit of folklore built around it.",
+      "C": "Little in its entries points strongly toward either pole, so Sylveon sits near the middle of the planning scale.",
+      "E": "Its entries describe walking closely at its Trainer's side, wrapping a ribbon-like feeler around their arm, an affectionate, engaged habit.",
+      "A": "Its Pokédex entries describe sending a soothing aura from its feelers to calm fights and ease hostility, a deeply caring, peacemaking gift.",
+      "S": "Its entries describe restoring calm to quarrelers the instant its feelers wrap around them, an unusually steady, composed presence."
+    },
+    "personality": "Sylveon sends a soothing aura from its ribbon-like feelers that can calm a fight in progress. It wraps those same feelers around its Trainer's arm while walking, and its Pokédex entries say this touch lets Sylveon read its Trainer's feelings. A Galarian fairy tale even describes a Sylveon standing up to a dragon many times its size to protect the people around it.",
+    "media": [
+      {
+        "title": "Pokémon the Series: XY",
+        "note": "Serena's Eevee evolves into Sylveon partway through her time in Kalos, one of the anime's most fondly remembered evolution moments."
+      }
+    ],
+    "community": "Sylveon is a favorite among Eevee-line fans for its calming, ribbon-based design, and competitive players value its high Special Defense and access to Pixilate-boosted attacks.",
+    "why": [
+      {
+        "text": "Sylveon carries the genus Intertwining Pokémon, wrapping its ribbon-like feelers around its Trainer's arm as it walks beside them.",
+        "trait": "E",
+        "anchor": "Intertwining",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/700/"
+      },
+      {
+        "text": "It sends a soothing aura from its ribbon-like feelers that can calm a fight already in progress, a gift named directly in its Pokédex entries.",
+        "trait": "A",
+        "anchor": "soothing aura",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Sylveon_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "A Galarian fairy tale describes Sylveon standing calm and steady against a dragon many times its size, protecting everyone nearby.",
+        "trait": "S",
+        "anchor": "dragon",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/700/"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/700/",
+      "https://bulbapedia.bulbagarden.net/wiki/Sylveon_(Pok%C3%A9mon)"
+    ]
+  }
+]

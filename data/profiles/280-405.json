@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 280,
+    "name": "Ralts",
+    "showdown_id": "ralts",
+    "genus": "Feeling Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": 1,
+      "C": -1,
+      "E": -2,
+      "A": 3,
+      "S": -3
+    },
+    "rating_evidence": {
+      "O": "Ralts is drawn toward feelings other Pokémon give off, tracking happy moods the way its Pokédex entries describe.",
+      "C": "Ralts spends its early life following whatever mood is nearby rather than a set routine, true to an unevolved, instinct-led young Pokémon.",
+      "E": "Ralts keeps to tall grass and stays out of sight, the quiet habit Pokédex entries give the Feeling Pokémon.",
+      "A": "Ralts is said to approach people who are laughing and enjoying themselves, a Pokédex detail about its gentle draw toward happy company.",
+      "S": "Ralts reacts to the smallest shift in mood around it and moves away fast once it senses hostility, the sensitivity its Pokédex entries describe."
+    },
+    "personality": "Ralts is known as the Feeling Pokémon because it can sense emotions in the people and Pokémon around it. It is drawn toward laughter and calm moods, and it keeps itself hidden in tall grass to avoid drawing attention. When it senses hostility nearby, it moves away quickly to stay safe. Its whole way of living centers on reading feelings before anything else.",
+    "media": [
+      {
+        "title": "Pokémon Ruby and Sapphire, an early wild encounter on Route 102",
+        "note": "Ralts was introduced in the Hoenn games as one of the first Pokémon many trainers meet on their travels."
+      }
+    ],
+    "community": "Fans often describe Ralts as one of the gentlest early designs in the Hoenn Pokédex, and its emotion-sensing concept is regularly named as a favorite among Psychic-type starters to raise.",
+    "why": [
+      {
+        "text": "As the Feeling Pokémon, Ralts moves toward people and Pokémon who seem happy, drawn in by the calm mood they give off.",
+        "trait": "A",
+        "anchor": "Feeling",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Ralts_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Ralts notices the smallest shift in mood around it and moves to safety fast once it senses real hostility.",
+        "trait": "S",
+        "anchor": "Ralts",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/280/"
+      },
+      {
+        "text": "Ralts stays low in tall grass, content to watch the world from somewhere quiet.",
+        "trait": "E",
+        "anchor": "Ralts",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Ralts_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/280/",
+      "https://bulbapedia.bulbagarden.net/wiki/Ralts_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 281,
+    "name": "Kirlia",
+    "showdown_id": "kirlia",
+    "genus": "Emotion Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": 2,
+      "C": 0,
+      "E": 1,
+      "A": 2,
+      "S": -2
+    },
+    "rating_evidence": {
+      "O": "Kirlia is said to use a faint psychic power to sense events just before they happen, the Pokédex line about it dodging incoming attacks.",
+      "C": "Kirlia has no fixed routine yet, its Pokédex entries describing a young Pokémon still growing into its psychic power rather than following a set method.",
+      "E": "Kirlia dances and spins when it feels good, a behavior several Pokédex entries tie directly to its mood.",
+      "A": "Kirlia is described as happiest when the people close to it are happy, syncing its own mood to its trainer's.",
+      "S": "Kirlia is described as tearing up quickly if the mood around it turns heavy, a direct line from its Pokédex entries."
+    },
+    "personality": "Kirlia is the Emotion Pokémon, and its own mood follows the feelings of the people around it. When its trainer is happy, Kirlia dances and twirls with real joy. It has begun to develop a slight psychic power that lets it glimpse events just before they happen, which is how it dodges incoming attacks. It reacts fast and openly to whatever it senses.",
+    "media": [
+      {
+        "title": "Pokémon Ruby and Sapphire, evolves from Ralts starting at level 20",
+        "note": "A Kirlia often appears on a trainer's team partway through, on its way from Ralts to Gardevoir."
+      }
+    ],
+    "community": "Fans generally describe Kirlia as one of the more expressive mid-stage designs, and its dancing behavior gets attention in most fan discussion of the evolutionary line.",
+    "why": [
+      {
+        "text": "As the Emotion Pokémon, Kirlia is thought to use a faint psychic power to sense what is about to happen nearby.",
+        "trait": "O",
+        "anchor": "Emotion",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/281/"
+      },
+      {
+        "text": "Kirlia is quick to show what it feels, moving and spinning openly whenever its mood lifts.",
+        "trait": "E",
+        "anchor": "Kirlia",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Kirlia_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Kirlia stays closely tuned to the people it trusts, and its own mood tends to follow theirs.",
+        "trait": "A",
+        "anchor": "Kirlia",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Kirlia_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/281/",
+      "https://bulbapedia.bulbagarden.net/wiki/Kirlia_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 282,
+    "name": "Gardevoir",
+    "showdown_id": "gardevoir",
+    "genus": "Embrace Pokémon",
+    "lean": "feminine",
+    "stage": "mature",
+    "ratings": {
+      "O": 2,
+      "C": 1,
+      "E": -1,
+      "A": 3,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Gardevoir is said to bend space slightly around itself with its power, a trait several Pokédex entries link to its ability to sense coming danger.",
+      "C": "Gardevoir commits fully to protecting its trainer once the bond forms, the single-minded focus its Pokédex entries describe.",
+      "E": "Gardevoir keeps its distance from crowds and stays close to the one person it has bonded with, the quiet devotion the Pokédex describes.",
+      "A": "Gardevoir's Pokédex entries describe it as willing to use its full power, even at real cost to itself, to shield the trainer it has bonded with.",
+      "S": "Gardevoir moves with a composed, even grace under pressure, matching the calm the Pokédex uses to describe the Embrace Pokémon."
+    },
+    "personality": "Gardevoir is called the Embrace Pokémon for how completely it commits to the person it bonds with. Its Pokédex entries describe a Pokémon that will use every bit of its psychic power to shield that person from harm. It stays composed even when danger is close, and it is said to sense coming trouble before anyone else does. Its devotion, once formed, holds steady.",
+    "media": [
+      {
+        "title": "Pokémon X and Y, Champion Diantha's signature Mega Evolution",
+        "note": "Diantha's Gardevoir was among the first Mega Evolutions shown to the public in the games and the anime."
+      }
+    ],
+    "community": "Fans often point to Gardevoir as one of the designs that made Mega Evolution memorable, and its protective, devoted Pokédex personality is a big part of why it stays a favorite across generations.",
+    "why": [
+      {
+        "text": "As the Embrace Pokémon, Gardevoir is said to shield the person it has bonded with using the full reach of its power.",
+        "trait": "A",
+        "anchor": "Embrace",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/282/"
+      },
+      {
+        "text": "Gardevoir keeps a steady, even composure in moments that would rattle most other Pokémon.",
+        "trait": "S",
+        "anchor": "Gardevoir",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Gardevoir_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "The Embrace Pokémon is credited with a subtle sense for danger, often reacting to trouble before it fully arrives.",
+        "trait": "O",
+        "anchor": "Embrace",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Gardevoir_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/282/",
+      "https://bulbapedia.bulbagarden.net/wiki/Gardevoir_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Skitty",
+    "showdown_id": "skitty",
+    "genus": "Kitten Pokémon",
+    "lean": "feminine",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": -2,
+      "E": 3,
+      "A": 2,
+      "S": 0
+    },
+    "rating_evidence": {
+      "O": "Skitty's Pokédex entries describe it chasing anything that moves, including its own tail, more out of playful instinct than curiosity about how things work.",
+      "C": "Skitty famously chases its own tail and loses track of what it was doing, a running Pokédex detail about the Kitten Pokémon's attention.",
+      "E": "Skitty is written as wanting to play constantly, pouncing at anything nearby, the high-energy behavior several Pokédex entries describe.",
+      "A": "Skitty is friendly toward people almost immediately, a trait that made it a popular companion Pokémon for May in the anime.",
+      "S": "Skitty's Pokédex entries sit evenly between calm and excitable behavior, landing in the middle of the Steadiness scale."
+    },
+    "personality": "Skitty is the Kitten Pokémon, and it spends much of its time at play. It chases anything that catches its eye, including its own tail, and it can lose track of what it was doing in the middle of the chase. It warms up to people fast and enjoys being around them. Its energy for play rarely lets up.",
+    "media": [
+      {
+        "title": "Pokémon anime, Hoenn saga, May's Skitty",
+        "note": "May caught a Skitty early in her time in Hoenn and it became one of her most consistent teammates."
+      }
+    ],
+    "community": "Skitty is remembered fondly as one of the simplest, most approachable designs in the Hoenn Pokédex, and fans often bring it up as a comfort pick for newer players starting the games.",
+    "why": [
+      {
+        "text": "The Kitten Pokémon is always ready to play, pouncing on anything that moves within reach.",
+        "trait": "E",
+        "anchor": "Kitten",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/300/"
+      },
+      {
+        "text": "Skitty warms up to new people quickly, which made it a natural fit as a travel companion in the anime.",
+        "trait": "A",
+        "anchor": "Skitty",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Skitty_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Skitty chases its own tail with total commitment, circling again and again until something else catches its eye.",
+        "trait": "C",
+        "anchor": "Skitty",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Skitty_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/300/",
+      "https://bulbapedia.bulbagarden.net/wiki/Skitty_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 330,
+    "name": "Flygon",
+    "showdown_id": "flygon",
+    "genus": "Mystic Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": 1,
+      "C": 0,
+      "E": -1,
+      "A": 1,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Flygon is nicknamed 'The Elfin of the Desert' in Pokédex text, a mystique that plays into its Mystic Pokémon title.",
+      "C": "Flygon's Pokédex entries focus on its wings and the sandstorms they raise rather than any fixed routine, landing it near the middle of the Planning scale.",
+      "E": "Flygon lives apart from people in open desert, the solitary habitat several Pokédex entries give it.",
+      "A": "Flygon is said to guide travelers lost in a sandstorm back to safety, a kindness noted across several Pokédex entries.",
+      "S": "Flygon flies steadily through the sandstorms its own wings create, the composed image its Pokédex entries describe."
+    },
+    "personality": "Flygon is the Mystic Pokémon, and it lives in open desert far from people. The beat of its wings kicks up a sandstorm that hides it from view, part of why it earned the nickname 'The Elfin of the Desert.' Pokédex entries say that if a lost traveler sees a Flygon during a sandstorm, it may be guiding them back to safety.",
+    "media": [
+      {
+        "title": "Pokémon Ruby and Sapphire, found in the Hoenn desert region",
+        "note": "Flygon and its pre-evolutions are tied closely to Route 111's desert area in the Hoenn games."
+      }
+    ],
+    "community": "Flygon has a long-running fan base that still asks for a Mega Evolution it never received, and it is often named as one of the best-liked Ground and Dragon designs from Hoenn.",
+    "why": [
+      {
+        "text": "Flygon is said to guide lost travelers to safety when it appears to them in the open desert.",
+        "trait": "A",
+        "anchor": "desert",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Flygon_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "As the Mystic Pokémon, Flygon stays just out of sight, letting the sandstorm it raises do the hiding for it.",
+        "trait": "O",
+        "anchor": "Mystic",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/330/"
+      },
+      {
+        "text": "Flygon holds a steady course through the very sandstorms its wings create, unbothered by the swirling sand around it.",
+        "trait": "S",
+        "anchor": "Flygon",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Flygon_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/330/",
+      "https://bulbapedia.bulbagarden.net/wiki/Flygon_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 334,
+    "name": "Altaria",
+    "showdown_id": "altaria",
+    "genus": "Humming Pokémon",
+    "lean": "neutral",
+    "stage": "mature",
+    "ratings": {
+      "O": 2,
+      "C": -1,
+      "E": 0,
+      "A": 3,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Altaria's Pokédex entries describe a song that sounds like an angelic chorus, tying its Humming Pokémon title to real musical imagery.",
+      "C": "Altaria drifts among clouds rather than keeping to a fixed routine, the loose, floating habit its Pokédex entries describe.",
+      "E": "Altaria's Pokédex entries place it evenly between seeking company and staying apart, right in the middle of the Social energy scale.",
+      "A": "Altaria is said to sing a song that soothes anyone nearby, a gentle trait the Pokédex repeats for the Humming Pokémon.",
+      "S": "Altaria floats calmly on cloud-like feathers and keeps an even temperament, the serene image its Pokédex entries build."
+    },
+    "personality": "Altaria is the Humming Pokémon, known for a song that Pokédex entries compare to an angelic chorus. It drifts on clouds without a set routine, floating wherever the wind takes it. Its song is said to soothe anyone who hears it, and it carries a calm, even temperament through all of it.",
+    "media": [
+      {
+        "title": "Pokémon Emerald, part of Elite Four member Drake's team",
+        "note": "Drake, the Dragon-type Elite Four member of the Hoenn League, includes an Altaria among his Pokémon."
+      }
+    ],
+    "community": "Altaria is remembered as one of the gentler Dragon-type designs, and fans often cite its song and cloud-soft look as a favorite contrast to the usual fierce Dragon-type reputation.",
+    "why": [
+      {
+        "text": "As the Humming Pokémon, Altaria is said to sing a song that calms anyone nearby who hears it.",
+        "trait": "A",
+        "anchor": "Humming",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/334/"
+      },
+      {
+        "text": "Altaria drifts through the sky with an even, unhurried calm, at home among the clouds it resembles.",
+        "trait": "S",
+        "anchor": "Altaria",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Altaria_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "The Humming Pokémon carries a song admired enough that Pokédex writers compare it to a choir.",
+        "trait": "O",
+        "anchor": "Humming",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Altaria_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/334/",
+      "https://bulbapedia.bulbagarden.net/wiki/Altaria_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Milotic",
+    "showdown_id": "milotic",
+    "genus": "Tender Pokémon",
+    "lean": "neutral",
+    "stage": "mature",
+    "ratings": {
+      "O": 2,
+      "C": -1,
+      "E": -1,
+      "A": 2,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Milotic's Pokédex entries describe its elegant appearance as an inspiration for artists, tying directly to its Openness rating.",
+      "C": "Milotic drifts through deep water without a fixed routine, the loose, graceful habit its Pokédex entries describe rather than any set schedule.",
+      "E": "Milotic stays hidden in deep lakes and is rarely seen, the reclusive habitat its Pokédex entries describe.",
+      "A": "Milotic is said to calm troubled hearts with its presence, a Pokédex line tied directly to the Tender Pokémon's name.",
+      "S": "Milotic is treated in the Pokédex as one of the calmest Pokémon in the water, moving with an unshaken grace."
+    },
+    "personality": "Milotic is the Tender Pokémon, and Pokédex entries call it one of the most beautiful Pokémon of all. It lives in deep water and stays out of sight most of the time. Its presence is said to calm troubled hearts, and its own manner stays even and graceful no matter what is happening around it.",
+    "media": [
+      {
+        "title": "Pokémon Emerald, Champion Wallace's signature Pokémon",
+        "note": "Wallace, first a Gym Leader and later the Hoenn Champion, is known throughout the games for his Milotic."
+      }
+    ],
+    "community": "Milotic regularly places near the top of fan polls for most beautiful Pokémon design, and its calm, soothing Pokédex reputation is usually named as part of the appeal alongside its look.",
+    "why": [
+      {
+        "text": "As the Tender Pokémon, Milotic is said to calm troubled hearts simply by being near them.",
+        "trait": "A",
+        "anchor": "Tender",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/350/"
+      },
+      {
+        "text": "Milotic's elegant form has been cited in its own Pokédex entries as an inspiration for artists.",
+        "trait": "O",
+        "anchor": "Milotic",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Milotic_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Milotic keeps an unshaken, graceful calm even in the deep water it calls home.",
+        "trait": "S",
+        "anchor": "Milotic",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Milotic_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/350/",
+      "https://bulbapedia.bulbagarden.net/wiki/Milotic_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 359,
+    "name": "Absol",
+    "showdown_id": "absol",
+    "genus": "Disaster Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": 1,
+      "C": 1,
+      "E": -2,
+      "A": 2,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Absol's keen senses pick up shifts in the air and ground that others miss, the perceptive trait its Pokédex entries give the Disaster Pokémon.",
+      "C": "Absol comes down from its mountain home with clear purpose whenever it senses trouble, a focused habit repeated across its Pokédex entries.",
+      "E": "Absol lives apart from people in mountain terrain and is rarely seen outside the moments tied to its warnings, the reclusive life its Pokédex entries describe.",
+      "A": "Absol's Pokédex entries explain that it descends from the mountains to warn people of coming disaster, a caring act at the center of its whole design.",
+      "S": "Absol moves toward danger rather than away from it when it senses trouble coming, staying composed at the moment other Pokémon would scatter."
+    },
+    "personality": "Absol is the Disaster Pokémon, and its Pokédex entries say it can sense a coming disaster before anyone else. It leaves its mountain home and comes down to warn people when it feels trouble approaching. People once read its appearance itself as a bad sign, when it was really trying to help. It stays calm and purposeful even as danger closes in.",
+    "media": [
+      {
+        "title": "Pokémon X and Y, one of the first Mega Evolutions revealed for the series",
+        "note": "Mega Absol was shown early in the Kalos generation's Mega Evolution reveals."
+      }
+    ],
+    "community": "Absol has a strong following among fans who like how its Pokédex story turns the usual omen idea around, since the Disaster Pokémon is really trying to protect people.",
+    "why": [
+      {
+        "text": "As the Disaster Pokémon, Absol leaves its mountain home to warn people when it senses trouble coming, a protective act at its core.",
+        "trait": "A",
+        "anchor": "Disaster",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/359/"
+      },
+      {
+        "text": "Absol moves toward danger rather than away from it, staying composed at the exact moment other Pokémon scatter.",
+        "trait": "S",
+        "anchor": "Absol",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Absol_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Absol's senses pick up changes in the air and ground long before people notice anything is different.",
+        "trait": "O",
+        "anchor": "Absol",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Absol_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/359/",
+      "https://bulbapedia.bulbagarden.net/wiki/Absol_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 376,
+    "name": "Metagross",
+    "showdown_id": "metagross",
+    "genus": "Iron Leg Pokémon",
+    "lean": "neutral",
+    "stage": "mature",
+    "ratings": {
+      "O": 2,
+      "C": 4,
+      "E": -2,
+      "A": -1,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Metagross's four linked brains are described in the Pokédex as making it smarter than a supercomputer, a direct link to its Openness rating.",
+      "C": "Metagross is the pool's textbook example of Planning, with Pokédex entries describing calculations precise enough to solve any problem it is given.",
+      "E": "Metagross keeps to remote mountain caves away from people, the isolated habitat its Pokédex entries describe for the Iron Leg Pokémon.",
+      "A": "Metagross solves problems on its own terms using its own four brains, the self-directed process its Pokédex entries describe rather than a group effort.",
+      "S": "Metagross approaches every problem with the same even, methodical calm, the composed process its Pokédex entries describe."
+    },
+    "personality": "Metagross is the Iron Leg Pokémon, built around four linked brains that Pokédex entries say make it smarter than a supercomputer. It works through problems with total precision, calculating each solution instead of guessing. It keeps to remote mountain caves, away from people, and works through its own decisions on its own instinct. Nothing about how it solves a problem is rushed.",
+    "media": [
+      {
+        "title": "Pokémon Ruby and Sapphire, Champion Steven Stone's signature Pokémon",
+        "note": "Steven Stone, the Champion of the Hoenn League, is known throughout the games for his Metagross."
+      }
+    ],
+    "community": "Metagross is a longtime fan favorite for competitive play and is often named as one of the most mechanically interesting Pokémon designs, built entirely around the idea of a calculating mind.",
+    "why": [
+      {
+        "text": "The Iron Leg Pokémon is built around calculation precise enough that Pokédex entries call it smarter than a supercomputer.",
+        "trait": "C",
+        "anchor": "Iron",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/376/"
+      },
+      {
+        "text": "Metagross works through even the hardest problem with the same even, unhurried calm.",
+        "trait": "S",
+        "anchor": "Metagross",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Metagross_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Metagross links four separate brains together, giving it a reach for solving problems that few other Pokémon can match.",
+        "trait": "O",
+        "anchor": "Metagross",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Metagross_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/376/",
+      "https://bulbapedia.bulbagarden.net/wiki/Metagross_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 380,
+    "name": "Latias",
+    "showdown_id": "latias",
+    "genus": "Eon Pokémon",
+    "lean": "feminine",
+    "stage": "evolved",
+    "ratings": {
+      "O": 2,
+      "C": -1,
+      "E": -1,
+      "A": 3,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Latias can bend light around its body to change its shape, the ability at the center of its role in Pokémon Heroes.",
+      "C": "Latias reacts to each moment as it comes rather than following a fixed plan, the flexible nature its movie appearance shows.",
+      "E": "Latias keeps close to the small circle of people it trusts and stays wary of strangers, the shy behavior shown throughout Pokémon Heroes.",
+      "A": "Latias protects the city of Altomare and the people in it at real risk to itself, the devotion central to its role in Pokémon Heroes.",
+      "S": "Latias reacts to danger with visible, immediate feeling rather than staying detached from it, the emotional openness Pokémon Heroes gives it."
+    },
+    "personality": "Latias is the Eon Pokémon, and it can bend light around itself to change how it looks. In Pokémon Heroes, it protects the city of Altomare and the people close to it, even at real risk to itself. It stays wary of strangers until it trusts them, and it shows what it feels openly instead of holding it back.",
+    "media": [
+      {
+        "title": "Pokémon Heroes: Latios & Latias (2003)",
+        "note": "Latias is one of the two central Pokémon of the film, protecting the city of Altomare."
+      }
+    ],
+    "community": "Latias is remembered fondly for Pokémon Heroes and is often named alongside Latios as one of the more emotionally grounded legendary designs, with a devoted, protective personality fans point to often.",
+    "why": [
+      {
+        "text": "In Pokémon Heroes, Latias protects the city of Altomare and the people who live there at real risk to itself.",
+        "trait": "A",
+        "anchor": "Heroes",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/380/"
+      },
+      {
+        "text": "As one half of the Eon Pokémon pair, Latias can bend light around its body to change its own shape.",
+        "trait": "O",
+        "anchor": "Eon",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Latias_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Latias shows what it feels openly, reacting to danger and to the people it loves without holding anything back.",
+        "trait": "S",
+        "anchor": "Latias",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Latias_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/380/",
+      "https://bulbapedia.bulbagarden.net/wiki/Latias_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 381,
+    "name": "Latios",
+    "showdown_id": "latios",
+    "genus": "Eon Pokémon",
+    "lean": "masculine",
+    "stage": "evolved",
+    "ratings": {
+      "O": 2,
+      "C": 1,
+      "E": 0,
+      "A": 3,
+      "S": 0
+    },
+    "rating_evidence": {
+      "O": "Latios shares Latias's ability to bend light and change its shape, the Eon Pokémon trait central to their movie appearance.",
+      "C": "Latios commits fully to protecting Altomare once he takes on the role, the focused resolve Pokémon Heroes gives him.",
+      "E": "Latios's role in Pokémon Heroes centers on protecting a place rather than seeking out people or avoiding them, landing him near the middle of the Social energy scale.",
+      "A": "Latios gives his own life to protect Bianca and the city of Altomare in Pokémon Heroes, the clearest example of its devotion in the whole film.",
+      "S": "Latios stays composed through most of Pokémon Heroes, though the film also shows him reacting with real feeling when the people he protects are threatened."
+    },
+    "personality": "Latios is the Eon Pokémon, and like Latias, he can bend light around himself to change his shape. In Pokémon Heroes, he takes on the job of protecting the city of Altomare, and in the end he gives his own life to save Bianca and the people there. He stays composed through most of the film, but he clearly feels what is happening around him.",
+    "media": [
+      {
+        "title": "Pokémon Heroes: Latios & Latias (2003)",
+        "note": "Latios gives his life near the end of the film to save Altomare."
+      }
+    ],
+    "community": "Latios is remembered as one of the more emotional legendary Pokémon moments in the anime films, and fans often cite his sacrifice in Pokémon Heroes as one of the series' most moving scenes.",
+    "why": [
+      {
+        "text": "In Pokémon Heroes, Latios gives his own life to save the city of Altomare and the people he has come to protect.",
+        "trait": "A",
+        "anchor": "Heroes",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/381/"
+      },
+      {
+        "text": "As one half of the Eon Pokémon pair, Latios can bend light around his body just as Latias can.",
+        "trait": "O",
+        "anchor": "Eon",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Latios_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Latios commits fully to the role of protecting Altomare once he takes it on, seeing it through to the end.",
+        "trait": "C",
+        "anchor": "Latios",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Latios_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/381/",
+      "https://bulbapedia.bulbagarden.net/wiki/Latios_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 384,
+    "name": "Rayquaza",
+    "showdown_id": "rayquaza",
+    "genus": "Sky High Pokémon",
+    "lean": "neutral",
+    "stage": "mature",
+    "ratings": {
+      "O": 1,
+      "C": 1,
+      "E": -3,
+      "A": -1,
+      "S": 4
+    },
+    "rating_evidence": {
+      "O": "Rayquaza's Pokédex entries say little is known about its life in the ozone layer, keeping a mystery around the Sky High Pokémon.",
+      "C": "Rayquaza commits fully to stopping conflict once it acts, the decisive intervention its Pokédex entries and Pokémon Emerald's story both describe.",
+      "E": "Rayquaza lives alone in the ozone layer for hundreds of years at a time, the extreme solitude its Pokédex entries describe for the Sky High Pokémon.",
+      "A": "Rayquaza settles the fight between Kyogre and Groudon on its own terms rather than working alongside anyone, the independent authority its Pokémon Emerald role gives it.",
+      "S": "Rayquaza is treated across its Pokédex entries and Pokémon Emerald's story as unshaken by anything, calm enough to face down two other legendary Pokémon at once."
+    },
+    "personality": "Rayquaza is the Sky High Pokémon, and it lives alone in the ozone layer for hundreds of years at a stretch. Pokédex entries and Pokémon Emerald's story both describe it coming down only when Kyogre and Groudon fight, settling the conflict on its own terms. It stays unshaken through the whole confrontation, calm enough to face two other legendary Pokémon at once.",
+    "media": [
+      {
+        "title": "Pokémon Emerald, central to the story's resolution between Kyogre and Groudon",
+        "note": "Rayquaza's descent to stop the Kyogre and Groudon conflict is the climax of Pokémon Emerald's story."
+      }
+    ],
+    "community": "Rayquaza is widely ranked among fans as one of the most powerful and most respected legendary designs, and its role calming Kyogre and Groudon in Emerald is often named as a highlight of the Hoenn story.",
+    "why": [
+      {
+        "text": "The Sky High Pokémon stays unshaken even while stepping between two other legendary Pokémon locked in conflict.",
+        "trait": "S",
+        "anchor": "Sky",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/384/"
+      },
+      {
+        "text": "Rayquaza settles the fight between Kyogre and Groudon on its own terms, restoring balance to the region below.",
+        "trait": "A",
+        "anchor": "Rayquaza",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Rayquaza_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Rayquaza spends most of its long life alone in the ozone layer, far above the world it occasionally comes down to protect.",
+        "trait": "E",
+        "anchor": "Rayquaza",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Rayquaza_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/384/",
+      "https://bulbapedia.bulbagarden.net/wiki/Rayquaza_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 385,
+    "name": "Jirachi",
+    "showdown_id": "jirachi",
+    "genus": "Wish Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": 2,
+      "C": -1,
+      "E": 1,
+      "A": 3,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Jirachi's Pokédex entries describe it recording everything it senses during its brief waking days into the wish it eventually grants, a strong tie to Openness.",
+      "C": "Jirachi wakes for only seven days every thousand years, an unusual, irregular rhythm its Pokédex entries describe.",
+      "E": "Jirachi is shown playing and interacting openly with people during its short waking period in Jirachi: Wish Maker, rather than staying withdrawn.",
+      "A": "Jirachi grants wishes for the people around it and steps in to protect its friends in Jirachi: Wish Maker, the generous core of its whole design.",
+      "S": "Jirachi stays gentle and even-tempered through the film Jirachi: Wish Maker, even once real danger enters the story."
+    },
+    "personality": "Jirachi is the Wish Pokémon, known for waking only once every thousand years, for just seven days at a time. In Jirachi: Wish Maker, it plays openly with the people it meets and works to grant a wish for someone it has come to care about. Its whole design centers on generosity, given freely during the short time it is awake.",
+    "media": [
+      {
+        "title": "Jirachi: Wish Maker (2003)",
+        "note": "Jirachi is the title Pokémon of the film, waking for its seven days to help a child named Rin."
+      }
+    ],
+    "community": "Jirachi is remembered fondly by longtime fans as one of the gentler mythical Pokémon, and its film Jirachi: Wish Maker is often named as one of the more heartfelt entries in the movie series.",
+    "why": [
+      {
+        "text": "As the Wish Pokémon, Jirachi spends its short waking days looking for a genuine wish it can help grant.",
+        "trait": "A",
+        "anchor": "Wish",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/385/"
+      },
+      {
+        "text": "Jirachi is said to record everything it senses while awake, weaving it into the wish it eventually grants.",
+        "trait": "O",
+        "anchor": "Jirachi",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Jirachi_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Jirachi keeps a gentle, even temperament in Jirachi: Wish Maker even once real danger enters the story.",
+        "trait": "S",
+        "anchor": "Jirachi",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Jirachi_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/385/",
+      "https://bulbapedia.bulbagarden.net/wiki/Jirachi_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 387,
+    "name": "Turtwig",
+    "showdown_id": "turtwig",
+    "genus": "Tiny Leaf Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": 1,
+      "E": -1,
+      "A": 1,
+      "S": 2
+    },
+    "rating_evidence": {
+      "O": "Turtwig's Pokédex entries focus on practical facts like photosynthesis and shell growth rather than curiosity, a grounded, straightforward design.",
+      "C": "Turtwig's shell hardens and grows in a steady, gradual pattern as it drinks and grows, the developmental process its Pokédex entries describe.",
+      "E": "Turtwig keeps to quiet forest and water edges rather than seeking crowds, the calm habitat its Pokédex entries describe.",
+      "A": "Turtwig is a gentle starter companion in the Sinnoh games, known in the anime as a steady, dependable member of Ash's team.",
+      "S": "Turtwig bathes its leaf in sunlight to recharge and stays even-tempered through it, the calm, grounded image its Pokédex entries build."
+    },
+    "personality": "Turtwig is the Tiny Leaf Pokémon, and much of its life centers on the leaf growing from its head. It bathes that leaf in sunlight to fuel itself through photosynthesis, staying calm and grounded through the process. It keeps to quiet forest and water edges, away from crowds. As Ash's starter in the Sinnoh games, it grew into a steady, dependable teammate.",
+    "media": [
+      {
+        "title": "Pokémon Diamond and Pearl anime, Ash's starter Pokémon in Sinnoh",
+        "note": "Ash chose Turtwig as his starter at the beginning of the Sinnoh saga, and it later evolved into Torterra."
+      }
+    ],
+    "community": "Turtwig is often named by fans as one of the most approachable Sinnoh starters, valued for its grounded, dependable Pokédex personality as much as for its design.",
+    "why": [
+      {
+        "text": "The Tiny Leaf Pokémon recharges by bathing its leaf in sunlight, staying calm and even through the whole process.",
+        "trait": "S",
+        "anchor": "leaf",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/387/"
+      },
+      {
+        "text": "Turtwig grew into a steady, dependable teammate for Ash across the Sinnoh saga.",
+        "trait": "A",
+        "anchor": "Turtwig",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Turtwig_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Turtwig keeps to quiet forest and water edges, content away from any crowd.",
+        "trait": "E",
+        "anchor": "Turtwig",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Turtwig_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/387/",
+      "https://bulbapedia.bulbagarden.net/wiki/Turtwig_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 389,
+    "name": "Torterra",
+    "showdown_id": "torterra",
+    "genus": "Continent Pokémon",
+    "lean": "neutral",
+    "stage": "mature",
+    "ratings": {
+      "O": -1,
+      "C": 1,
+      "E": -2,
+      "A": -1,
+      "S": 4
+    },
+    "rating_evidence": {
+      "O": "Torterra's Pokédex entries focus on the small ecosystem living on its back rather than curiosity about the wider world, a grounded, practical design.",
+      "C": "Torterra carries a stable, standing ecosystem on its back that other Pokémon rely on staying in place, the steady commitment its Pokédex entries describe.",
+      "E": "Torterra moves through the wild largely on its own, the solitary presence several Pokédex entries give the Continent Pokémon.",
+      "A": "Torterra holds its ground and keeps its territory from being disturbed, protecting the small Pokémon living on its back by standing firm rather than backing away.",
+      "S": "Torterra is the pool's textbook example of Steadiness, with Pokédex entries describing small Pokémon that live and rest safely on its back without it ever being troubled."
+    },
+    "personality": "Torterra is the Continent Pokémon, carrying its own small ecosystem of trees and rocks on its back. Smaller Pokémon live and rest there, safe because Torterra stays so unshaken by the world around it. It moves through the wild largely on its own and holds its ground firmly when its territory is challenged. Nothing seems to trouble it for long.",
+    "media": [
+      {
+        "title": "Pokémon Diamond and Pearl anime, Ash's Turtwig evolved into Torterra during the Sinnoh League",
+        "note": "Ash's Torterra became one of his most powerful Sinnoh teammates, competing at the Sinnoh League."
+      }
+    ],
+    "community": "Torterra is often named by fans as one of the best final starter designs for how completely the walking-ecosystem idea comes together, and its calm, protective Pokédex reputation adds to that.",
+    "why": [
+      {
+        "text": "The Continent Pokémon carries its own small ecosystem on its back, staying unshaken enough that smaller Pokémon live there safely.",
+        "trait": "S",
+        "anchor": "Continent",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/389/"
+      },
+      {
+        "text": "Torterra holds its ground firmly when its territory is challenged, standing between danger and the small Pokémon that live on its back.",
+        "trait": "A",
+        "anchor": "Torterra",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Torterra_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Torterra moves through the wild largely on its own, carrying its whole small world along with it.",
+        "trait": "E",
+        "anchor": "Torterra",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Torterra_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/389/",
+      "https://bulbapedia.bulbagarden.net/wiki/Torterra_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 390,
+    "name": "Chimchar",
+    "showdown_id": "chimchar",
+    "genus": "Chimp Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": -1,
+      "C": -2,
+      "E": 2,
+      "A": 1,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Chimchar's Pokédex entries focus on the flame on its tail and its quick movement through trees rather than curiosity about ideas, a practical, instinct-driven design.",
+      "C": "Chimchar swings through trees chasing whatever catches its attention next, the playful, unplanned habit its Pokédex entries describe.",
+      "E": "Chimchar is shown as energetic and quick to move in the anime, swinging and climbing constantly rather than staying still.",
+      "A": "Chimchar bonded closely with Ash after a difficult start with a previous trainer, growing into a loyal, trusting teammate.",
+      "S": "Chimchar's tail flame is said to flicker with its feelings, the emotional openness several Pokédex entries give the Chimp Pokémon."
+    },
+    "personality": "Chimchar is the Chimp Pokémon, always swinging and climbing through trees with real energy. The flame on its tail is said to flicker along with what it feels, staying lit even through rain when it is truly at ease. In the anime, it had a difficult start with a previous trainer before bonding closely with Ash and growing into a loyal teammate.",
+    "media": [
+      {
+        "title": "Pokémon Diamond and Pearl anime, released by Paul before joining Ash's team",
+        "note": "Chimchar was released by its first trainer, Paul, before Ash caught it and it later evolved into Infernape."
+      }
+    ],
+    "community": "Chimchar's story in the anime, moving from a difficult first partnership to a strong bond with Ash, is one fans still bring up as one of the more emotional starter arcs in the series.",
+    "why": [
+      {
+        "text": "Chimchar's tail flame is said to flicker along with its own feelings, burning steadiest when it is genuinely at ease.",
+        "trait": "S",
+        "anchor": "Chimchar",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/390/"
+      },
+      {
+        "text": "Chimchar grew from a difficult first partnership into a loyal, trusting teammate once it bonded with Ash.",
+        "trait": "A",
+        "anchor": "Chimchar",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Chimchar_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "The Chimp Pokémon rarely sits still, swinging and climbing through trees with steady energy.",
+        "trait": "E",
+        "anchor": "Chimp",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Chimchar_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/390/",
+      "https://bulbapedia.bulbagarden.net/wiki/Chimchar_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 392,
+    "name": "Infernape",
+    "showdown_id": "infernape",
+    "genus": "Flame Pokémon",
+    "lean": "masculine",
+    "stage": "evolved",
+    "ratings": {
+      "O": -1,
+      "C": 1,
+      "E": 2,
+      "A": -1,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Infernape's Pokédex entries lean toward practical fighting instinct rather than curiosity about ideas, keeping its Openness rating on the low side.",
+      "C": "Infernape trains its fighting technique with real discipline, the focused practice its Pokédex entries and its anime battles both describe.",
+      "E": "Infernape fights with dramatic, high-energy technique in the anime, closing distance fast and pressing every advantage.",
+      "A": "Infernape trusts its own read of a battle and sometimes acts on its own instinct rather than waiting on instruction, the independent streak the anime gives it.",
+      "S": "Infernape's flame burns hotter the more intensely it feels a battle, the emotional charge several Pokédex entries give the Flame Pokémon."
+    },
+    "personality": "Infernape is the Flame Pokémon, built around a fighting style that Pokédex entries compare to a trained martial artist. As Ash's Sinnoh partner, it battled with real intensity and pressed every advantage it found in a fight. It trusts its own read of a battle and sometimes acts on instinct instead of waiting for direction. Its flame burns brightest in the moments it feels a fight most.",
+    "media": [
+      {
+        "title": "Pokémon Diamond and Pearl anime, Ash's evolved Chimchar",
+        "note": "Infernape was Ash's most powerful Sinnoh teammate, headlining several of his toughest League battles."
+      }
+    ],
+    "community": "Infernape is frequently ranked by fans among the best-designed starter finals, both for its fighting-game inspired stance and for how central it was to Ash's run through the Sinnoh League.",
+    "why": [
+      {
+        "text": "The Flame Pokémon fights with real intensity, closing the distance fast and pressing every advantage it finds.",
+        "trait": "E",
+        "anchor": "Flame",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/392/"
+      },
+      {
+        "text": "Infernape trusts its own read of a battle, sometimes acting on instinct instead of waiting for a signal.",
+        "trait": "A",
+        "anchor": "Infernape",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Infernape_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Infernape trains its fighting technique with real discipline, sharpening a style Pokédex entries compare to a martial artist.",
+        "trait": "C",
+        "anchor": "Infernape",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Infernape_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/392/",
+      "https://bulbapedia.bulbagarden.net/wiki/Infernape_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 393,
+    "name": "Piplup",
+    "showdown_id": "piplup",
+    "genus": "Penguin Pokémon",
+    "lean": "neutral",
+    "stage": "young",
+    "ratings": {
+      "O": 0,
+      "C": 0,
+      "E": 1,
+      "A": -2,
+      "S": -1
+    },
+    "rating_evidence": {
+      "O": "Piplup's Pokédex entries focus on its pride and its cold-water habitat rather than curiosity, keeping it near the middle of the Openness scale.",
+      "C": "Piplup's Pokédex entries sit near the middle of the Planning scale, showing only a mild pull in either direction.",
+      "E": "Piplup reacts loudly and visibly in the anime, especially when it loses a battle or a contest.",
+      "A": "Piplup is known across the anime for turning down help and insisting on doing things itself, the proud independence central to Dawn's Piplup.",
+      "S": "Piplup shows its feelings openly and dramatically, reacting fast to both wins and losses in the anime."
+    },
+    "personality": "Piplup is the Penguin Pokémon, and Dawn's Piplup in the anime is known for its pride. It insists on doing things by itself and often turns down help, even when the help would make things easier. It reacts to wins and losses openly, holding little back. That same pride is also part of what kept it from evolving throughout the whole series.",
+    "media": [
+      {
+        "title": "Pokémon Diamond and Pearl anime, Dawn's starter Pokémon",
+        "note": "Dawn's Piplup is famous among fans for staying a Piplup the entire series, turning down every chance to evolve."
+      }
+    ],
+    "community": "Piplup's independent streak and its choice to stay unevolved are frequently cited by fans as one of the more memorable running storylines to come out of the Sinnoh anime.",
+    "why": [
+      {
+        "text": "Piplup insists on doing things by itself, turning down help even when the help would make a task easier.",
+        "trait": "A",
+        "anchor": "Piplup",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/393/"
+      },
+      {
+        "text": "The Penguin Pokémon reacts openly and loudly, especially in the moment right after a win or a loss.",
+        "trait": "E",
+        "anchor": "Penguin",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Piplup_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Piplup shows exactly what it feels in the moment, holding little back after either a win or a loss.",
+        "trait": "S",
+        "anchor": "Piplup",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Piplup_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/393/",
+      "https://bulbapedia.bulbagarden.net/wiki/Piplup_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 395,
+    "name": "Empoleon",
+    "showdown_id": "empoleon",
+    "genus": "Emperor Pokémon",
+    "lean": "masculine",
+    "stage": "mature",
+    "ratings": {
+      "O": -1,
+      "C": 2,
+      "E": -1,
+      "A": -1,
+      "S": 3
+    },
+    "rating_evidence": {
+      "O": "Empoleon's Pokédex entries focus on its command of its colony and the strength of its wings rather than curiosity, a practical, grounded design.",
+      "C": "Empoleon's wings are precise enough to slice through icebergs, the disciplined precision its Pokédex entries give the Emperor Pokémon.",
+      "E": "Empoleon stays composed and dignified rather than seeking attention, the reserved bearing its Pokédex entries describe.",
+      "A": "Empoleon takes direct command of its colony when a fight becomes necessary, the leading-from-the-front independence its Pokédex entries describe.",
+      "S": "Empoleon carries itself with a steady, composed dignity even when leading its colony into a real fight."
+    },
+    "personality": "Empoleon is the Emperor Pokémon, and its Pokédex entries describe wings sharp enough to slice through icebergs. It takes direct command of its colony whenever real trouble arrives, leading from the front instead of staying back. Its whole bearing stays composed and dignified, even in the middle of a fight. Little about it looks rushed or unsettled.",
+    "media": [
+      {
+        "title": "Pokémon Diamond and Pearl, final evolution of the Sinnoh starter Piplup",
+        "note": "Empoleon is the form Piplup reaches at level 36, prized in the games for its Water and Steel typing."
+      }
+    ],
+    "community": "Empoleon is often named by fans as one of the strongest-looking final starters, and its regal, commanding Pokédex reputation is usually part of why it gets picked for a team.",
+    "why": [
+      {
+        "text": "The Emperor Pokémon wields wings precise enough to cut through icebergs, a level of control its Pokédex text spells out plainly.",
+        "trait": "C",
+        "anchor": "Emperor",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/395/"
+      },
+      {
+        "text": "Empoleon takes direct command of its colony the moment real trouble arrives, leading from the front instead of hanging back.",
+        "trait": "A",
+        "anchor": "Empoleon",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Empoleon_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Empoleon carries a steady, composed dignity into a fight, rarely looking rushed even when its colony is at stake.",
+        "trait": "S",
+        "anchor": "Empoleon",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Empoleon_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/395/",
+      "https://bulbapedia.bulbagarden.net/wiki/Empoleon_(Pok%C3%A9mon)"
+    ]
+  },
+  {
+    "id": 405,
+    "name": "Luxray",
+    "showdown_id": "luxray",
+    "genus": "Gleam Eyes Pokémon",
+    "lean": "neutral",
+    "stage": "evolved",
+    "ratings": {
+      "O": 1,
+      "C": 0,
+      "E": -1,
+      "A": 2,
+      "S": 1
+    },
+    "rating_evidence": {
+      "O": "Luxray's eyes are said to see through anything, the sharp perception its Pokédex entries give the Gleam Eyes Pokémon.",
+      "C": "Luxray's Pokédex entries focus on family and territory rather than routine or planning, landing it near the middle of the Planning scale.",
+      "E": "Luxray keeps mostly to its own pride rather than seeking out company beyond it, the closer-knit habit its Pokédex entries describe.",
+      "A": "Luxray watches over its cubs with real devotion, a protective trait several Pokédex entries give the Gleam Eyes Pokémon.",
+      "S": "Luxray stays a composed, steady hunter, watching over its family and territory with an even temperament."
+    },
+    "personality": "Luxray is the Gleam Eyes Pokémon, known for eyes said to see through nearly anything. It keeps close to its own pride instead of seeking company beyond it, and it watches over its cubs with real devotion. Its temperament stays even and composed, whether it is hunting or simply keeping watch over its family.",
+    "media": [
+      {
+        "title": "Pokémon Diamond and Pearl, Gym Leader Volkner's signature Pokémon",
+        "note": "Volkner, the final Gym Leader of Sinnoh, features a Luxray prominently on his team."
+      }
+    ],
+    "community": "Luxray is a long-running fan favorite for its design and for the family-focused Pokédex stories built around it, and fans still ask for a Mega Evolution someday.",
+    "why": [
+      {
+        "text": "The Gleam Eyes Pokémon watches over its cubs with real devotion, keeping its family close and protected.",
+        "trait": "A",
+        "anchor": "Gleam",
+        "source": "https://pokeapi.co/api/v2/pokemon-species/405/"
+      },
+      {
+        "text": "Luxray's eyes are said to see through nearly anything, giving it a sharp read on its surroundings.",
+        "trait": "O",
+        "anchor": "Luxray",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Luxray_(Pok%C3%A9mon)"
+      },
+      {
+        "text": "Luxray keeps an even, composed temperament whether it is hunting or simply keeping watch over its territory.",
+        "trait": "S",
+        "anchor": "Luxray",
+        "source": "https://bulbapedia.bulbagarden.net/wiki/Luxray_(Pok%C3%A9mon)"
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon-species/405/",
+      "https://bulbapedia.bulbagarden.net/wiki/Luxray_(Pok%C3%A9mon)"
+    ]
+  }
+]
