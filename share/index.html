@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Send a sprite</title>
+<link rel="stylesheet" href="../styles.css">
+<style>
+  .sprite { text-align: center; margin: 24px 0 32px; }
+  .sprite img { width: 200px; height: 200px; object-fit: contain; }
+  .sprite h2 { text-align: center; margin: 8px 0 12px; }
+  .sprite button { width: 100%; }
+  .note { font-size: var(--small); color: var(--muted); text-align: center; min-height: 18px; margin-top: 8px; }
+</style>
+</head>
+<body>
+<main class="wrap">
+  <p class="kicker">Which Pokémon are you?</p>
+  <h1>Send a sprite</h1>
+  <p class="muted">Tap Send. The share sheet opens with the moving gif itself, so pick Messages and it animates in the thread. Save Image on that sheet puts it in Photos.</p>
+  <div id="list"></div>
+</main>
+<footer class="foot wrap">
+  <p>Animated sprites from Pokémon Showdown, upscaled. Pokémon names and artwork are the property of Nintendo, Creatures and Game Freak.</p>
+</footer>
+<script>
+  const sprites = [
+    { name: "Luxray", file: "luxray.gif" },
+    { name: "Noctowl", file: "noctowl.gif" },
+  ];
+  const list = document.getElementById("list");
+  for (const s of sprites) {
+    const box = document.createElement("div");
+    box.className = "sprite";
+    box.innerHTML = '<img src="' + s.file + '" alt="' + s.name + '"><h2>' + s.name + '</h2>' +
+      '<button type="button" class="primary">Send ' + s.name + '</button><div class="note"></div>';
+    const note = box.querySelector(".note");
+    box.querySelector("button").addEventListener("click", async () => {
+      note.textContent = "Getting the gif";
+      try {
+        const blob = await (await fetch(s.file)).blob();
+        const file = new File([blob], s.file, { type: "image/gif" });
+        if (navigator.canShare && navigator.canShare({ files: [file] })) {
+          await navigator.share({ files: [file], title: s.name });
+          note.textContent = "Sent";
+        } else {
+          note.textContent = "This browser cannot share files. Long-press the image and choose Save to Photos.";
+        }
+      } catch (e) {
+        note.textContent = e && e.name === "AbortError" ? "" : "Could not open the share sheet. Long-press the image and choose Save to Photos.";
+      }
+    });
+    list.appendChild(box);
+  }
+</script>
+</body>
+</html>
