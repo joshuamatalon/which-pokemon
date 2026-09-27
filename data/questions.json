@@ -1,0 +1,199 @@
+{
+  "version": 1,
+  "traits": {
+    "O": {"name": "Imagination", "high": "Curious", "low": "Down-to-earth",
+          "high_line": "You like new ideas and want to know how things work.",
+          "low_line": "You trust what works and keep your feet on the ground."},
+    "C": {"name": "Planning", "high": "Planner", "low": "Go-with-the-flow",
+          "high_line": "You like a plan, and you finish what you start.",
+          "low_line": "You adapt fast and enjoy whatever comes up."},
+    "E": {"name": "Social energy", "high": "Outgoing", "low": "Low-key",
+          "high_line": "You get energy from people and like being in the mix.",
+          "low_line": "You recharge in calm places and notice what others miss."},
+    "A": {"name": "Getting along", "high": "Team player", "low": "Strong-willed",
+          "high_line": "You look out for others and help a group get along.",
+          "low_line": "You say what you think and stand up for it."},
+    "S": {"name": "Steadiness", "high": "Steady", "low": "Sensitive",
+          "high_line": "You stay calm when plans change.",
+          "low_line": "You feel things deeply and notice changes early."}
+  },
+  "takers": [
+    {"key": "alex", "name": "Alex", "lean": null, "stage_target": "evolved", "stage_weight": 0.08},
+    {"key": "melissa", "name": "Melissa", "lean": null, "stage_target": "evolved", "stage_weight": 0.08},
+    {"key": "josh", "name": "Josh", "lean": null, "stage_target": "evolved", "stage_weight": 0.08},
+    {"key": "carolyn", "name": "Carolyn", "lean": null, "stage_target": "mature", "stage_weight": 0.15},
+    {"key": "john", "name": "John", "lean": null, "stage_target": "mature", "stage_weight": 0.15},
+    {"key": "andrew", "name": "Andrew", "lean": null, "stage_target": "evolved", "stage_weight": 0.08},
+    {"key": "oliver", "name": "Oliver", "lean": null, "stage_target": "young", "stage_weight": 0.08},
+    {"key": "todd", "name": "Todd", "lean": null, "stage_target": "young", "stage_weight": 0.15},
+    {"key": "milo", "name": "Milo", "lean": null, "stage_target": "young", "stage_weight": 0.15},
+    {"key": "guest", "name": "Someone else", "lean": null, "stage_target": "evolved", "stage_weight": 0}
+  ],
+  "items": [
+    {
+      "id": "q01", "trait": "O", "facet": "Intellectual Curiosity", "flavour": false,
+      "source_instrument": "IPIP", "source_item": "Am full of ideas.", "source_key": "+",
+      "stem": "You find a strange machine in the attic. What do you do?",
+      "answers": [
+        {"text": "I look up how something works and read.", "level": 3, "echo": "you'd look up how something works and read"},
+        {"text": "I pick a favorite thing and stick with it.", "level": -3, "echo": "you'd pick a favorite thing and stick with it"},
+        {"text": "I try a new small thing for fun.", "level": 1, "echo": "you'd try a new small thing for fun"},
+        {"text": "I watch something easy and familiar.", "level": -1, "echo": "you'd watch something easy and familiar"}
+      ]
+    },
+    {
+      "id": "q02", "trait": "C", "facet": "Organization", "flavour": false,
+      "source_instrument": "IPIP", "source_item": "Like order.", "source_key": "+",
+      "stem": "You are going on a trip tomorrow. What do you do tonight?",
+      "answers": [
+        {"text": "I pack some things and finish in the morning.", "level": -1, "echo": "you'd pack some things and finish in the morning"},
+        {"text": "I pack my bag and check it twice.", "level": 3, "echo": "you'd pack your bag and check it twice"},
+        {"text": "I grab what I need on the way out.", "level": -3, "echo": "you'd grab what you need on the way out"},
+        {"text": "I make a short list and pack most of it.", "level": 1, "echo": "you'd make a short list and pack most of it"}
+      ]
+    },
+    {
+      "id": "q03", "trait": "E", "facet": "Sociability", "flavour": false,
+      "source_instrument": "IPIP", "source_item": "Feel comfortable around people.", "source_key": "+",
+      "stem": "You arrive at a party where you know one person. What do you do?",
+      "answers": [
+        {"text": "I chat with a few people I meet.", "level": 1, "echo": "you'd chat with a few people you meet"},
+        {"text": "I find a quiet spot and watch for a while.", "level": -3, "echo": "you'd find a quiet spot and watch for a while"},
+        {"text": "I introduce myself to new people right away.", "level": 3, "echo": "you'd introduce yourself to new people right away"},
+        {"text": "I stay near the one person I know.", "level": -1, "echo": "you'd stay near the one person you know"}
+      ]
+    },
+    {
+      "id": "q04", "trait": "A", "facet": "Compassion", "flavour": false,
+      "source_instrument": "IPIP", "source_item": "Sympathize with others' feelings.", "source_key": "+",
+      "stem": "You notice a puppy wandering alone near the park. What do you do?",
+      "answers": [
+        {"text": "I check on it and ask around close by.", "level": 1, "echo": "you'd check on it and ask around close by"},
+        {"text": "I watch for a moment then keep walking.", "level": -1, "echo": "you'd watch for a moment then keep walking"},
+        {"text": "I figure an adult nearby will handle it.", "level": -3, "echo": "you'd figure an adult nearby would handle it"},
+        {"text": "I walk over and help it find its way home.", "level": 3, "echo": "you'd walk over and help it find its way home"}
+      ]
+    },
+    {
+      "id": "q05", "trait": "S", "facet": "Vulnerability", "flavour": false,
+      "source_instrument": "IPIP", "source_item": "Remain calm under pressure.", "source_key": "-",
+      "stem": "You are running late to meet a friend for a walk. What do you do?",
+      "answers": [
+        {"text": "I take a breath and walk at my normal pace.", "level": 3, "echo": "you'd take a breath and walk at your normal pace"},
+        {"text": "I pick up my pace a little and go.", "level": 1, "echo": "you'd pick up your pace a little and go"},
+        {"text": "I rush around and grab my things fast.", "level": -1, "echo": "you'd rush around and grab your things fast"},
+        {"text": "I feel my heart race and hurry the whole way.", "level": -3, "echo": "you'd feel your heart race and hurry the whole way"}
+      ]
+    },
+    {
+      "id": "q06", "trait": "O", "facet": "Aesthetic Sensitivity", "flavour": false,
+      "source_instrument": "IPIP", "source_item": "Believe in the importance of art.", "source_key": "+",
+      "stem": "You are on a walk and pass a beautiful garden. What do you do?",
+      "answers": [
+        {"text": "I keep my pace and focus on the path.", "level": -3, "echo": "you'd keep your pace and focus on the path"},
+        {"text": "I stop to take in the colors and shapes.", "level": 3, "echo": "you'd stop to take in the colors and shapes"},
+        {"text": "I notice it looks nice as I walk past.", "level": 1, "echo": "you'd notice it looks nice as you walk past"},
+        {"text": "I glance at it and keep walking along.", "level": -1, "echo": "you'd glance at it and keep walking along"}
+      ]
+    },
+    {
+      "id": "q07", "trait": "C", "facet": "Productiveness", "flavour": false,
+      "source_instrument": "IPIP", "source_item": "Get things done quickly.", "source_key": "+",
+      "stem": "Your group has a big project to finish this week. What do you do first?",
+      "answers": [
+        {"text": "I look it over and start a bit later.", "level": -1, "echo": "you'd look it over and start a bit later"},
+        {"text": "I start soon and steadily handle my part.", "level": 1, "echo": "you'd start soon and steadily handle your part"},
+        {"text": "I start right away and keep going until it's done.", "level": 3, "echo": "you'd start right away and keep going until it's done"},
+        {"text": "I wait and see how the week unfolds first.", "level": -3, "echo": "you'd wait and see how the week unfolds first"}
+      ]
+    },
+    {
+      "id": "q08", "trait": "E", "facet": "Assertiveness", "flavour": false,
+      "source_instrument": "IPIP", "source_item": "Take charge.", "source_key": "+",
+      "stem": "Your group is deciding which game to play together. What do you do?",
+      "answers": [
+        {"text": "I offer my pick early in the talk.", "level": 1, "echo": "you'd offer your pick early in the talk"},
+        {"text": "I share my choice if someone asks me.", "level": -1, "echo": "you'd share your choice if someone asks you"},
+        {"text": "I go along with whatever the group picks.", "level": -3, "echo": "you'd go along with whatever the group picks"},
+        {"text": "I suggest a game and get things started.", "level": 3, "echo": "you'd suggest a game and get things started"}
+      ]
+    },
+    {
+      "id": "q09", "trait": "A", "facet": "Respectfulness", "flavour": false,
+      "source_instrument": "IPIP", "source_item": "Make people feel at ease.", "source_key": "+",
+      "stem": "You and a friend disagree about how to cook a dish. What do you do?",
+      "answers": [
+        {"text": "I listen to their idea and we blend plans.", "level": 3, "echo": "you'd listen to their idea and blend your plans"},
+        {"text": "I hear them out and offer to compromise.", "level": 1, "echo": "you'd hear them out and offer to compromise"},
+        {"text": "I explain my idea and ask what they think.", "level": -1, "echo": "you'd explain your idea and ask what they think"},
+        {"text": "I stick with my plan and explain why.", "level": -3, "echo": "you'd stick with your plan and explain why"}
+      ]
+    },
+    {
+      "id": "q10", "trait": "S", "facet": "Anxiety", "flavour": false,
+      "source_instrument": "IPIP", "source_item": "Get stressed out easily.", "source_key": "+",
+      "stem": "Your plans for the afternoon suddenly change. What do you do?",
+      "answers": [
+        {"text": "I feel a rush of nerves and my thoughts race.", "level": -3, "echo": "you'd feel a rush of nerves and your thoughts race"},
+        {"text": "I take it in stride and adjust my plan.", "level": 3, "echo": "you'd take it in stride and adjust your plan"},
+        {"text": "I feel a jolt and take a moment to reset.", "level": -1, "echo": "you'd feel a jolt and take a moment to reset"},
+        {"text": "I pause for a second then go with it.", "level": 1, "echo": "you'd pause for a second then go with it"}
+      ]
+    },
+    {
+      "id": "q11", "trait": "O", "facet": "Creative Imagination", "flavour": false,
+      "source_instrument": "IPIP", "source_item": "Have a vivid imagination.", "source_key": "+",
+      "stem": "Your family visits a brand new place today. What do you do?",
+      "answers": [
+        {"text": "I try a new idea just to see what happens.", "level": 1, "echo": "you'd try a new idea just to see what happens"},
+        {"text": "I do something I already know I enjoy.", "level": -1, "echo": "you'd do something you already know you enjoy"},
+        {"text": "I imagine a new game and start making it up.", "level": 3, "echo": "you'd imagine a new game and start making it up"},
+        {"text": "I pick a favorite spot and stay there.", "level": -3, "echo": "you'd pick a favorite spot and stay there"}
+      ]
+    },
+    {
+      "id": "q12", "trait": "C", "facet": "Responsibility", "flavour": false,
+      "source_instrument": "IPIP", "source_item": "Keep my promises.", "source_key": "+",
+      "stem": "A friend lends you a board game for the week. What do you do?",
+      "answers": [
+        {"text": "I play with it and return it when I remember.", "level": -1, "echo": "you'd play with it and return it when you remember"},
+        {"text": "I toss it in my bag until I need it.", "level": -3, "echo": "you'd toss it in your bag until you need it"},
+        {"text": "I take good care of it and return it soon.", "level": 1, "echo": "you'd take good care of it and return it soon"},
+        {"text": "I keep it safe and return it right on time.", "level": 3, "echo": "you'd keep it safe and return it right on time"}
+      ]
+    },
+    {
+      "id": "q13", "trait": "E", "facet": "Energy Level", "flavour": false,
+      "source_instrument": "IPIP", "source_item": "Am always busy.", "source_key": "+",
+      "stem": "You get home earlier than expected today. What do you do?",
+      "answers": [
+        {"text": "I go for a run or play something active.", "level": 3, "echo": "you'd go for a run or play something active"},
+        {"text": "I sit outside and enjoy the quiet air.", "level": -1, "echo": "you'd sit outside and enjoy the quiet air"},
+        {"text": "I go for a walk or tidy up a bit.", "level": 1, "echo": "you'd go for a walk or tidy up a bit"},
+        {"text": "I curl up with a book or a show.", "level": -3, "echo": "you'd curl up with a book or a show"}
+      ]
+    },
+    {
+      "id": "q14", "trait": "A", "facet": "Trust", "flavour": false,
+      "source_instrument": "IPIP", "source_item": "Believe that others have good intentions.", "source_key": "+",
+      "stem": "Someone new offers to help with your group project. What do you do?",
+      "answers": [
+        {"text": "I say yes and give them something small to do.", "level": 1, "echo": "you'd say yes and give them something small to do"},
+        {"text": "I welcome the help and hand over a task.", "level": 3, "echo": "you'd welcome the help and hand over a task"},
+        {"text": "I say thanks and stick to the plan myself.", "level": -3, "echo": "you'd say thanks and stick to the plan yourself"},
+        {"text": "I say thanks and keep an eye on the plan.", "level": -1, "echo": "you'd say thanks and keep an eye on the plan"}
+      ]
+    },
+    {
+      "id": "q15", "trait": "S", "facet": "Emotional Volatility", "flavour": false,
+      "source_instrument": "IPIP", "source_item": "Get upset easily.", "source_key": "+",
+      "stem": "Your board game gets knocked over and pieces scatter. What do you do?",
+      "answers": [
+        {"text": "I shrug and start putting the pieces back.", "level": 1, "echo": "you'd shrug and start putting the pieces back"},
+        {"text": "I laugh it off and help set things up again.", "level": 3, "echo": "you'd laugh it off and help set things up again"},
+        {"text": "I feel a rush of feelings before I calm down.", "level": -3, "echo": "you'd feel a rush of feelings before you calm down"},
+        {"text": "I feel a flash of frustration then reset it.", "level": -1, "echo": "you'd feel a flash of frustration then reset it"}
+      ]
+    }
+  ]
+}

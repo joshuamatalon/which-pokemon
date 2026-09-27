@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Which Pokémon are you?</title>
+<meta name="description" content="A short, positive personality quiz for the family. Answer 15 quick questions and find your Pokémon match.">
+<meta property="og:title" content="Which Pokémon are you?">
+<meta property="og:description" content="A short, positive personality quiz for the family. Answer 15 quick questions and find your Pokémon match.">
+<meta property="og:image" content="https://joshuamatalon.github.io/which-pokemon/img/og.png">
+<meta property="og:url" content="https://joshuamatalon.github.io/which-pokemon/">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main class="wrap">
+
+  <section id="screen-names" class="screen">
+    <p class="kicker">A quick, positive quiz</p>
+    <h1>Which Pokémon are you?</h1>
+    <p class="muted">15 short questions. Pick who is taking it.</p>
+    <div id="names-grid" class="names-grid"></div>
+    <details class="how-it-works">
+      <summary>How it works</summary>
+      <p class="small muted">The quiz is built on the Big Five, the trait model most personality research uses. The five traits here are Imagination, Planning, Social energy, Getting along and Steadiness. There are 15 questions. Each trait gets three of them. Your answers place you on all five traits, and your Pokémon is the one whose trait profile sits nearest to yours. It is a game drawn from that research and makes no claim to measure you. The sources are in <a href="https://github.com/joshuamatalon/which-pokemon/blob/main/spec/RESEARCH-PERSONALITY.md" target="_blank" rel="noopener">the research note</a>.</p>
+    </details>
+  </section>
+
+  <section id="screen-quiz" class="screen">
+    <div id="progress" class="progress"></div>
+    <div id="stem" class="stem"></div>
+    <div id="answers" class="answers"></div>
+    <div class="quiz-back">
+      <button id="quiz-back" type="button">Back</button>
+    </div>
+  </section>
+
+  <section id="screen-result" class="screen">
+    <div class="result-art">
+      <img id="art-img" class="art" src="" alt="">
+      <br>
+      <img id="ani-img" class="ani" src="" alt="">
+    </div>
+    <h2 id="result-name" class="result-name"></h2>
+    <p id="result-genus" class="result-genus"></p>
+    <div class="reasoning">
+      <p id="line-a"></p>
+      <ul id="lines-b" class="linesB"></ul>
+      <p id="line-c"></p>
+    </div>
+    <div id="bars" class="bars"></div>
+    <div class="result-actions">
+      <button id="copy-link" type="button">Copy link</button>
+      <div id="copy-status" class="copy-status"></div>
+      <button id="take-again" type="button" class="primary">Take it again</button>
+    </div>
+  </section>
+
+</main>
+<footer class="foot wrap">
+  <p>Fan project, no affiliation with Nintendo, Creatures or Game Freak. Pokémon names and artwork are their property.</p>
+  <p>Animated sprites from Pokémon Showdown. Species data from PokéAPI.</p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>
