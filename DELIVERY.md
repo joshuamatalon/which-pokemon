@@ -233,3 +233,31 @@ consistent with A8's 0-fallback report).
 - Did not clean up the 30 extra (pre-screen) images left in `web/img/art/` and `web/img/ani/` from the
   160-row pool era — they are unused but harmless (179 files on disk against 149 pool members; not linked
   from any shipped data).
+
+## 2026-09-27: stream-3 fixes two panel advisories
+
+`spec/PANEL-VERDICT.md` section 5 found an untokenized colour (`.names-grid button` and `.answers button`
+used a literal `#fff` instead of a design token) and a short tap target (the `How it works` `<summary>`
+measured 350x19px against the site's own 44px `button` minimum). Both fixed in `web/styles.css`:
+
+- Added `--card: #FFFFFF;` to `:root` with a comment ("a card surface on paper"), and changed
+  `.names-grid button` and `.answers button` to `background: var(--card)` in place of the literal `#fff`.
+- Added `min-height: 44px; display: flex; align-items: center;` to `.how-it-works summary`, so the whole
+  row now meets the 44px tap-target minimum without changing its text size.
+
+No other lines touched. Redeployed the same way as the first pass: pushed `main`, then
+`git subtree split --prefix web -b gh-pages -f` (re-cut via a temp branch since the destination branch was
+checked out nowhere but still needed a force-update) and `git push origin gh-pages --force`. One deploy
+attempt used.
+
+Confirmed live after a few minutes' Pages cache delay (polled `curl` every 30s):
+
+```
+--card: #FFFFFF; /* a card surface on paper */
+.names-grid button { min-height: 56px; font-size: var(--body); background: var(--card); }
+.answers button { text-align: left; background: var(--card); padding: 14px 16px; line-height: 1.4; }
+.how-it-works summary { cursor: pointer; font-size: var(--small); color: var(--muted); min-height: 44px; display: flex; align-items: center; }
+```
+
+Screenshot of the names screen at 390x844 with the toggle open: `DELIVERY-shots/names-open.png`
+(`DELIVERY-shots/names_open_shot.py`, live URL, headless Chromium).
