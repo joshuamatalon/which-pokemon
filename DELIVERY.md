@@ -261,3 +261,12 @@ Confirmed live after a few minutes' Pages cache delay (polled `curl` every 30s):
 
 Screenshot of the names screen at 390x844 with the toggle open: `DELIVERY-shots/names-open.png`
 (`DELIVERY-shots/names_open_shot.py`, live URL, headless Chromium).
+
+## 2026-09-27 16:15, lead hotfix: items q01 and q11 answers
+
+Josh read the live quiz and found that the attic-machine stem (q01) had answers about reading and
+watching TV. Cause: the second stream replaced three stems (q01, q11, q13) and kept the old answers, and
+the panel did not catch it. The lead rewrote the eight answers of q01 and q11 to respond to their stems,
+kept every level and display position, updated the echoes, and left q13 as it was because its answers fit
+its new stem. scripts/validate-questions.mjs passed (FK grades q01 1.32, q11 1.78, position counts 4/5/3/3,
+13 non-monotone). test/check.py --skip-a18 gave 18 PASS, 0 FAIL after the edit.
